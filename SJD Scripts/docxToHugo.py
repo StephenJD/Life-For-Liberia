@@ -635,7 +635,7 @@ def getDocTitle(page):
   if len(summary) == 0:
     summary = line[:50]
   else:
-    summary = '  <br>'.join(summary) 
+    summary = '\n\n<br>'.join(summary) 
   #summary = cleanFrontMatterString(summary)    
   summary = '"' + summary + '"'
   return title, summary
