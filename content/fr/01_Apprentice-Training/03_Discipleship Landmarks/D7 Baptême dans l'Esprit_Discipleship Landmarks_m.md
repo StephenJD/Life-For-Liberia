@@ -2,7 +2,13 @@
 title: D7 Baptême dans l'Esprit
 type: document
 translationKey: D7 Baptism in the Spirit
-summary: "John 3:3-6 Vous devez être né de nouveau  <br>Luc 11:9-13 Demandez jusqu'à ce que vous receviez  <br>Actes 19:5-6 Langues et prophétie  <br>Romains 15:13 L'Esprit donne de la joie à croire"
+summary: "John 3:3-6 Vous devez être né de nouveau
+
+<br>Luc 11:9-13 Demandez jusqu'à ce que vous receviez
+
+<br>Actes 19:5-6 Langues et prophétie
+
+<br>Romains 15:13 L'Esprit donne de la joie à croire"
 weight: 9
 ---
 # D7 Baptême dans l'Esprit

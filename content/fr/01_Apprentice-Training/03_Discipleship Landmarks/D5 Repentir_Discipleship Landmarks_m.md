@@ -2,7 +2,9 @@
 title: D5 Repentir
 type: document
 translationKey: D5 Repentance
-summary: "Marque 1:15 Le temps est venu  <br>Luc 24:47 La repentance pour le pardon des péchés"
+summary: "Marque 1:15 Le temps est venu
+
+<br>Luc 24:47 La repentance pour le pardon des péchés"
 weight: 7
 ---
 # D5 Repentir

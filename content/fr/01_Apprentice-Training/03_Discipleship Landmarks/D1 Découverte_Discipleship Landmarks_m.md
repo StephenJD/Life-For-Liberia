@@ -2,7 +2,13 @@
 title: D1 Découverte
 type: document
 translationKey: D1 Discovery
-summary: "Actes 26:18 Des ténèbres à la lumière  <br>Matthieu 11:27 Personne ne connaît le fils...  <br>John 6:45 Tous ceux qui ont entendu le Père  <br>John 6:63 L'Esprit donne la vie"
+summary: "Actes 26:18 Des ténèbres à la lumière
+
+<br>Matthieu 11:27 Personne ne connaît le fils...
+
+<br>John 6:45 Tous ceux qui ont entendu le Père
+
+<br>John 6:63 L'Esprit donne la vie"
 weight: 3
 ---
 # D1 Découverte

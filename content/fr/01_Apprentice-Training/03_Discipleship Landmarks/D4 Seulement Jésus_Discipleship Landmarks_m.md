@@ -2,7 +2,9 @@
 title: D4 Seulement Jésus
 type: document
 translationKey: D4 Only Jesus
-summary: "Luc 9:57-62 Les renards ont des trous  <br>Matthieu 10:37-39 Quiconque aime son père..."
+summary: "Luc 9:57-62 Les renards ont des trous
+
+<br>Matthieu 10:37-39 Quiconque aime son père..."
 weight: 6
 ---
 # D4 Seulement Jésus

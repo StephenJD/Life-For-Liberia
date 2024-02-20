@@ -2,7 +2,11 @@
 title: D6 Baptême
 type: document
 translationKey: D6 Baptism
-summary: "Luc 24:7 Crucifié et ressuscité  <br>Matthieu 28:19 Allez faire des disciples  <br>Romains 6:3-8 Enterré avec lui par le baptême"
+summary: "Luc 24:7 Crucifié et ressuscité
+
+<br>Matthieu 28:19 Allez faire des disciples
+
+<br>Romains 6:3-8 Enterré avec lui par le baptême"
 weight: 8
 ---
 # D6 Baptême

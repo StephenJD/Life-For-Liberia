@@ -2,7 +2,15 @@
 title: D9 Prière
 type: document
 translationKey: D9 Prayer
-summary: "Matthieu 6:7-8 Pas comme les païens avec beaucoup de mots  <br>Matthieu 6:31-33 Ne vous inquiétez pas comme les païens  <br>John 11:41-42 Je sais que tu m'écoutes toujours.  <br>Matthieu 6:9-10, 26:39 Priez pour que la volonté de Dieu soit faite  <br>John 15:16 Priez pour la fécondité"
+summary: "Matthieu 6:7-8 Pas comme les païens avec beaucoup de mots
+
+<br>Matthieu 6:31-33 Ne vous inquiétez pas comme les païens
+
+<br>John 11:41-42 Je sais que tu m'écoutes toujours.
+
+<br>Matthieu 6:9-10, 26:39 Priez pour que la volonté de Dieu soit faite
+
+<br>John 15:16 Priez pour la fécondité"
 weight: 11
 ---
 # D9 Prière

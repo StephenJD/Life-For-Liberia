@@ -2,7 +2,11 @@
 title: D2 Groupes de croissance
 type: document
 translationKey: D2 Growth Groups
-summary: "Matthieu 18:20 Où deux ou trois se rassemblent  <br>John 16:13 L'Esprit de vérité vous guidera  <br>Luc 6:46-49 Constructeurs sages et insensés"
+summary: "Matthieu 18:20 Où deux ou trois se rassemblent
+
+<br>John 16:13 L'Esprit de vérité vous guidera
+
+<br>Luc 6:46-49 Constructeurs sages et insensés"
 weight: 4
 ---
 # D2 Groupes de croissance

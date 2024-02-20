@@ -2,7 +2,13 @@
 title: D12 Communautés missionnaires
 type: document
 translationKey: D12 Missional Communities
-summary: "Matthieu 5:13-16 Sel et lumière  <br>Luc 5:29-32 Dîner de Levi's  <br>Luc 18:15-17 Que les petits enfants viennent  <br>Luc 22:14-20 La Cène du Seigneur"
+summary: "Matthieu 5:13-16 Sel et lumière
+
+<br>Luc 5:29-32 Dîner de Levi's
+
+<br>Luc 18:15-17 Que les petits enfants viennent
+
+<br>Luc 22:14-20 La Cène du Seigneur"
 weight: 14
 ---
 # D12 Communautés missionnaires

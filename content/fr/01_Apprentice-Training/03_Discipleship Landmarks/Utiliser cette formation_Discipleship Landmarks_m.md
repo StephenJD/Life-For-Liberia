@@ -2,7 +2,19 @@
 title: Utiliser cette formation
 type: document
 translationKey: Using this Training
-summary: "Obéissance personnelle  <br>Aucun expert  <br>Groupes de croissance pour le discipulat  <br>N'entraînez PAS les gens à être désobéissants!  <br>Raconte-moi la même histoire  <br>Un exemple de séance de formation  <br>Progresser dans la formation"
+summary: "Obéissance personnelle
+
+<br>Aucun expert
+
+<br>Groupes de croissance pour le discipulat
+
+<br>N'entraînez PAS les gens à être désobéissants!
+
+<br>Raconte-moi la même histoire
+
+<br>Un exemple de séance de formation
+
+<br>Progresser dans la formation"
 weight: 2
 ---
 # Utiliser cette formation

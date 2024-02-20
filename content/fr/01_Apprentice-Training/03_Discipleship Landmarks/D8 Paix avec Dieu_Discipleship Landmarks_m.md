@@ -2,7 +2,13 @@
 title: D8 Paix avec Dieu
 type: document
 translationKey: D8 Peace with God
-summary: "John 14:1-2 Ne laissez pas vos cœurs être troublés  <br>John 14:6 Le chemin, la vérité et la vie  <br>John 14:19-20 Tu es en moi et je suis en toi  <br>John 14:27 Ma paix je te donne"
+summary: "John 14:1-2 Ne laissez pas vos cœurs être troublés
+
+<br>John 14:6 Le chemin, la vérité et la vie
+
+<br>John 14:19-20 Tu es en moi et je suis en toi
+
+<br>John 14:27 Ma paix je te donne"
 weight: 10
 ---
 # D8 Paix avec Dieu

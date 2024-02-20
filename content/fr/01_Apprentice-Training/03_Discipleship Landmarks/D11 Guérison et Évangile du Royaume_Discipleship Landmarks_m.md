@@ -2,7 +2,9 @@
 title: D11 Guérison et Évangile du Royaume
 type: document
 translationKey: D11 Healing and the Gospel of the Kingdom
-summary: "Luc 4:18-19 Bonne nouvelle aux pauvres  <br>Luc 9:1,6 Guérir les malades"
+summary: "Luc 4:18-19 Bonne nouvelle aux pauvres
+
+<br>Luc 9:1,6 Guérir les malades"
 weight: 13
 ---
 # D11 Guérison et Évangile du Royaume
