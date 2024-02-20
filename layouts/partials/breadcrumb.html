@@ -1,0 +1,21 @@
+{{ $show_mobile_breadcrumb := site.Params.breadcrumb.show_mobile_breadcrumb | default false }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "showclass" "d-none d-md-flex" }}
+{{ if $show_mobile_breadcrumb }}
+	{{ $scratch.Set "showclass" "d-md-flex" }}
+{{ end }}
+{{ $show_active_breadcrumb := site.Params.breadcrumb.show_active | default true }}
+
+{{ if not .IsHome }}
+
+  <nav class={{ $scratch.Get "showclass" }} aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {{ partial "breadcrumb_helper" . }}
+	  {{ if $show_active_breadcrumb }}
+		  <li class="breadcrumb-item active" aria-current="page">
+			{{ .LinkTitle | emojify }}
+		  </li>
+	  {{ end }}
+    </ol>
+  </nav>
+{{ end }}

@@ -1,0 +1,47 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+# This is the default-language menu
+# Specific values needing translation must be provided in languages.toml
+	
+[[main]]
+  name = "Apprentice-Training"
+  url = "01_apprentice-training" # Must be all lower-case. The correct language folder will be used
+  weight = 10
+  
+[[main]]
+  name = "Study"
+  #url = "#hero-teaching/" # link to home-page section rather than another page
+  url = "02_teaching" # Must be all lower-case. The correct language folder will be used
+  weight = 20
+ 
+[[main]]
+  name = "Blog"
+  url = "03_blog"
+  weight = 30
+  
+[[main]]
+  name = "Bio-Water Filters"
+  url = "04_bio-water-filters"
+  weight = 40 
+  
+[[main]]
+  name = "Kpelle Resources"
+  url = "kpelle-resources"
+  weight = 50
+
+[[main]]
+  name = "Contact Us"
+  url = "#contact"
+  weight = 60
+  
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 70
+
+[[main]]
+  name = "Site-Map"
+  url = "site-map"
+  weight = 100

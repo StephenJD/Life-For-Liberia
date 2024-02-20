@@ -1,0 +1,22 @@
+---
+title: 2019 Ministry to Guinea
+type: document
+translationKey: 2019 Ministry to Guinea
+summary: "The Lord seems to be opening a new door of ministry for us – taking us over the border into neighbouring Guinea. Our mission base in the remote village of Ganglata is quite near the border with Guinea and people from Guinea come over the border (a river) to seek medical care in the Ganglata clinic. For several years we have been praying about taking the Gospel there, but the great need in the immediate vicinity has occupied us."
+weight: 11
+---
+# 2019 Ministry to Guinea
+
+The Lord seems to be opening a new door of ministry for us – taking us over the border into neighbouring Guinea. Our mission base in the remote village of Ganglata is quite near the border with Guinea and people from Guinea come over the border (a river) to seek medical care in the Ganglata clinic. For several years we have been praying about taking the Gospel there, but the great need in the immediate vicinity has occupied us.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/a846cf9ee49e3a6022190b44c04adb61.jpeg)However, following last year’s visit and through the faithful labours of the leaders there, the whole area has been deeply impacted. Over the New Year they held a prayer vigil in Ganglata to which over 200 people came and the following day many were baptised including chiefs and school teachers.
+
+Over the following days two of our pastors, George and Robert, walked over the border mountains into the nearest significant settlement – a small town – and spoke with the chiefs there. They were very warmly welcomed and were very eager to hear about Jesus. There is one school, one clinic and no churches in the entire large region. It is a forgotten corner of Guinea. They speak the same tribal language as in Ganglata so communication was not a problem.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/e4a885eacbb27785cd9db5a80cd62f46.jpeg)We have been working across our churches in Liberia to develop church-planting and discipling models that work well with very poor and uneducated people in small communities. This work now seems all the more relevant and urgent in view of the needs and opportunities in Guinea.
+
+It is very hard for us to imagine what it is like in a community where few if any can read. One of the biggest impacts of learning to read is enabling people to resist coercion and deceit. Those who cannot read usually simply accept whatever is said to them by anyone who speaks with authority. This leads to terrible injustice and mistreatment of people. The same happens in churches. Those who cannot read do not believe they can learn anything for themselves and simply accept whatever they are told – which is often terribly legalistic and bears little resemblance to the Gospel.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/0da35bce0219750c4a52d3c79d39fdca.jpeg)Through story-telling and getting them to act out bible-stories they can remember accurately what the scriptures say. And as they encounter Jesus for themselves and are filled with the Holy Spirit they can learn to hear Jesus themselves and grow in their faith and obedience to God. Groups like these have been having a powerful impact in rural India and in Muslim countries where girls and women are deliberately prohibited from schooling.
+
+We now have government licences to church plant in Sierra Leone and Guinea, and already have new groups planted in two Sierra Leonean cities. Church planting into the most remote and unreached areas of Guinea should start in the next few months.

@@ -1,0 +1,30 @@
+---
+title: 2018 Voyage ministériel
+type: document
+translationKey: 2018 Ministry Trip
+summary: "Notre voyage au Libéria a été encore une fois incroyable. Andy, Chris et moi avons passé 10 jours pour atteindre de nombreuses communautés avec la guérison et l'Évangile du Royaume. Nous avons passé trois jours complets dans le comté de Lofa, basé dans une petite ville (village en fait) appelée Ganglata. Nous avons été accueillis par les chefs et les habitants de la ville et avons renoué des amitiés avec ceux que nous avions rencontrés lors de voyages précédents. Nous avons été rejoints par plusieurs Libériens de quatre de nos églises de Monrovia et un bon nombre de dirigeants des églises implantées à Lofa depuis notre première visite. 4 il y a des années."
+weight: 9
+---
+# 2018 Voyage ministériel
+
+Notre voyage au Libéria a été encore une fois incroyable. Andy, Chris et moi avons passé 10 jours pour atteindre de nombreuses communautés avec la guérison et l'Évangile du Royaume. Nous avons passé trois jours complets dans le comté de Lofa, basé dans une petite ville (village en fait) appelée Ganglata. Nous avons été accueillis par les chefs et les habitants de la ville et avons renoué des amitiés avec ceux que nous avions rencontrés lors de voyages précédents. Nous avons été rejoints par plusieurs Libériens de quatre de nos églises de Monrovia et un bon nombre de dirigeants des églises implantées à Lofa depuis notre première visite. 4 il y a des années.
+
+J'ai également suivi trois matinées de formation en leadership sur l'Évangile du Royaume et le baptême. Un certain nombre de pasteurs présents ont été profondément touchés et ont réalisé que beaucoup de choses qui leur avaient été racontées n'étaient pas bibliques. En particulier, l'un des problèmes que nous avons cherché à résoudre était la pratique consistant à retarder le baptême des nouveaux croyants jusqu'à la fin d'une période d'instruction prolongée, ce qui faisait que de nombreux croyants ne se faisaient pas baptiser, même des années après être devenus croyants.
+
+L’impact a été à la fois immédiat et durable. 41 des croyants ont été baptisés lors de notre visite, et beaucoup d’entre eux sont devenus croyants lors de notre sensibilisation. Et depuis lors, j’ai reçu de nombreux rapports faisant état d’autres baptêmes à mesure que l’évangélisation se poursuit.
+
+L'histoire du cotonnier s'est poursuivie cette année avec un autre miracle. Vous vous souvenez peut-être que l'année dernière, juste avant notre voyage, ce grand symbole du culte ancestral avait été mystérieusement brûlé dans la nuit. Eh bien, lorsque nous sommes arrivés cette année, nous avons trouvé l'arbre allongé sur le sol. Un mystérieux étranger était entré dans le village un après-midi avec une tronçonneuse et avait abattu l'arbre. Comment cela a été accompli, personne ne le sait. L'arbre est plus que 10 pieds de diamètre là où il a été coupé et reposait sur d'énormes racines de contrefort. De plus, quiconque endommageait un cotonnier ancestral se serait attendu à ce que tout le village vienne le tuer ! Dieu semble envoyer des messages très forts à cette communauté selon lesquels quelqu'un d'autre est désormais aux commandes.!
+
+![Cotton tree 4.jpg](/media/03_Blog/2018-Ministry-Trip/Cotton-tree-4.jpeg)
+
+Encore une fois, c'était merveilleux de voir des gens se réjouir de la guérison physique et de voir d'autres guéris alors qu'ils priaient pour eux. Mais il y a eu aussi des « échecs » affligeants. Nous avons prié pour Evelyn qui était paralysée de la taille aux pieds sans aucune sensation dans les jambes ou les pieds. Nous avons essayé de la remettre debout, mais c'était impossible. Ses jambes étaient comme celles d’un homme aux pots de fleurs – complètement molles et incapables de la soutenir. Elle voulait se faire baptiser, alors son oncle l'a portée jusqu'à la rivière et l'a baptisée. Immédiatement après, elle a découvert qu'elle pouvait sentir ses jambes et les soulever. En quelques jours, elle pouvait se tenir debout et marcher en s'accrochant à un support. Nous prions pour sa guérison complète.
+
+![Evelyn baptism.JPG](/media/03_Blog/2018-Ministry-Trip/Evelyn-baptism.jpeg)
+
+Un soir, j'ai enseigné le chant dans l'Esprit et plusieurs personnes ont été profondément touchées par Dieu et ont trouvé une belle libération dans le Saint-Esprit. D’autres ont été stimulés dans leur désir de connaître Dieu plus profondément.
+
+Depuis notre visite, les chefs et l'instituteur sont devenus des membres engagés de l'Église et les croyants ont porté l'Évangile dans de nombreux autres villages et villes de la région. Je dois dire que notre séjour au Libéria a eu un grand impact sur la façon dont je lis les Écritures. Je raconte très souvent ce que je lis aux personnes que j'ai rencontrées dans ces villages et à la façon dont l'Évangile transforme la vie des individus et des communautés entières.
+
+Tout au long du voyage, chacun de nous a eu de nombreuses occasions de poser des actes de foi, de grandir dans sa connaissance et son expérience de Dieu, de donner l'amour de Dieu en écoutant les problèmes d'une personne, en prononçant des paroles d'encouragement et en accomplissant de petites actions. actes de bonté.
+
+Un de nos pasteurs, Robert, vient de créer notre quatrième école. Robert était le pasteur dont la maison, le commerce, l'église et l'école ont été détruits au bulldozer par le gouvernement il y a deux ans. Il est étonnant de voir comment ces pasteurs et ces enseignants consacrent le reste de leurs maigres ressources à l’éducation des enfants pauvres. Bien que nous ne considérions pas l'éducation comme notre « mission » au Libéria, avec une proportion si élevée d'enfants dans la nation, il est clairement important d'aider à établir les valeurs divines et d'aider ces enfants à rencontrer Jésus par eux-mêmes.

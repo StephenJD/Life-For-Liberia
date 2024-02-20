@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Life For Liberia</title>
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>S.J.Dolley</copyright>
+    <image>
+      <url>http://localhost:1313/images/logo_huf53a0f72227977bf1cf30609bc2d8522_36368_300x300_fit_lanczos_2.png</url>
+      <title>Authors</title>
+      <link>http://localhost:1313/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

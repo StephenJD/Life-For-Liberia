@@ -1,0 +1,22 @@
+---
+title: 2019 Ministère en Guinée
+type: document
+translationKey: 2019 Ministry to Guinea
+summary: "Le Seigneur semble nous ouvrir une nouvelle porte de ministère – nous faisant franchir la frontière avec la Guinée voisine. Notre base de mission dans le village isolé de Ganglata est tout près de la frontière avec la Guinée et des Guinéens traversent la frontière (une rivière) pour se faire soigner à la clinique de Ganglata. Depuis plusieurs années, nous prions pour y apporter l'Évangile, mais le grand besoin dans les environs immédiats nous a occupés."
+weight: 11
+---
+# 2019 Ministère en Guinée
+
+Le Seigneur semble nous ouvrir une nouvelle porte de ministère – nous faisant franchir la frontière avec la Guinée voisine. Notre base de mission dans le village isolé de Ganglata est tout près de la frontière avec la Guinée et des Guinéens traversent la frontière (une rivière) pour se faire soigner à la clinique de Ganglata. Depuis plusieurs années, nous prions pour y apporter l'Évangile, mais le grand besoin dans les environs immédiats nous a occupés.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/a846cf9ee49e3a6022190b44c04adb61.jpeg)Cependant, suite à la visite de l’année dernière et grâce au travail fidèle des dirigeants locaux, l’ensemble de la région a été profondément touché. Au cours du Nouvel An, ils ont organisé une veillée de prière à Ganglata, à laquelle 200 les gens sont venus et le lendemain beaucoup ont été baptisés, y compris des chefs et des enseignants.
+
+Au cours des jours suivants, deux de nos pasteurs, George et Robert, ont traversé les montagnes frontalières pour se rendre au village important le plus proche – une petite ville – et y ont parlé avec les chefs. Ils ont été très chaleureusement accueillis et étaient très désireux d’entendre parler de Jésus. Il y a une école, une clinique et aucune église dans toute la grande région. C'est un coin oublié de la Guinée. Ils parlent la même langue tribale qu'à Ganglata, donc la communication n'était pas un problème.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/e4a885eacbb27785cd9db5a80cd62f46.jpeg)Nous avons travaillé dans nos églises au Libéria pour développer des modèles d'implantation d'églises et de formation de disciples qui fonctionnent bien avec les personnes très pauvres et sans instruction dans les petites communautés. Ce travail semble désormais d’autant plus pertinent et urgent au vu des besoins et des opportunités en Guinée.
+
+Il nous est très difficile d’imaginer ce que vit une communauté où peu, voire aucun, ne sait lire. L’un des impacts les plus importants de l’apprentissage de la lecture est de permettre aux gens de résister à la coercition et à la tromperie. Ceux qui ne savent pas lire acceptent généralement tout simplement ce que leur dit quiconque parle avec autorité. Cela conduit à de terribles injustices et à de terribles mauvais traitements envers les gens. La même chose se produit dans les églises. Ceux qui ne savent pas lire ne croient pas pouvoir apprendre quoi que ce soit par eux-mêmes et acceptent simplement tout ce qu’on leur dit – ce qui est souvent terriblement légaliste et n’a que peu de ressemblance avec l’Évangile.
+
+![noName](/media/03_Blog/2019-Ministry-To-Guinea/0da35bce0219750c4a52d3c79d39fdca.jpeg)En leur racontant des histoires et en les faisant mimer des histoires bibliques, ils peuvent se souvenir avec précision de ce que disent les Écritures. Et en rencontrant Jésus par eux-mêmes et en étant remplis du Saint-Esprit, ils peuvent apprendre à entendre Jésus eux-mêmes et grandir dans leur foi et leur obéissance à Dieu. Des groupes comme ceux-ci ont eu un impact puissant dans les zones rurales de l’Inde et dans les pays musulmans où les filles et les femmes n’ont délibérément pas accès à l’école.
+
+Nous disposons désormais de licences gouvernementales pour l'implantation d'églises en Sierra Leone et en Guinée, et avons déjà de nouveaux groupes implantés dans deux villes sierra-léonaises. L’implantation d’églises dans les régions les plus reculées et les plus inaccessibles de Guinée devrait commencer dans les prochains mois.

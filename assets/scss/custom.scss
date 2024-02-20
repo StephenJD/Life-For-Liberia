@@ -1,0 +1,55 @@
+/*************************************************
+ *  Documentation layout
+ **************************************************/
+
+section.wg-hero {
+ height: 33%;
+}
+
+/* Breadcrumb */
+li.breadcrumb-item {
+	font-size: 1rem;
+}
+
+/* List-page spacing of folder-list. Margin/padding apply to the <p> only */
+div.directory-style p {
+  line-height: 1.0;
+  margin-top: 0.5rem;
+  margin-bottom: 0rem;
+}
+
+/* List-page Summary title spacing. Margin & padding apply to the <p> only.
+*/
+div.summary-style p {
+  font-size: 1.2rem;
+  line-height: 1.0;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+
+/* sets font for all text. Padding/Margin applies to everything */
+/*
+body {
+  font-size: 1rem;
+  margin-top: 0px;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+*/
+
+/* Print formatting */
+
+@media print {
+  .docs-sidebar, .no-print, .no-print *{ /* Hide stuff in printouts. */
+    display: none;
+  }
+}
+
+
+
+/* Docs TOC. */
+
+#TableOfContents li a,
+.toc-top li a {
+  font-size: 1.0rem;
+}

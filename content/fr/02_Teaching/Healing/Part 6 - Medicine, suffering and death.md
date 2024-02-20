@@ -1,0 +1,95 @@
+---
+title: Partie 6  Médecine, souffrance et mort
+type: document
+translationKey: Part 6 – Medicine, suffering and death
+summary: "Dans cette section, nous examinons certains des aspects plus larges de la vie dans le Royaume de Dieu dans ce monde brisé. Nous examinons pourquoi Jésus a guéri les malades mais n'a pas enseigné l'hygiène de base et nous considérons les questions de médecine, de douleur et de souffrance, ainsi que de mort."
+weight: 9
+---
+# Partie 6 – Médecine, souffrance et mort
+
+Dans cette section, nous examinons certains des aspects plus larges de la vie dans le Royaume de Dieu dans ce monde brisé. Nous examinons pourquoi Jésus a guéri les malades mais n'a pas enseigné l'hygiène de base et nous considérons les questions de médecine, de douleur et de souffrance, ainsi que de mort.
+
+## Jésus et le développement communautaire
+
+Jésus ne s'est pas impliqué dans le développement communautaire – santé publique, assainissement, eau potable, agriculture, érosion des sols, etc. Il ne s’est pas non plus impliqué dans la réforme politique sur les questions d’esclavage, d’oppression politique, de répartition injuste des terres, de corruption judiciaire, etc. Était-ce parce que, comme Il l’a dit, « mon royaume n’est pas de ce monde » ? Dieu ne s’intéresse-t-il qu’aux questions « spirituelles » et non aux questions politiques et sociales ?
+
+L'Ancien Testament, en particulier les prophètes, nous montre que Dieu est profondément préoccupé par les questions communautaires et politiques. L'injustice sur les étals du marché a entraîné la condamnation et le jugement de Dieu.
+
+“Y a-t-il encore des trésors de méchanceté dans la maison des méchants, et une courte mesure qui est une abomination ? Dois-je compter les purs avec la balance méchante et avec le sac de poids trompeurs ? Car ses riches sont pleins de violence, ses habitants profèrent des mensonges, et leur langue est trompeuse dans leur bouche. C'est pourquoi je te rendrai aussi malade en te frappant, en te désolant à cause de tes péchés. (**Michée 6:10**)
+
+L'esclavage, la répartition des terres et les bonnes pratiques agricoles étaient tous abordés dans la loi. Jésus n’a pas insisté sur ces questions parce que les bonnes pratiques promues dans la Loi étaient minées par la rupture de la relation spirituelle des gens avec Dieu. Jusqu’à ce que leur cœur soit transformé par leur restauration à Dieu, les problèmes communautaires au sens large resteront intacts.
+
+Dans les lettres du Nouveau Testament, la mise en œuvre de l’Évangile se concentre principalement sur les relations interpersonnelles. L’œuvre sanctifiante du Saint-Esprit se manifeste dans des relations aimantes et indulgentes. Les questions plus larges de l’engagement communautaire et politique sont à peine abordées. Néanmoins, la forte présence de ces questions dans l’Ancien Testament nous montre clairement qu’elles revêtent une grande importance pour Dieu et pour l’établissement de son Royaume. Les chrétiens doivent s’engager fermement et de manière persistante dans le développement communautaire et politique, mais en étant très clairement conscients que tous ces efforts sont compromis lorsque les gens sont éloignés de Dieu. L’esprit d’une personne doit être restauré avant qu’un développement social durable puisse avoir lieu. Mais il faut qu'elle progresse à partir de là pour toucher l'ensemble de la création. L'Évangile est une bonne nouvelle pour tous et pour toutes choses.
+
+“La création attend avec impatience que les fils de Dieu soient révélés. Car la création a été soumise à la frustration, non par son propre choix, mais par la volonté de celui qui l'a soumise, dans l'espoir que la création elle-même sera libérée de son esclavage de la pourriture et introduite dans la glorieuse liberté des enfants de Dieu. . Nous savons que la création entière gémit jusqu’à présent, comme dans les douleurs de l’accouchement. » (**ROM 8:19-22**)
+
+La guérison, tant médicale que miraculeuse, fait partie de la libération que les fils de Dieu devraient révéler au monde.
+
+## Guérison et médecine
+
+Si Dieu veut que nous guérissions les malades au nom de Jésus, quelle est la place de la médecine et de la chirurgie ?
+
+Dieu a intégré la guérison dans la nature. Nous avons une résistance naturelle aux maladies et nous guérissons lorsque nous nous coupons ou nous cassons les os. La nature a une étonnante capacité à se restaurer. Même face à des événements aussi peu naturels que des marées noires massives dans les océans. Le remède le plus efficace contre les déversements de pétrole réside dans les bactéries naturelles qui le digèrent. Dieu a déjà fourni notre principale ressource pour la santé dans notre propre corps étonnant et dans les remèdes naturels fournis par de nombreuses plantes. La santé a été considérablement améliorée grâce à notre compréhension croissante des facteurs de santé communautaire, tels que l’assainissement et l’eau potable, et a été complétée par les compétences et l’ingéniosité de l’homme, données par Dieu, qui nous ont apporté la médecine et la chirurgie modernes.
+
+Tout cela découle du désir de Dieu que nous soyons en bonne santé. Alors, quelle est la place des guérisons miraculeuses dans notre monde moderne ?
+
+-   Pouvons-nous demander la guérison lorsque nous sommes responsables de notre propre maladie ou blessure ?
+-   Faut-il s’attendre à des guérisons miraculeuses là où la médecine moderne suffirait ?
+
+Beaucoup répondraient non à ces deux questions. Mais si nous posions plutôt la question du pardon, quelle serait notre réponse ? Oui, nous pouvons obtenir le pardon pour des choses dont nous sommes délibérément responsables – en fait, c’est principalement pour cela que nous avons besoin du pardon. Pouvons-nous nous attendre à ce que Dieu nous délivre du poids de la honte et de la culpabilité qui nous oppriment, ou devrions-nous compter sur des antidépresseurs ? Bien sûr, nous devons nous attendre à ce que Dieu nous délivre. Je pense qu’il en va de même pour la guérison. Nous pouvons nous tourner vers Dieu pour obtenir la guérison, même lorsque nous sommes responsables de notre maladie et qu’il existe des solutions médicales disponibles.
+
+MAIS – avec le pardon et la guérison, il y a des conditions. Le repentir est requis pour le pardon – la reconnaissance de la culpabilité personnelle et le véritable désir de changer. Le pardon n’est pas un moyen de maintenir un mode de vie pécheur, et la guérison n’est pas non plus un moyen de maintenir un mode de vie malsain. Nous devons reconnaître notre mode de vie malsain et nous efforcer de l’améliorer.
+
+Puisque Dieu a fourni des moyens de guérison naturels et conçus par l’homme, nous ne devrions pas avoir honte de les utiliser et nous ne devrions pas non plus ignorer la compréhension acquise sur les causes et les remèdes à la maladie. La mesure dans laquelle nous comptons sur Dieu plutôt que sur les médicaments disponibles pour nous protéger et guérir est une question de foi et d’obéissance pour chaque chrétien. Je pense que nous devrions encourager la pratique consistant à se tourner d’abord vers Dieu dans la foi et l’attente, puis à accepter sans honte l’aide médicale si elle est toujours nécessaire. Nous ne devrions pas essayer de nier que nous sommes malades ou considérer la médecine comme un pis-aller. La médecine fait partie des moyens fournis par Dieu pour vaincre le mal qu’est la maladie – le but est de vaincre le mal par le bien.
+
+## La douleur et la souffrance ont-elles un bon but ?
+
+Bien que nous puissions affirmer avec certitude que la maladie et l’infirmité sont des symptômes de la chute et des expressions du mal, il serait tout à fait faux de dire que la douleur et la souffrance sont le mal.
+
+La douleur est une sensation aiguë et désagréable. La souffrance est la réponse émotionnelle que nous avons à la douleur. En effet, le but de la douleur est d'infliger de la souffrance. Si la douleur ne provoquait pas la souffrance, nous l’appellerions plaisir plutôt que douleur.
+
+La douleur est essentielle à la santé. La lèpre est une preuve suffisante de cette affirmation. La lèpre est une maladie nerveuse qui empêche une personne de ressentir de la douleur. Si la douleur était mauvaise, alors la lèpre serait bonne. Mais en réalité, la perte de la douleur entraîne de terribles dommages pour le lépreux. Ils ne souffrent pas de douleur, mais souffrent de défiguration et de perte de parties de leur corps simplement parce qu'ils ne ressentent pas la douleur qui autrement les avertirait d'une blessure et leur permettrait de se protéger.
+
+Il est donc clair que Dieu a fait de la douleur et des souffrances qui en résultent un bon cadeau pour nous avertir d’une blessure ou d’une maladie et pour nous motiver à agir pour atténuer le problème. Cela est également vrai au niveau social. La douleur et la souffrance dans les relations nous avertissent d’une blessure ou d’une maladie. La frustration et la colère que nous ressentons en essayant d’obtenir justice d’une personne corrompue sont une douleur donnée par Dieu pour nous avertir et nous motiver à rechercher un changement dans nos communautés. Par conséquent, lorsque nous sommes confrontés à une maladie ou à une souffrance, nous devons chercher à comprendre la cause sous-jacente et essayer d’apporter les changements appropriés à nos habitudes, nos relations ou nos priorités.
+
+Nous ne devons pas confondre le bien de la douleur et de la souffrance donné par Dieu avec le mal qui en est la cause. La maladie est une expression du mal, la souffrance est une expression de la piété. Notre appel dans l’Évangile n’est pas seulement de prier pour le soulagement de la douleur, mais d’agir avec persévérance et espérance pour éliminer les causes de douleur et de souffrance de notre corps, de nos familles et de nos communautés. La douleur et la souffrance sont des facteurs de motivation donnés par Dieu.
+
+## Souffrir avec le Christ
+
+Jésus a dit qu'il lui fallait souffrir : « il est écrit du Fils de l'homme qu'il doit souffrir beaucoup de choses et être traité avec mépris » (**Mc 9:12**).
+
+Jésus a promis la souffrance à ses disciples. « ils vous livreront aux conseils locaux et vous fouetteront dans leurs synagogues » (**Mt 10:17**). “Vous n'appartenez pas au monde, mais je vous ai choisi hors du monde. C'est pour cela que le monde te hait. S’ils m’ont persécuté, ils vous persécuteront aussi » (**Joh 15:19-20**). “Dans ce monde, vous aurez des problèmes. Mais rassurez-vous ! J'ai vaincu le monde »(**Joh 16:33**).
+
+Les apôtres « se réjouirent d’avoir été jugés dignes de subir la honte de son nom » (**Ac 5:41**). Jésus dit à Paul « combien de choses il devra souffrir à cause de mon nom » (**Ac 9:16**). Paul a dit que nous sommes « héritiers de Dieu et cohéritiers de Christ, si toutefois nous souffrons avec lui, afin que nous soyons aussi glorifiés ensemble » (**Ro 8:17**) et « il vous a été donné, de la part du Christ, non seulement de croire en lui, mais aussi de souffrir pour lui » (**Php 1:29**). Pierre a dit : « Si, lorsque vous faites le bien et que vous souffrez pour cela, vous le prenez patiemment, vous avez l’approbation de Dieu. Car à cela vous avez été appelés, parce que le Christ aussi a souffert pour vous, vous laissant un exemple, afin que vous suiviez ses traces.” (**1Animal de compagnie 2:20**).
+
+Les souffrances du Christ de la part des chefs religieux et sa mort sur la croix étaient une conséquence de sa justice face au mal du monde. De même, les souffrances dont Jésus et les apôtres ont parlé étaient la conséquence du témoignage chrétien dans un monde impie. Souffrir à cause d’une position pieuse contre le mal, c’est glorifier Dieu et c’est partager la souffrance du Christ.
+
+Cependant, le simple fait de souffrir à cause du mal ne glorifie pas Dieu. La souffrance d’un enfant affamé ou d’une fille violée n’est pas une glorification pour Dieu, c’est un mal terrible. De même, souffrir de la maladie n’est pas glorifier Dieu. Nulle part les Écritures ne présentent la maladie comme la volonté de Dieu ou comme une glorification de Dieu. La maladie est un affront à Dieu et à son royaume. Néanmoins, la patience, l’amour et le pardon face aux souffrances mauvaises et injustes glorifient Dieu. C'est ce que Peter écrit. Il y a ici des subtilités qui mettent un peu de temps à s’éclaircir dans l’esprit.
+
+Le mal nous confronte à un choix, le choix de succomber ou de vaincre. C’est un choix moral et spirituel : est-ce que je succombe à ce pouvoir qui cherche à me conduire au désespoir et à la mort ; ou est-ce que je cherche, avec l’aide de Dieu et toutes les ressources qu’il a mises à ma disposition, à le surmonter et à en tirer du bien. Même si nous souffrons de la destruction de notre santé, de nos relations ou de nos biens, nous pouvons toujours, comme Job, nous accrocher à Dieu et voir la victoire de sa grâce et de notre foi.
+
+Accepter simplement l’injustice, par exemple, ce n’est pas glorifier Dieu, c’est céder la place au mal. Mais souffrir gracieusement de l’injustice, tout en s’opposant au mal et en travaillant à sa transformation, c’est glorifier Dieu. C'est ce que Jésus a fait sur la croix. Il a été patient et compatissant dans ses souffrances aux mains des mauvais chefs religieux, tout en travaillant avec Dieu pour renverser le mal derrière ces hommes. De même avec la maladie. Nous devons être aimables et patients tout en supportant sa douleur, mais en même temps rester fermes dans la foi avec Dieu pour sa défaite.
+
+Nos souffrances devraient toujours être tournées contre Satan qui est derrière toute souffrance. ** Ceci est clairement décrit dans la prophétie concernant les deux témoins dans l'Apocalypse. 11:3-12**.
+
+## Faire face à la mort
+
+Un comique a dit un jour que la vie est une maladie mortelle. Nous mourrons tous et la mort elle-même est décrite dans les Écritures comme un mal dont la peur retient de nombreuses personnes captives.:
+
+“afin que, par sa mort, il puisse détruire celui qui détient le pouvoir de la mort, c'est-à-dire le diable, et libérer ceux qui ont été tenus en esclavage toute leur vie par la peur de la mort. (**héb. 2:14-15**)
+
+La mort est le dernier ennemi (**1Co 15:26**) qui a été vaincu par le Christ « qui a aboli la mort et a mis en lumière la vie et l'immortalité à travers l'Évangile »” (**2Ti 1:10**).
+
+Une partie de l’évangile prêché par Jésus disait : « Si quelqu’un garde ma parole, il ne verra jamais la mort » (**Jn 8:51**). Jean réitère cette parole : « nous savons que nous sommes passés de la mort à la vie ».” (**1Jo 3:14**). Cette « sortie de la mort » est possible parce que « Dieu a ressuscité Jésus, ayant libéré les affres de la mort, parce qu'il n'était pas possible qu'il soit retenu par elle » (**Ac 2:24**). “Christ ressuscité des morts ne mourra plus jamais ; la mort n'a plus de domination sur lui »(**Ro 6:9**). Nous partageons sa victoire sur la mort en étant ressuscités avec lui lors de notre baptême en Christ. Néanmoins, nous savons que nous devons encore faire face au dernier acte de Satan dans notre vie, notre mort physique. Mais même la mort sera vaincue lors de notre résurrection « lorsque le périssable revêtira l’impérissable et que le mortel revêtira l’immortalité, alors s’accomplira la parole qui est écrite : « la mort est engloutie dans la victoire ».’” (**1Co 15:54**).
+
+Ainsi, un chrétien ne doit pas craindre la mort mais la considérer comme une porte vers la pleine révélation de Dieu et de son glorieux Royaume. La mort est notre diplôme. Nous espérons une mort paisible à un âge avancé après une vie bien remplie et efficace, mais nombreux sont ceux qui risquent la mort à la suite d'une maladie, d'un accident ou d'un mal flagrant. Quelle que soit la manière dont nous affrontons la mort, nous devons le faire avec la grâce de Dieu, dans l’attente de recevoir le but de notre foi : une communion sans entrave avec Lui.
+
+Face à des situations mettant la vie en danger, il devrait y avoir une certaine ambivalence, comme nous le voyons chez Paul. « Car pour moi, vivre, c’est Christ et mourir, c’est un gain. Si je dois continuer à vivre dans le corps, cela signifiera pour moi un travail fructueux. Mais que dois-je choisir ? Je ne sais pas! Je suis partagé entre les deux : je désire partir et être avec le Christ, ce qui est de loin mieux ; mais il vous est plus nécessaire que je reste dans le corps (**Phil 2:21**etff). Alors, comment devrions-nous réagir face à une maladie potentiellement mortelle ? Je propose les lignes directrices suivantes:
+
+1.  Nous devrions chercher à nous libérer de la peur et à trouver la détermination ferme de glorifier Dieu dans notre patience et notre grâce face à toutes les souffrances qui pourraient survenir.
+2.  Nous devons être déterminés à être honnêtes et ouverts au sujet de notre foi et de nos peurs et nous assurer que toutes nos relations sont en bon état et que nos responsabilités sont acquittées.
+3.  Nous devons examiner nos priorités et veiller à les respecter fidèlement.
+4.  Nous devrions parvenir à un lieu de paix et de foi pour soit accepter la situation comme notre porte d’accès à la vie, soit prendre fermement position contre elle et chercher avec confiance la délivrance, sachant que quelle que soit l’issue, « la mort est engloutie dans la victoire ».
+5.  Les chrétiens ne devraient pas automatiquement accepter les traitements proposés par les médecins. Nous avons une vision de la mort différente de celle des incroyants. Les médecins ont le devoir de préserver la vie, mais un chrétien peut choisir d’embrasser la gloire.
+
+Je pense que nous devons faire preuve de prudence lorsque nous demandons à de nombreuses personnes de prier pour n'importe quelle situation, en particulier en cas de maladie en phase terminale. Jésus a dit « Selon votre foi, vous serez guéris » (**Mt 9:27**). Avant de recruter la prière, nous devons établir dans nos cœurs que Dieu n'est pas ému et que la guérison ne vient pas par *beaucoup* de prières. Un grain de moutarde de foi et une seule prière suffisent. Si nous recrutons d’autres personnes pour prier, nous devons le faire sur cette base. Demander à beaucoup de prier parce que nous pensons que la situation est trop difficile pour nous, c’est inviter à l’échec. Voir « Pièce 2 - Servir la guérison divine » pour une discussion plus complète à ce sujet.

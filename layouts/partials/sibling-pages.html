@@ -1,0 +1,12 @@
+<aside class="related layout__related">
+{{ $title := .Title }}
+{{ $otherCount := len (.CurrentSection.Pages) }}
+{{ if gt $otherCount 1 }}
+See also
+<ul>
+{{ range where .CurrentSection.Pages "Title" "!=" $title }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+</aside>

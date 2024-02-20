@@ -1,0 +1,32 @@
+---
+title: 2011 Ministry Trip
+type: document
+translationKey: 2011 Ministry Trip
+summary: "Having passing through customs, I went through a door and unexpectedly found myself standing on the pavement outside the airport with people and taxis milling around. In just a few paces I had passed through the entire terminal building for Liberia's International Airport. It is, in fact, a recycled military base, which is why it is rather inconveniently located 30 miles from the capital city, Monrovia. I was met by my good friend Jonathan Mellish with a great deal of hugging and African-style hand shaking. He waved to a taxi which promptly backed up, and introduced me to the proud owner/driver who was his good friend George."
+weight: 2
+---
+# 2011 Ministry Trip
+
+Having passing through customs, I went through a door and unexpectedly found myself standing on the pavement outside the airport with people and taxis milling around. In just a few paces I had passed through the entire terminal building for Liberia’s International Airport. It is, in fact, a recycled military base, which is why it is rather inconveniently located 30 miles from the capital city, Monrovia. I was met by my good friend Jonathan Mellish with a great deal of hugging and African-style hand shaking. He waved to a taxi which promptly backed up, and introduced me to the proud owner/driver who was his good friend George.
+
+My luggage was swiftly stowed on the back seat of the car, so that it would not be stolen from the boot, and I was driven with a great deal of excitement to Monrovia. I commended George for his excellent car, which, although it had broken windows, no door handles or window winders, no interior linings, no springs, no electrics and delivered its exhaust directly into the interior of the car via its ventilation system, nevertheless had an engine which kept going and a gearbox which drove the wheels. He was very proud.
+
+After a while we entered a large market area where most of the stalls operated out of wheelbarrows. Then we turned onto a dirt road taking us into the locality called Soul Clinic. After about a mile we turned down a very rough track and soon stopped outside Jonathan’s house. I was introduced to Lydia, Jonathan’s wife, and a whole lot of other black faces with flashing white teeth. Then a meal of rice and spicy vegetable sauce was unveiled and we sat down to eat.
+
+After the meal I unpacked my two cases, removing a very large piece of apple cake which I had brought from England and secretly ate my way through during my stay. Apart from my few clothes the bulk of the content consisted of text books, bibles, commentaries and other Christian books and a netbook and laser printer which I presented to Jonathan. He was absolutely delighted with the booty.
+
+We spent the evening chatting and after a cold shower (for which read “bucket of water over the head”) I went to bed to think about what I would preach the next morning. That night I was disturbed numerous times by the noise of rats trying to chew their way through the door into my room. I kept on having to get up to bang on the door to shoo them away, but they would soon be back.
+
+I had met Jonathan 4 years ago in Ghana where we spent 6 months building a school. We had been in regular contact ever since, and this was my first trip to visit him. He is leading a group of churches who are trying to reach out into the poor areas of Liberia with love, practical care and faith in Christ. Liberia has been wrecked by 16 years of civil war and even the capital has no mains electricity or running water.
+
+Jonathan and Lydia pour out the love of Christ to everyone. They look after four boys who live next door, and they usually have up to 15 young people and children for the evening meal. Lydia is a nurse in an accident and emergency clinic and although she is not qualified she does what a doctor would do in the UK, diagnosing and prescribing. We are helping her with books and tuition fees to get qualified.
+
+Wherever I went people told me how Jonathan had cared for them in many practical ways. We visited and prayed for many people in the community, including several people ill with malaria, a man with high blood pressure, a child that could not walk and a woman whose brother had recently been murdered in a violent robbery.
+
+I spent a day with pastor Abi, who is struggling to care for people who are in great poverty, and cannot read. His church has been broken into 3 times by children who have stolen his chairs and ripped out the wiring. One time he caught them and took them into his house and gave them food and clothing and offered to teach them to read. He earned his living driving a taxi, which has now broken down.
+
+Another day I spent with pastor George (the one with the smoky taxi) who lives down amongst the mangrove swamps. We had to walk along dikes and over rickety walkways to get to his house. He had had a good job in Dubai, but returned to Liberia to plant a church. He runs his taxi 3 days a week and pays for several poor children’s school fees. He has a vision for reaching the rural areas and has already done a spiritual survey in one area, and hopes soon to plant a church there.
+
+One day we visited a couple of villages some miles away, where the residents pleaded with Jonathan to come and start a church, for there is none in the area. For a few months Jonathan had been holding meetings in one of these villages under a tree. One of the men there was a Muslim who had become a Christian. Jonathan promised to resume meetings once he had got his motorbike mended.
+
+Like much of Africa, everyone appears to be a Christian, with Christian slogans on every shop and vehicle. But actually most schools and churches are full of corruption and most people’s faith is very shallow because of the poor teaching and example given by their pastors. In contrast I was amazed at the practical love and integrity of the churches that Jonathan is working with. Although at present they are small, they are making a real difference in their communities. The opportunities for growth are huge and the challenges they face are often daunting. Having a supporting relationship with people from other nations is a huge encouragement to them – and a rewarding opportunity for us to invest some of our riches into some of the poorest communities in the world.

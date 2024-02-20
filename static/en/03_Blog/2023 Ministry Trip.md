@@ -1,0 +1,19 @@
+# 2023 Ministry Trip
+
+After a two-year Covid-break we were able to visit Liberia again this February. I travelled with Chris Nowak and we were joined by my friend Andy Bell. The first week was spent visiting some of our schools and giving discipleship training in a number of towns and villages. We also visited two existing Missional Communities and started two new ones. The most remote village we visited was Neiporlor Kollie Town, were we have a school. Through the school a thriving community of discipleship groups has been established and they were eager to learn how to establish Missional Communities to help them in mission.
+
+Over the last two years I have been developing new discipleship material for mission into new communities. The main purpose of the trip was to see how it was being used and to try it out in some new villages where there are no churches and no known Christian witness. We stayed in one village and travelled each day to a different neighbouring village. Each evening one of the team went to the next village to meet the town chiefs to ask permission for the team to visit the next day. They explained we wanted to come to heal the sick and tell stories about Jesus.
+
+![noName](/media/03_Blog/2023-Ministry-Trip/d2ae3f242880c668640d8d8291dab8b7.png)The next day we would go to the palaver hut where we were welcomed by the town chief and many people from the village. We briefly explained our purpose then got people into small groups with one team member in each group. Each group was taught several gospel stories and after each story they were asked to say what they thought Jesus was saying to them through the story. The first parable we teach is the wise and foolish builders; the wise one is the one who hears Jesus and does what He says. They really enjoyed the stories and readily discussed what they meant and how they could be obedient to them. We asked them to teach the stories to their families and friends.
+
+Then we asked if any were sick or wanted prayer. When a healing had taken place we got the healed person to ask Jesus to heal the next person. This way, many villagers were healing others in Jesus' name. We were then taken from house to house healing the sick and praising Jesus for His power and love.
+
+![DSC_1392.jpg](/media/03_Blog/2023-Ministry-Trip/DSC_1392.jpeg)
+
+In one village a man and his wife were in two separate groups and learnt different stories. Later the man brought us a gift and said he and his wife had already taught each other their stories. He said he was thinking over the stories.
+
+In another village a man learnt his story and then received healing. He then took Andy to his home where his father was lying sick in bed. The man told his father that Jesus had healed him. They then prayed for the father and soon he was out of bed and also praising Jesus for healing him.
+
+A few weeks later, the team revisited some of these villages. At first the people were suspicious, asking why the team had come back. So they again went from house to house healing the sick. One young man said he didn't want to go to the mosque any more but to go with the missionaries. There was great excitement about this and the team discussed starting a church in the village. I reminded them that Jesus did not tell us to start churches, but to make disciples. So we do not talk about being Christians, or going to church, or starting churches. We talk only about listening to Jesus and obeying what He says. Our goal is to see that whole region full of people teaching each other the gospel stories, listening to and obeying Jesus and praising Him. We are praying for God to raise up countless missionaries from those communities who will take the Good News of Jesus to their neighbouring communities and across into Sierra Leone.
+
+We have learnt a great deal from these recent missions and are continually improving our training materials and discipling methods.

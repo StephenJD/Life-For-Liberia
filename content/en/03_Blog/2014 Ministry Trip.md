@@ -1,0 +1,48 @@
+---
+title: 2014 Ministry Trip
+type: document
+translationKey: 2014 Ministry Trip
+summary: "Yet again, God did amazing things on our fourth annual trip to Liberia. This year we had a team of seven Brits from five different churches: Myself, Andy, Gordon and Nick who came last year, plus Jonathan, Mike and Daron. We were joined by nine Liberians. We are now working with four churches and in twelve communities."
+weight: 5
+---
+# 2014 Ministry Trip
+
+Yet again, God did amazing things on our fourth annual trip to Liberia. This year we had a team of seven Brits from five different churches: Myself, Andy, Gordon and Nick who came last year, plus Jonathan, Mike and Daron. We were joined by nine Liberians. We are now working with four churches and in twelve communities.
+
+It was wonderful to see the swamp school up. It is a tremendous accomplishment for the church there. They were often tempted to give up during the rainy season, as they battled against the heavy rains. But God had a plan. Arman was an unsaved Muslim- background Liberian who lived in Dubai. He was the marketing director for a large company managing a workforce of thousands. During a holiday in Liberia God spoke to him to come and get this school built in the swamp community. He resigned from his job and came every day to put his broad shoulder to the effort. He motivated and encouraged the team until the last of the 10,000 blocks had been made and the walls were completed. Unbelievable, but I met the man. It’s true!
+
+![noName](/media/03_Blog/2014-Ministry-Trip/c49c8e146b65650baeff5b30869abd61.jpeg)
+
+One morning I found a group of tough looking men waiting for me in our porch. The biggest man introduced himself as Joshua Milton-Blahye. As his story unfolded I discovered that he was once Africa’s most notorious warlord – General But-Naked who had been responsible for the most horrific war crimes and occult evil including countless child sacrifices and cannibalism. However, he had since been turned around by an encounter with Jesus and was now planting churches and reaching out to ex child soldiers. He had seen the school being built and wanted to find out about our block making machine. We had several meetings, getting to know one another and sharing ideas.
+
+![noName](/media/03_Blog/2014-Ministry-Trip/c339e741c73f07e8d73f59346b1798fe.jpeg)
+
+The main focus of the trip was five days spent visiting six villages in Lofa, the last unreached district of Liberia, near the Guinea border. We were supposed to set off early in the morning but didn’t actually set off until 2.30 in the afternoon, Arman (of block-making fame above) driving. We were then delayed a further two hours by the fuel tank dropping out of the other vehicle. So it was late and pitch dark when, on a lonely bandit infested dirt road deep in the jungle, the rough road finally managed to sheer off all but one of the wheel-nut studs on our rear wheel. We were thankful that, as well as God’s invisible angels to protect us, we also had Dennis Mulbah, Liberia’s strongest man. He heard about us coming and asked to join the team.
+
+![noName](/media/03_Blog/2014-Ministry-Trip/ddaa77def2d989a70dd72a95c1f0db03.png) ![noName](/media/03_Blog/2014-Ministry-Trip/dea65077afa5b5c1152658f48907ea5a.png)
+
+The Brits transferred to the double-cab pickup, leaving Dennis, Arman and a few others to guard the broken four-wheel drive people carrier. I don’t know how many we had on board the pickup, but with seven inside and those in the back and on the roof, it would have put a bendy-bus to shame. The driver was anxious to complete the journey and drove at speed, the vehicle lurching violently from side to side whilst those on the roof prayed fervently and held on with all their strength. Eventually we arrived and were shown to our beds - a welcome sight after such a journey.
+
+The wheel-nut studs were somehow repaired and the rest of the team joined us the next day. We innocently went off to meet the chief, not knowing that in the past, visiting missionaries have been thrown out or killed by the village chiefs who have fiercely protected the traditional witchcraft. But God had prepared the way and, to the relief of our hosts, Kola nuts were exchanged in the traditional manner indicating that we were welcome. In fact more than welcome; we were given the freedom of the town to share the Gospel and plant churches.
+
+In each village we saw sickness and different forms of evil enslaving poor souls to varying degrees of hopelessness. Alcohol and drug addiction were common, as were people terrorised by nightly demonic visitations bringing all kinds of sickness. In one village an unusual number of people suffered from cataracts, eye injuries and other eye-sight problems. Another village had an unusual number of dumb people. Wherever we went we encountered sickness, witchcraft, curses and superstition. Isaiah’s description of “gross darkness covering the earth” was extremely apt. But we also found that people were weary of the oppression of demonic forces and welcomed the good news we had to bring.
+
+![noName](/media/03_Blog/2014-Ministry-Trip/906ec62bec199e6fcb46ab8cce43635f.png)
+
+It was often daunting, even overwhelming, when we saw so much sickness and oppression in a community. It was as if we had gone back to Gospel times. Yet wherever Jesus went He brought transformation; healing the sick and setting people free from the devil’s oppression. The challenge we faced was to truly believe Jesus’ promises that those who believe in Him will also do the works that He did. So each day we stirred ourselves to truly believe we had both the authority and commission of Jesus to bring the light of the Gospel into people’s lives in healing and deliverance.
+
+![noName](/media/03_Blog/2014-Ministry-Trip/04821a9d2ba8aa21670a80388fca9a26.png)
+
+And so in teams of two or three we went from village to village praying for the sick and sharing the good news of Jesus. Many were healed instantly, including countless aches and pains, neck, back and leg injuries, and man with a cataract has his sight restored. Many others were healed in the hours or days following prayer, including a woman whom Gordon and Daron prayed for, who for 20 years had been crouching on the ground, living almost like an animal without talking to anyone. Gordon said that when he saw her the thought of praying for her terrified him. But he stirred up his courage and started praying. Compassion soon filled his heart and later Daron joined him. She spoke nothing and they saw no change. The next day they said they wanted to return to that village to pray for her again. They spent a long time praying, but again there was no response and no change. But after we returned to Monrovia we heard that she was now beautifully dressed, singing and dancing and praising God.
+
+Many others have also testified to healing, including a girl who was having daily fits and couldn’t go to school. Jonathan prayed for her and she has not had a fit since and is now in school. Another young lady was delivered of paranoid fears, a man blind with cataracts in both eyes can now see and many others are rejoicing in their healing and deliverance. It was such a joy and privilege to see the Gospel being lived out so literally and immediately. It really brought home to us that the Good News is far more than words and ideas and explanations of the atonement. It is literally the transforming power of God to rescue people from the powers of darkness.
+
+A principal goal for this trip was to see lives transformed. For the last three years we have been visiting a hopeless family in the swamp. Fire was an alcoholic, his wife Korbeh sold drugs and their son Laurence was depressed and crippled in both legs. This was a real team effort. I challenged Fire about the mess his life was in. Gordon went back the next day and led him to Christ. Andy followed up a few days later and led Korbeh and Laurence to Christ. In the meantime I led our driver, Arman, to Christ with tears streaming down his face. He, Fire, Korbeh and a few others were baptised in the swamp a few days later. You could see in their faces that their lives have been transformed by Jesus.
+
+Before going to Liberia I had a dream about the Imam in a particular Muslim village turning to Christ. I told the Imam my dream and we visited his village several times during the month. Each time more of my dream unfolded before our eyes. It was wonderful and amazing to see God working in that dear man’s heart. Whenever we visited his eyes lit up with joy. It culminated during our last visit in the Imam praying with me, asking again and again for Jesus to come and take control of his village, driving out evil and helping him to lead the people to Jesus.
+
+As you can see, we had an amazing trip. Several church plants were initiated, dozens of lives were transformed, eleven people were baptised and countless people were healed – more than 40 in just one village. During our last few days Nick and I prayed for a dumb man who began to speak and a man seriously sick with malaria was instantly healed – when he opened his previously jaundiced eyes they were clear as crystal.
+
+This trip has caused us all to view the Gospel in a new light and stirred us all the more to see the Kingdom of God transform communities across Liberia through simple obedience to Jesus.
+
+Stephen Dolley.

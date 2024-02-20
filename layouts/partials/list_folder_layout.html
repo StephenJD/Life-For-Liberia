@@ -1,0 +1,90 @@
+{{ $current_page := . }}
+{{ $print_img := printf "%s/%s" "img" "printer.jpg" | relURL }}
+{{ $download_img := printf "%s/%s" "img" "download.jpg" | relURL }}
+{{ $folderPath := path.Base .File.Dir }}
+{{ $pdfRelFolder := printf "%spdf" (strings.Replace .File.Dir "\\" "/") | relLangURL}}
+{{ $pdfFolder := printf "content%s" $pdfRelFolder}}
+{{/* Check whether to show breadcrumb navigation. */}}
+{{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
+{{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+
+  <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main"> 
+	{{ if $show_breadcrumb }}
+		{{ partial "breadcrumb" $current_page }}
+	{{ end }}
+	<h1>{{ .Title }}</h1>
+	{{ $pdfList := slice }} <!-- Initialize an empty slice to store the file info -->
+	{{ if os.FileExists $pdfFolder }}
+		{{ $pdfs := readDir $pdfFolder }}
+		{{ range $pdfs }}
+			{{/*pdfPath: {{ .Name }} <p>*/}}
+			{{ if strings.HasSuffix .Name "_.pdf" }}
+				{{ $pdfName := strings.TrimSuffix "_.pdf" .Name }}
+				{{ $filePath := printf "%s/%s" $pdfRelFolder .Name | relLangURL }}
+				{{ $pdfInfo := dict "name" $pdfName "path" $filePath }}
+				{{ $pdfList = $pdfList | append $pdfInfo }}
+			{{ end }}
+		{{ end }}
+	{{ end }}
+
+	{{ $thisPDF := slice }}
+	<div style = "display: inline-block;">
+		{{ partial "share.html" . }} 
+	</div>
+	
+	{{/* Insert content from _index as summary for this collection of pages */}}
+	{{ .Content }}
+	
+	<div class="directory-style" >		
+	{{ $paginator := .Paginate (.Pages.ByWeight) -}}
+	{{ range $paginator.Pages -}}
+		{{ if eq .Type "document-folder" }}
+			<p><a href="{{ .Permalink }}"> {{ .Title }}/</a></p>
+		{{ end }}
+	{{ end -}}
+	</div>
+	{{ range $paginator.Pages -}}
+	{{ if eq .Type "document" }}
+	{{ $pdfTag := path.Base .File }}
+	{{ $splitResult := split $pdfTag "_" }}
+	{{ $pdfTag = index $splitResult 1 }}
+	{{ if ne $pdfTag $thisPDF }}
+		<hr>
+		{{ $thisPDF = $pdfTag }}
+		<h2> {{ $pdfTag }} </h2>
+		{{ range $key, $value := $pdfList }}
+			{{ $name := index $value "name" }}
+			{{ $path := index $value "path" }}			
+			{{ if in $name $pdfTag }}
+				{{ $Size := "" }}
+				{{ if strings.HasSuffix $name  "A5"  }}
+					{{ $Size = "A5-Booklet" }}
+				{{ else }}
+					{{ $Size = "A4-Pages" }}
+				{{ end }}
+				<div style = "display: inline-block;">
+				<a href= {{ $path }} target="_blank"> {{ $Size }} <img src="{{$download_img}}" alt={{ $name }} class="no-print"></a>
+				</div>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+
+	  <div class="summary-style">		
+		<p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ if .Params.summary }}
+          {{ .Params.summary | safeHTML}}
+        {{ else if .Params.abstract }}
+          {{ .Params.abstract | truncate 250 | safeHTML}}
+        {{ else if .Summary }}
+          {{ .Summary | safeHTML}}
+        {{ end }}
+      </div>
+	  {{ end}}
+	{{ end -}}
+
+ </main> 
+  </div>
+</div>

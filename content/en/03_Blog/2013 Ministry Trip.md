@@ -1,0 +1,33 @@
+---
+title: 2013 Ministry Trip
+type: document
+translationKey: 2013 Ministry Trip
+summary: "Damawa was one of the first people to greet us when we arrived in Liberia. She was grinning from ear to ear having been healed during our visit last year from a horrible Herpes virus that was eating away at her mouth and ear. Since then she has been healthy and strong. This is now the third year I have visited Liberia to encourage the churches and take the healing power of Jesus into the communities. In a nation with fewer than 100 doctors, God's healing power is not an alternative to medicine, but the only hope for healing for most people."
+weight: 4
+---
+# 2013 Ministry Trip
+
+Damawa was one of the first people to greet us when we arrived in Liberia. She was grinning from ear to ear having been healed during our visit last year from a horrible Herpes virus that was eating away at her mouth and ear. Since then she has been healthy and strong. This is now the third year I have visited Liberia to encourage the churches and take the healing power of Jesus into the communities. In a nation with fewer than 100 doctors, God’s healing power is not an alternative to medicine, but the only hope for healing for most people.
+
+Helena was another dear lady who has not stopped smiling since she was healed during our last visit from a serious nervous breakdown. As an elected community leader, Helena was to become a mainstay of our outreach to her community in the days ahead. She knew everyone and took us from one sick person to the next, praying boldly as we saw one after another healed.
+
+This year six friends joined me for different periods during the month. The first ten days were shared with Andy and Phil, friends from our previous existence down south. Encouraging the churches in reaching out to their communities with healing and the gospel was our main focus. We were very encouraged by the faith of the church members who took part in this outreach. They were very eager to learn and quick to adopt our principles of simply doing what Jesus told us to do in the gospels. We saw more than sixty people receive immediate healing and many others later testified to healing following our prayers. Particularly notable healings were:
+
+-   A boy deaf from birth. His hearing was restored.
+-   A Muslim man who had a stroke and was dragging his foot. He was healed and gave his life to Christ at church the following Sunday.
+-   A man who had numbness in his lower body affecting his walking. He was healed.
+-   Numerous people with eye and sight problems testified to healing.
+-   A man and a woman with severe back pain – both rejoiced at their healing.
+-   A woman with a caterpillar-like parasite crawling under her skin – healed.
+
+During the month we visited nearly a dozen different communities healing the sick and sharing the good news of Jesus. The highlight of our outreach was the day we visited Gbokolleh (silent ‘G’), a Muslim village. We introduced ourselves to the chief and called for the sick to be brought to us. I also asked for the Imam to be sent for. The Imam witnessed all who were sick in his village being healed in Jesus’ name. Before long people came running in from the fields for healing and old men came limping from their huts. Nearly everyone received immediate healing and the Imam gave thanks to God for what had taken place. I asked if we could give thanks in the Mosque which the Imam agreed to. We took off our shoes, entered the Mosque and lifted up the glorious name of Jesus. We also prayed for the Imam and his other leaders and received permission to return to tell them more about Jesus. We pray that before long that village will be the first in Liberia with a Messianic Mosque.
+
+I said goodbye to Andy and Phil and welcomed my wife, Mirrlees, cousin Nick, friend Alison and recently baptised member of St Mary’s, Gordon. During the middle part of the month we turned our attention to practical projects. The main project was assembling and commissioning a machine I had made for making compressed earth blocks. This type of building block uses very little cement and is very durable and looks beautiful. We are building a school for a swamp community and this machine will allow them to make their own blocks and also allow them to start a block making business employing up to a dozen people. The machine was a great success producing perfect blocks at the intended rate of two per minute. I was able to bring one home with me to show off.
+
+Some of the other practical projects were less successful for various reasons, but we learnt some very useful lessons which should enable us to launch them successfully in the coming months. Meanwhile, Mirrlees and Alison gave tuition in basic computing skills and book keeping which were highly appreciated. Perhaps more importantly they brought balance and a certain sanity to the otherwise male dominated team. They made relationships and learned many details of people’s lives whilst us men got on with messing about with sand, cement and steel. There were tears in many people’s eyes when Alison and Mirrlees left us to return home. During the remaining 10 days of the month Gordon, Nick and I divided our time between community outreach, meeting with the church leadership teams, playing with the children, making blocks and working with church members on the school building project.
+
+Both Nick and Gordon made outstanding contributions both in ministry to the sick and in practical advice and sheer hard physical work on the school building project. I have never known anyone, African or English, with the energy, determination and patience that Gordon demonstrated day after day. Each of the seven members of the team made a deep impact in the lives of many people in Liberia, and I think were also themselves deeply impacted.
+
+Throughout our time we stayed with our friends Jonathan and Lydia who lead the church in Soul Clinic and George and Martha who lead the church in Chocolate City and run the school for the swamp community. We were looked after extremely well and enjoyed the wonderful Liberian food. Our friendships were deepened and new relationships made.
+
+The challenge we face on our return is to raise the remainder of the money we need to get the school walls up. They have already made over a thousand blocks to prove they can operate the machine efficiently. Once the walls are up they can sell blocks in order to complete the school.![noName](/media/03_Blog/2013-Ministry-Trip/c6214ece5010b7a388c087471b8f4a38.jpeg)
