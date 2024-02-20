@@ -636,7 +636,7 @@ def getDocTitle(page):
     summary = line[:50]
   else:
     #summary = '<br>'.join(summary) # OK for website, but not pdf's
-    summary = '\n\n'.join(summary) # need \n\n for pdf's
+    summary = '\t\n\n'.join(summary) # need \n\n for pdf's
   #summary = cleanFrontMatterString(summary)    
   summary = '"' + summary + '"'
   return title, summary
@@ -834,7 +834,7 @@ def tableOfScriptures(mdRootPath):
           page_name = pathToURL(doc_title).lower() + '_' + doc_name
         else: # find list of references
           #for ref in line.split('<br>'):
-          for ref in line.split('\n\n'):
+          for ref in line.split('\t\n\n'):
             start = ref.find(':')
             if start == -1:
               start = 0
