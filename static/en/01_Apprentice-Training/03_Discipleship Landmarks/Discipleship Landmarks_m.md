@@ -16,19 +16,19 @@ D-Path Training
 
 [D6 Baptism](#d6-baptism)
 
-[D7 Baptism in the Spirit](#_Toc159270812)
+[D7 Baptism in the Spirit](#_Toc159323659)
 
-[D8 Peace with God](#_Toc159270813)
+[D8 Peace with God](#_Toc159323660)
 
 [D9 Prayer](#d9-prayer)
 
-[D10 Sharing your story](#_Toc159270815)
+[D10 Sharing your story](#_Toc159323662)
 
-[D11 Healing and the Gospel of the Kingdom](#_Toc159270816)
+[D11 Healing and the Gospel of the Kingdom](#_Toc159323663)
 
 [D12 Missional Communities](#d12-missional-communities)
 
-[D13 Multiplying Your Life](#_Toc159270818)
+[D13 Multiplying Your Life](#_Toc159323665)
 
 ### D-Path Training
 
