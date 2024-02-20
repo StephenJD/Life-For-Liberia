@@ -4,47 +4,25 @@ Formation Y-Path
 
 [Y1 Rempli de sagesse](#y1-rempli-de-sagesse)
 
-[Luc 2:40 Jésus a grandi et est devenu fort](#luc-2:40-jésus-a-grandi-et-est-devenu-fort)
-
 [Y2 Apprendre à connaître Dieu votre Père](#y2-apprendre-à-connaître-dieu-votre-père)
-
-[Luc 2:42-52 Quand Jésus avait douze ans](#luc-2:42-52-quand-jésus-avait-douze-ans)
 
 [Y3 Obéissant à ses parents](#y3-obéissant-à-ses-parents)
 
-[Luc 2:51-52 Jésus était obéissant à ses parents](#luc-2:51-52-jésus-était-obéissant-à-ses-parents)
-
 [Y4 Jésus accueille les enfants](#y4-jésus-accueille-les-enfants)
-
-[Luc 9:47-49 Celui qui accueille ce petit enfant](#luc-9:47-49-celui-qui-accueille-ce-petit-enfant)
 
 [Y5 Attention aux trébuchements](#y5-attention-aux-trébuchements)
 
-[Luc 17:1-2 Choses qui font trébucher les gens](#luc-17:1-2-choses-qui-font-trébucher-les-gens)
-
 [Y6 Laissez les petits enfants venir à moi](#y6-laissez-les-petits-enfants-venir-à-moi)
-
-[Luc 18:15-17 Recevez le Royaume comme un enfant](#luc-18:15-17-recevez-le-royaume-comme-un-enfant)
 
 [Y7 Pardonnez à votre frère et votre sœur](#y7-pardonnez-à-votre-frère-et-votre-sœur)
 
-[Luc 17:3-4 Vous devez leur pardonner](#luc-17:3-4-vous-devez-leur-pardonner)
-
 [Y8 Faites une différence](#y8-faites-une-différence)
-
-[Matthieu 5:13-16 Sel et Lumière](#matthieu-5:13-16-sel-et-lumière)
 
 [Y9 Honnêteté](#y9-honnêteté)
 
-[Luc 16:10 Soyez digne de confiance avec peu](#luc-16:10-soyez-digne-de-confiance-avec-peu)
-
 [Y10 Restez dans l'Amour de Jésus](#y10-restez-dans-lamour-de-jésus)
 
-[John 15:9-12 Reste dans mon amour](#john-15:9-12-reste-dans-mon-amour)
-
 [Y11 Vous êtes mes amis](#y11-vous-êtes-mes-amis)
-
-[John 15:14-17 Vous êtes mes amis](#john-15:14-17-vous-êtes-mes-amis)
 
 ### Inspiré à suivre
 

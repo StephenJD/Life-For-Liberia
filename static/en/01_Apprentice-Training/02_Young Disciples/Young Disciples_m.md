@@ -2,49 +2,27 @@
 
 Y-Path Training
 
-[Y1 Filled with Wisdom](#_Toc159270658)
-
-[Luke 2:40 Jesus grew and became strong](#luke-240-jesus-grew-and-became-strong)
+[Y1 Filled with Wisdom](#_Toc159323552)
 
 [Y2 Learning about God your Father](#y2-learning-about-god-your-father)
 
-[Luke 2:42-52 When Jesus was Twelve](#luke-242-52-when-jesus-was-twelve)
-
 [Y3 Obedient to His Parents](#y3-obedient-to-his-parents)
-
-[Luke 2:51-52 Jesus was Obedient to his Parents](#luke-251-52-jesus-was-obedient-to-his-parents)
 
 [Y4 Jesus Welcomes Children](#y4-jesus-welcomes-children)
 
-[Luke 9:47-49 Whoever Welcomes this Little Child](#luke-947-49-whoever-welcomes-this-little-child)
-
 [Y5 Watch out for Stumbling](#y5-watch-out-for-stumbling)
-
-[Luke 17:1-2 Things that Cause People to Stumble](#luke-171-2-things-that-cause-people-to-stumble)
 
 [Y6 Let the Little Children Come to Me](#y6-let-the-little-children-come-to-me)
 
-[Luke 18:15-17 Receive the Kingdom like a child](#luke-1815-17-receive-the-kingdom-like-a-child)
-
 [Y7 Forgive your Brother and Sister](#y7-forgive-your-brother-and-sister)
-
-[Luke 17:3-4 You Must Forgive Them](#luke-173-4-you-must-forgive-them)
 
 [Y8 Make a Difference](#y8-make-a-difference)
 
-[Matthew 5:13-16 Salt and Light](#matthew-513-16-salt-and-light)
-
 [Y9 Honesty](#y9-honesty)
-
-[Luke 16:10 Be Trustworthy With Little](#luke-1610-be-trustworthy-with-little)
 
 [Y10 Remain in Jesus Love](#y10-remain-in-jesus-love)
 
-[John 15:9-12 Remain In My Love](#john-159-12-remain-in-my-love)
-
 [Y11 You Are My Friends](#y11-you-are-my-friends)
-
-[John 15:14-17 You Are My Friends](#john-1514-17-you-are-my-friends)
 
 ### Inspired to Follow
 
