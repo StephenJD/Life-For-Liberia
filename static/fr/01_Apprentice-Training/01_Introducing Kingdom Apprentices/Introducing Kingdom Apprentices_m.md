@@ -4,27 +4,15 @@ Formation I-Path
 
 [I1 Apprentis du Royaume](#i1-apprentis-du-royaume)
 
-[Matthieu 28:18-20 Allez et faites des disciples](#matthieu-28:18-20-allez-et-faites-des-disciples)
-
 [I2 Comment devient-on disciple ?](#i2-comment-devient-on-disciple-?)
-
-[John 6:45 Tous ceux qui ont entendu le Père viennent à moi](#john-6:45-tous-ceux-qui-ont-entendu-le-père-viennent-à-moi)
 
 [I3 Connaissance sans obéissance](#i3-connaissance-sans-obéissance)
 
-[Luc 6:46-49 Constructeurs sages et insensés](#luc-6:46-49-constructeurs-sages-et-insensés)
-
 [I4 Deux fils](#i4-deux-fils)
-
-[Matthieu 21:28-31 Un homme qui avait deux fils](#matthieu-21:28-31-un-homme-qui-avait-deux-fils)
 
 [I5 Tables renversées](#i5-tables-renversées)
 
-[Matthieu 21:12 Jésus a renversé les tables](#matthieu-21:12-jésus-a-renversé-les-tables)
-
 [I6 Quelle autorité ?](#i6-quelle-autorité-?)
-
-[Matthieu 21:23-25 Par quelle autorité faites-vous ces choses?](#matthieu-21:23-25-par-quelle-autorité-faites-vous-ces-choses?)
 
 ### Qu'est-ce que les « Apprentis du Royaume » ?
 
@@ -92,7 +80,7 @@ Les apprentis du Royaume font des disciples de la manière que Jésus a dit de l
 
 # I3 Connaissance sans obéissance
 
-Ceci est la troisième formation en I-Path: ** I ** Ntroducting Kingdom Apprentices.
+Il s'agit de la troisième formation du I-Path : **I**ntroducing Kingdom Apprentices.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -110,7 +98,7 @@ Les gens viennent chaque semaine à l’église et entendent parler de Jésus. P
 
 Lorsque nous accueillons des gens à l’église chaque semaine, que nous leur prêchons et que nous les renvoyons ensuite chez eux avec le sourire, nous les formons. Ce ne sont pas nos paroles qui les forment, c'est l'habitude d'aller à l'église qui les forme. Ils deviennent pratiquants. Est-ce que c’est ce que Jésus nous a commandé de faire ?
 
-Quel genre de personnes vous entraînez-vous si vous enseignez beaucoup sur Jésus, mais oubliez de vous assurer qu'ils sont obéissants?
+Quel genre de personnes formez-vous si vous enseignez beaucoup sur Jésus, mais oubliez de vous assurer qu’elles sont obéissantes ?
 
 Les gens doivent apprendre à obéir à Jésus. Cela ne vient pas naturellement. Il faut leur apprendre à lire la Bible, en particulier les Évangiles, à écouter Jésus qui leur parle par le Saint-Esprit, à croire et à lui faire confiance et à faire ce qu'il dit de faire. C’est ce que font les Apprentis du Royaume.
 
@@ -122,7 +110,7 @@ Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 ## Matthieu 21:28-31 Un homme qui avait deux fils
 
->   Matthieu 21:28-31 Jésus a dit: "Il y avait un homme qui avait deux fils. Il est allé au premier et a dit:" Fils, va travailler aujourd'hui dans le vignoble. "" Je ne le ferai pas ", a-t-il répondu, mais plus tard il a changé d'avis et est allé . Puis le père est allé à l'autre fils et a dit la même chose. Il a répondu: «Je le ferai, monsieur», mais il n'est pas allé. Lequel des deux a fait ce que son père voulait? » «Le premier», répondirent-ils.
+>   Matthieu 21:28-31 Jésus dit : « Il y avait un homme qui avait deux fils. Il alla vers le premier et lui dit : « Mon fils, va travailler aujourd'hui dans la vigne. » « Je ne le ferai pas », répondit-il, mais plus tard, il changea d'avis et partit. " Alors le père est allé voir l'autre fils et lui a dit la même chose. Il a répondu : " Je le ferai, monsieur " mais il n'y est pas allé. Lequel des deux a fait ce que son père voulait ? " «Le premier», répondirent-ils.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -138,7 +126,7 @@ Lequel des deux est le plus fructueux ?
 
 Peut-être avez-vous beaucoup de chance d’avoir des personnes à la fois enthousiastes à l’idée de répondre et fidèles dans leur obéissance.
 
-Lequel de ces types Jésus vous décrirait-il?
+Sous lequel de ces types Jésus vous décrirait-il ?
 
 Les apprentis du Royaume travaillent avec des personnes qui sont fidèles à obéir à Jésus.
 
@@ -168,11 +156,11 @@ Les apprentis du Royaume n'ont pas peur de renverser quelques tables et ne sont 
 
 # I6 Quelle autorité ?
 
-Ceci est la sixième formation en I-Path: ** I ** NTRODUCing Kingdom Apprentices.
+Il s'agit de la sixième formation du I-Path : **I**ntroducing Kingdom Apprentices.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-## Matthieu 21:23-25 Par quelle autorité faites-vous ces choses?
+## Matthieu 21:23-25 Par quelle autorité faites-vous ces choses ?
 
 >   Matthieu 21:23-25 Jésus entra dans les parvis du temple et, pendant qu'il enseignait, les principaux sacrificateurs et les anciens du peuple vinrent à lui. « Par quelle autorité faites-vous ces choses ? ils ont demandé. « Et qui vous a donné cette autorité ? Jésus répondit : « Je vais aussi vous poser une question. Si vous me répondez, je vous dirai par quelle autorité je fais ces choses. Le baptême de Jean : d’où vient-il ? Était-ce du ciel ou d’origine humaine ?”
 
@@ -184,15 +172,15 @@ Que veut vous dire Jésus à travers cette histoire ?
 
 Les grands prêtres ont posé une très bonne question ! Chaque fois que quelqu'un de nouveau arrive et commence à prêcher ou à enseigner, nous devrions poser la même question : « Par quelle autorité faites-vous ces choses ? Qui vous a donné cette autorité ?
 
-Quand quelqu'un commence à retourner les tables, vous voulez savoir qui lui a donné l'autorité!
+Quand quelqu'un commence à renverser les tables, vous voulez savoir qui lui a donné l'autorité!
 
-Nous croyons que nous venons au nom de Jésus et avec son autorité, mais vous devez en être juge.
+Nous croyons que nous venons au Nom de Jésus et avec Son autorité, mais vous devez en être le juge.
 
-Nous ne voulons pas vous prendre votre église, ni prendre le contrôle de votre église, ou vous demander de l'argent, ou enseigner des doctrines étranges ou vous faire rejoindre notre mouvement.
+Nous ne voulons pas vous prendre votre église, ni prendre le contrôle de votre église, ni vous demander de l'argent, ni enseigner des doctrines étranges, ni vous amener à rejoindre notre mouvement.
 
 Mais nous voulons être honnêtes et clairs avec vous. Comme Jésus, nous voulons renverser certaines tables, faire un peu d'enseignement et de guérison, puis partir. Ce qui se passe ensuite dépend de vous. Si vous concluez que nous vous aidons à entendre et à obéir à Jésus, alors nous serons heureux de partager davantage avec vous.
 
-### Pourquoi "apprentis" au lieu de "disciples"?
+### Pourquoi des « apprentis » au lieu de « disciples » ?
 
 Nous appelons les disciples obéissants de Jésus « apprentis » parce que cela nécessite une expérience et une pratique pratiques, et notre formation a lieu dans la communauté en mission réelle, et non dans la salle de classe de l'église.
 

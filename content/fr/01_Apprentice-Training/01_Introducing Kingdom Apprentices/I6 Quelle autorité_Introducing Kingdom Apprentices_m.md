@@ -2,16 +2,16 @@
 title: I6 Quelle autorité ?
 type: document
 translationKey: I6 Whose authority?
-summary: "Matthieu 21:23-25 Par quelle autorité faites-vous ces choses?"
+summary: "Matthieu 21:23-25 Par quelle autorité faites-vous ces choses ?"
 weight: 7
 ---
 # I6 Quelle autorité ?
 
-Ceci est la sixième formation en I-Path: ** I ** NTRODUCing Kingdom Apprentices.
+Il s'agit de la sixième formation du I-Path : **I**ntroducing Kingdom Apprentices.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-## Matthieu 21:23-25 Par quelle autorité faites-vous ces choses?
+## Matthieu 21:23-25 Par quelle autorité faites-vous ces choses ?
 
 >   Matthieu 21:23-25 Jésus entra dans les parvis du temple et, pendant qu'il enseignait, les principaux sacrificateurs et les anciens du peuple vinrent à lui. « Par quelle autorité faites-vous ces choses ? ils ont demandé. « Et qui vous a donné cette autorité ? Jésus répondit : « Je vais aussi vous poser une question. Si vous me répondez, je vous dirai par quelle autorité je fais ces choses. Le baptême de Jean : d’où vient-il ? Était-ce du ciel ou d’origine humaine ?”
 
@@ -23,15 +23,15 @@ Que veut vous dire Jésus à travers cette histoire ?
 
 Les grands prêtres ont posé une très bonne question ! Chaque fois que quelqu'un de nouveau arrive et commence à prêcher ou à enseigner, nous devrions poser la même question : « Par quelle autorité faites-vous ces choses ? Qui vous a donné cette autorité ?
 
-Quand quelqu'un commence à retourner les tables, vous voulez savoir qui lui a donné l'autorité!
+Quand quelqu'un commence à renverser les tables, vous voulez savoir qui lui a donné l'autorité!
 
-Nous croyons que nous venons au nom de Jésus et avec son autorité, mais vous devez en être juge.
+Nous croyons que nous venons au Nom de Jésus et avec Son autorité, mais vous devez en être le juge.
 
-Nous ne voulons pas vous prendre votre église, ni prendre le contrôle de votre église, ou vous demander de l'argent, ou enseigner des doctrines étranges ou vous faire rejoindre notre mouvement.
+Nous ne voulons pas vous prendre votre église, ni prendre le contrôle de votre église, ni vous demander de l'argent, ni enseigner des doctrines étranges, ni vous amener à rejoindre notre mouvement.
 
 Mais nous voulons être honnêtes et clairs avec vous. Comme Jésus, nous voulons renverser certaines tables, faire un peu d'enseignement et de guérison, puis partir. Ce qui se passe ensuite dépend de vous. Si vous concluez que nous vous aidons à entendre et à obéir à Jésus, alors nous serons heureux de partager davantage avec vous.
 
-### Pourquoi "apprentis" au lieu de "disciples"?
+### Pourquoi des « apprentis » au lieu de « disciples » ?
 
 Nous appelons les disciples obéissants de Jésus « apprentis » parce que cela nécessite une expérience et une pratique pratiques, et notre formation a lieu dans la communauté en mission réelle, et non dans la salle de classe de l'église.
 

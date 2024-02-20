@@ -4,27 +4,15 @@ I-Path Training
 
 [I1 Kingdom Apprentices](#i1-kingdom-apprentices)
 
-[Matthew 28:18-20 Go and Make Disciples](#matthew-2818-20-go-and-make-disciples)
-
 [I2 How Does Someone Become A Disciple?](#i2-how-does-someone-become-a-disciple)
-
-[John 6:45 Everyone who has heard the Father comes to me](#john-645-everyone-who-has-heard-the-father-comes-to-me)
 
 [I3 Knowledge without Obedience](#i3-knowledge-without-obedience)
 
-[Luke 6:46-49 Wise & Foolish Builders](#luke-646-49-wise--foolish-builders)
-
 [I4 Two Sons](#i4-two-sons)
-
-[Matthew 21:28-31 A Man who had Two Sons](#matthew-2128-31-a-man-who-had-two-sons)
 
 [I5 Overturned Tables](#i5-overturned-tables)
 
-[Matthew 21:12 Jesus overturned the tables](#matthew-2112-jesus-overturned-the-tables)
-
 [I6 Whose authority?](#i6-whose-authority)
-
-[Matthew 21:23-25 By what authority are you doing these things?](#matthew-2123-25-by-what-authority-are-you-doing-these-things)
 
 ### What is "Kingdom Apprentices"?
 

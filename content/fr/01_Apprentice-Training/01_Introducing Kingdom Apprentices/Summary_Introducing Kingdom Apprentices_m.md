@@ -32,4 +32,4 @@ Matthieu 21:28-31 Un homme qui avait deux fils
 Matthieu 21:12 Jésus a renversé les tables
 # I6 Quelle autorité ?
 
-Matthieu 21:23-25 Par quelle autorité faites-vous ces choses?
+Matthieu 21:23-25 Par quelle autorité faites-vous ces choses ?

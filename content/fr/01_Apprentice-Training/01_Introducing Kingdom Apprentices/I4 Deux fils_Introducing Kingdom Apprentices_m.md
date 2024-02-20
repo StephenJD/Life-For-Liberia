@@ -13,7 +13,7 @@ Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 ## Matthieu 21:28-31 Un homme qui avait deux fils
 
->   Matthieu 21:28-31 Jésus a dit: "Il y avait un homme qui avait deux fils. Il est allé au premier et a dit:" Fils, va travailler aujourd'hui dans le vignoble. "" Je ne le ferai pas ", a-t-il répondu, mais plus tard il a changé d'avis et est allé . Puis le père est allé à l'autre fils et a dit la même chose. Il a répondu: «Je le ferai, monsieur», mais il n'est pas allé. Lequel des deux a fait ce que son père voulait? » «Le premier», répondirent-ils.
+>   Matthieu 21:28-31 Jésus dit : « Il y avait un homme qui avait deux fils. Il alla vers le premier et lui dit : « Mon fils, va travailler aujourd'hui dans la vigne. » « Je ne le ferai pas », répondit-il, mais plus tard, il changea d'avis et partit. " Alors le père est allé voir l'autre fils et lui a dit la même chose. Il a répondu : " Je le ferai, monsieur " mais il n'y est pas allé. Lequel des deux a fait ce que son père voulait ? " «Le premier», répondirent-ils.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -29,7 +29,7 @@ Lequel des deux est le plus fructueux ?
 
 Peut-être avez-vous beaucoup de chance d’avoir des personnes à la fois enthousiastes à l’idée de répondre et fidèles dans leur obéissance.
 
-Lequel de ces types Jésus vous décrirait-il?
+Sous lequel de ces types Jésus vous décrirait-il ?
 
 Les apprentis du Royaume travaillent avec des personnes qui sont fidèles à obéir à Jésus.
 

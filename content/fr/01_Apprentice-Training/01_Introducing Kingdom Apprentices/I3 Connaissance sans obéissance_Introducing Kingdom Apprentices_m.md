@@ -7,7 +7,7 @@ weight: 4
 ---
 # I3 Connaissance sans obéissance
 
-Ceci est la troisième formation en I-Path: ** I ** Ntroducting Kingdom Apprentices.
+Il s'agit de la troisième formation du I-Path : **I**ntroducing Kingdom Apprentices.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -25,7 +25,7 @@ Les gens viennent chaque semaine à l’église et entendent parler de Jésus. P
 
 Lorsque nous accueillons des gens à l’église chaque semaine, que nous leur prêchons et que nous les renvoyons ensuite chez eux avec le sourire, nous les formons. Ce ne sont pas nos paroles qui les forment, c'est l'habitude d'aller à l'église qui les forme. Ils deviennent pratiquants. Est-ce que c’est ce que Jésus nous a commandé de faire ?
 
-Quel genre de personnes vous entraînez-vous si vous enseignez beaucoup sur Jésus, mais oubliez de vous assurer qu'ils sont obéissants?
+Quel genre de personnes formez-vous si vous enseignez beaucoup sur Jésus, mais oubliez de vous assurer qu’elles sont obéissantes ?
 
 Les gens doivent apprendre à obéir à Jésus. Cela ne vient pas naturellement. Il faut leur apprendre à lire la Bible, en particulier les Évangiles, à écouter Jésus qui leur parle par le Saint-Esprit, à croire et à lui faire confiance et à faire ce qu'il dit de faire. C’est ce que font les Apprentis du Royaume.
 
