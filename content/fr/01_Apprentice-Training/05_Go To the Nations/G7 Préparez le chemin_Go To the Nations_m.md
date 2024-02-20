@@ -35,7 +35,7 @@ Il est important de rendre visite au chef de la ville, à l'imam et à d'autres 
 
 Il est important que vous ne parliez **pas** de christianisme, de conversion, de changement de croyance, d'aller à l'église ou de fonder une église. De nombreuses communautés seront soit hostiles à ces idées, soit auront des idées très fausses à leur sujet.
 
-Expliquez plutôt que vous souhaitez les aider à en apprendre davantage sur Jésus, afin qu’ils puissent devenir de meilleurs leaders qui apprennent à écouter et à obéir à Jésus (ou Isa).
+Expliquez plutôt que vous souhaitez les aider à en apprendre davantage sur Jésus, afin qu'ils puissent devenir de meilleurs dirigeants qui apprennent à écouter et à obéir à Jésus (ou Isa).
 
 ### Préparer notre stratégie
 
