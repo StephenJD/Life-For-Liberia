@@ -2,71 +2,25 @@
 
 Formation S-Path
 
-Contenu
-
-[Résumé](#résumé)
-
 [S1 - L'Église : un commandement ou une tradition ?](#s1---léglise-:-un-commandement-ou-une-tradition-?)
-
-[Marque 7:9 Vous observez vos propres traditions](#marque-7:9-vous-observez-vos-propres-traditions)
-
-[Matthieu 28:19-20 Allez faire des disciples](#matthieu-28:19-20-allez-faire-des-disciples)
-
-[Matthieu 7:21 Tous ceux qui me disent : « Seigneur, Seigneur »](#matthieu-7:21-tous-ceux-qui-me-disent-:-«-seigneur,-seigneur-»)
 
 [S2 - Le coût des services religieux](#s2---le-coût-des-services-religieux)
 
-[Luc 13:6-9 Figuier dans le vignoble](#luc-13:6-9-figuier-dans-le-vignoble)
-
-[Matthieu 23:4 Des charges encombrantes sur les épaules des gens](#matthieu-23:4-des-charges-encombrantes-sur-les-épaules-des-gens)
-
 [S3 - Connaissance sans obéissance](#s3---connaissance-sans-obéissance)
-
-[Luc 6:46-49 Constructeurs sages et insensés](#luc-6:46-49-constructeurs-sages-et-insensés)
-
-[John 5:39 Vous étudiez les Écritures avec diligence](#john-5:39-vous-étudiez-les-écritures-avec-diligence)
-
-[Matthieu 13:14-15 Vous entendrez toujours mais ne comprendrez jamais](#matthieu-13:14-15-vous-entendrez-toujours-mais-ne-comprendrez-jamais)
 
 [S4 - Mission centrée sur l’Église](#s4---mission-centrée-sur-l’église)
 
-[Matthieu 11:28-30 Viens à moi](#matthieu-11:28-30-viens-à-moi)
-
-[Matthieu 5:15-16 Ne cache pas ta lumière](#matthieu-5:15-16-ne-cache-pas-ta-lumière)
-
-[Luc 10:8-9 Guéris les malades... et dis-leur...](#luc-10:8-9-guéris-les-malades...-et-dis-leur...)
-
-[John 2:23-24 Jésus ne voulait pas se confier aux foules](#john-2:23-24-jésus-ne-voulait-pas-se-confier-aux-foules)
-
 [S5 - Rompre le pain](#s5---rompre-le-pain)
-
-[Actes 2:46-47 Ils ont rompu le pain chez eux](#actes-2:46-47-ils-ont-rompu-le-pain-chez-eux)
 
 [S6 - Gloire personnelle](#s6---gloire-personnelle)
 
-[John 7:18 Pour gagner la gloire personnelle](#john-7:18-pour-gagner-la-gloire-personnelle)
-
 [S7 – Grands systèmes de sonorisation](#s7-–-grands-systèmes-de-sonorisation)
 
-[John 12:28-29 La foule a dit qu'elle avait tonné](#john-12:28-29-la-foule-a-dit-quelle-avait-tonné)
-
-[S8 – Vêtements spéciaux](#s8-–-vêtements-spéciaux)
-
-[Matthieu 23:5-7 Tout ce qu'ils font est pour le spectacle](#matthieu-23:5-7-tout-ce-quils-font-est-pour-le-spectacle)
-
-[James 2:2-7 Beaux vêtements et vieux vêtements sales](#james-2:2-7-beaux-vêtements-et-vieux-vêtements-sales)
+[S8 – Special Clothess8--vêtements spéciaux)
 
 [S9 – Dîmes et offrandes](#s9-–-dîmes-et-offrandes)
 
-[Matthieu 6:3-4 Laissez votre don rester secret](#matthieu-6:3-4-laissez-votre-don-rester-secret)
-
-[2 Corinthiens 9:7 Donner sans contrainte](#2-corinthiens-9:7-donner-sans-contrainte)
-
 [S10 – Pères et mères spirituels](#s10-–-pères-et-mères-spirituels)
-
-[Matthieu 23:8-10 N’appelez personne sur Terre « Père »](#matthieu-23:8-10-n’appelez-personne-sur-terre-«-père-»)
-
-[Conclusion](#conclusion)
 
 ### Résumé
 

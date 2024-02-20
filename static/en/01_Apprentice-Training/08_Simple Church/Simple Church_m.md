@@ -2,71 +2,25 @@ Simple Church
 
 S-Path Training
 
-Contents
-
-[Summary](#summary)
-
 [S1 - Church - A Command or a Tradition?](#s1---church---a-command-or-a-tradition)
-
-[Mark 7:9 You Observe Your Own Traditions](#mark-79-you-observe-your-own-traditions)
-
-[Matthew 28:19-20 Go and make disciples](#matthew-2819-20-go-and-make-disciples)
-
-[Matthew 7:21 Not everyone who says to me, ‘Lord, Lord,’](#matthew-721-not-everyone-who-says-to-me-lord-lord)
 
 [S2 - The Cost of Church Services](#s2---the-cost-of-church-services)
 
-[Luke 13:6-9 Fig Tree in the Vineyard](#luke-136-9-fig-tree-in-the-vineyard)
-
-[Matthew 23:4 Cumbersome loads on people’s shoulders](#matthew-234-cumbersome-loads-on-peoples-shoulders)
-
 [S3 - Knowledge without Obedience](#s3---knowledge-without-obedience)
-
-[Luke 6:46-49 Wise & Foolish Builders](#luke-646-49-wise--foolish-builders)
-
-[John 5:39 You study the Scriptures diligently](#john-539-you-study-the-scriptures-diligently)
-
-[Matthew 13:14-15 You will be ever hearing but never understanding](#matthew-1314-15-you-will-be-ever-hearing-but-never-understanding)
 
 [S4 - Church Centred Mission](#s4---church-centred-mission)
 
-[Matthew 11:28-30 Come to me](#matthew-1128-30-come-to-me)
-
-[Matthew 5:15-16 Don't hide your light](#matthew-515-16-dont-hide-your-light)
-
-[Luke 10:8-9 Heal the sick... and tell them...](#luke-108-9-heal-the-sick-and-tell-them)
-
-[John 2:23-24 Jesus Would not Entrust Himself to the Crowds](#john-223-24-jesus-would-not-entrust-himself-to-the-crowds)
-
 [S5 - Breaking Bread](#s5---breaking-bread)
-
-[Acts 2:46-47 They broke bread in their homes](#acts-246-47-they-broke-bread-in-their-homes)
 
 [S6 - Personal Glory](#s6---personal-glory)
 
-[John 7:18 To Gain Personal Glory](#john-718-to-gain-personal-glory)
-
 [S7 – Big PA systems](#s7--big-pa-systems)
-
-[John 12:28-29 The crowd said it had thundered](#john-1228-29-the-crowd-said-it-had-thundered)
 
 [S8 – Special Clothes](#s8--special-clothes)
 
-[Matthew 23:5-7 Everything They Do Is For Show](#matthew-235-7-everything-they-do-is-for-show)
-
-[James 2:2-7 Fine Clothes and Filthy Old Clothes](#james-22-7-fine-clothes-and-filthy-old-clothes)
-
 [S9 – Tithes and Offerings](#s9--tithes-and-offerings)
 
-[Matthew 6:3-4 Let Your Giving be in Secret](#matthew-63-4-let-your-giving-be-in-secret)
-
-[2 Corinthians 9:7 Give without Compulsion](#2-corinthians-97-give-without-compulsion)
-
 [S10 – Spiritual Fathers and Mothers](#s10--spiritual-fathers-and-mothers)
-
-[Matthew 23:8-10 Do Not Call Anyone On Earth ‘Father’](#matthew-238-10-do-not-call-anyone-on-earth-father)
-
-[Conclusion](#conclusion)
 
 ### Summary
 
