@@ -636,7 +636,7 @@ def getDocTitle(page):
     summary = line[:50]
   else:
     #summary = '<br>'.join(summary) # OK for website, but not pdf's
-    summary = '\t\n\n'.join(summary) # need \n\n for pdf's
+    summary = '\t\n\n'.join(summary) # need \n\n for pdf's Use \t to identify verse-headings for scripture summary.
   #summary = cleanFrontMatterString(summary)    
   summary = '"' + summary + '"'
   return title, summary
