@@ -2,7 +2,13 @@
 title: Using this Training
 type: document
 translationKey: Using this Training
-summary: "Personal Obedience<br>No Experts<br>Growth Groups for Discipleship<br>Do NOT train people to be disobedient!<br>Tell me the same story<br>An Example Training session<br>Progressing through the Training"
+summary: "Personal Obedience<br>
+No Experts<br>
+Growth Groups for Discipleship<br>
+Do NOT train people to be disobedient!<br>
+Tell me the same story<br>
+An Example Training session<br>
+Progressing through the Training"
 weight: 2
 ---
 # Using this Training

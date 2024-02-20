@@ -2,7 +2,9 @@
 title: D2 Growth Groups
 type: document
 translationKey: D2 Growth Groups
-summary: "Matthew 18:20 Where two or three gather<br>John 16:13 The Spirit of truth will guide you<br>Luke 6:46-49 Wise & Foolish Builders"
+summary: "Matthew 18:20 Where two or three gather<br>
+John 16:13 The Spirit of truth will guide you<br>
+Luke 6:46-49 Wise & Foolish Builders"
 weight: 4
 ---
 # D2 Growth Groups

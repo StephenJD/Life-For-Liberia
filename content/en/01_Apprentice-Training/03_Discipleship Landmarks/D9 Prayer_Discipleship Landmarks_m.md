@@ -2,7 +2,11 @@
 title: D9 Prayer
 type: document
 translationKey: D9 Prayer
-summary: "Matthew 6:7-8 Not Like the Pagans with Many Words<br>Matthew 6:31-33 Do not Worry like the Pagans<br>John 11:41-42 I know that You always hear Me.<br>Matthew 6:9-10, 26:39 Pray for God's Will to be Done<br>John 15:16 Pray for Fruitfulness"
+summary: "Matthew 6:7-8 Not Like the Pagans with Many Words<br>
+Matthew 6:31-33 Do not Worry like the Pagans<br>
+John 11:41-42 I know that You always hear Me.<br>
+Matthew 6:9-10, 26:39 Pray for God's Will to be Done<br>
+John 15:16 Pray for Fruitfulness"
 weight: 11
 ---
 # D9 Prayer
