@@ -4,17 +4,17 @@ type: document
 translationKey: Using this Training
 summary: "Personal Obedience
 
-<br>No Experts
+No Experts
 
-<br>Growth Groups for Discipleship
+Growth Groups for Discipleship
 
-<br>Do NOT train people to be disobedient!
+Do NOT train people to be disobedient!
 
-<br>Tell me the same story
+Tell me the same story
 
-<br>An Example Training session
+An Example Training session
 
-<br>Progressing through the Training"
+Progressing through the Training"
 weight: 2
 ---
 # Using this Training

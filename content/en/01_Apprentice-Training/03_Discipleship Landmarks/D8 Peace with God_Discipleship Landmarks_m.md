@@ -4,11 +4,11 @@ type: document
 translationKey: D8 Peace with God
 summary: "John 14:1-2 Do not let your hearts be troubled
 
-<br>John 14:6 The way and the truth and the life
+John 14:6 The way and the truth and the life
 
-<br>John 14:19-20 You are in me, and I am in you
+John 14:19-20 You are in me, and I am in you
 
-<br>John 14:27 My peace I give you"
+John 14:27 My peace I give you"
 weight: 10
 ---
 # D8 Peace with God

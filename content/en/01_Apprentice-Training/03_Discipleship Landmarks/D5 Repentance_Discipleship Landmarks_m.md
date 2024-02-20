@@ -4,7 +4,7 @@ type: document
 translationKey: D5 Repentance
 summary: "Mark 1:15 The time has come
 
-<br>Luke 24:47 Repentance for the forgiveness of sins"
+Luke 24:47 Repentance for the forgiveness of sins"
 weight: 7
 ---
 # D5 Repentance

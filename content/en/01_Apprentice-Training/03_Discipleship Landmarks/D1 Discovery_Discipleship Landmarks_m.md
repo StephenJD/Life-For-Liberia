@@ -4,11 +4,11 @@ type: document
 translationKey: D1 Discovery
 summary: "Acts 26:18 From Darkness to Light
 
-<br>Matthew 11:27 No One Knows the Son...
+Matthew 11:27 No One Knows the Son...
 
-<br>John 6:45 Everyone who has heard the Father
+John 6:45 Everyone who has heard the Father
 
-<br>John 6:63 The Spirit gives life"
+John 6:63 The Spirit gives life"
 weight: 3
 ---
 # D1 Discovery

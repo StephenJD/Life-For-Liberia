@@ -4,11 +4,11 @@ type: document
 translationKey: D12 Missional Communities
 summary: "Matthew 5:13-16 Salt and Light
 
-<br>Luke 5:29-32 Levi's Dinner Party
+Luke 5:29-32 Levi's Dinner Party
 
-<br>Luke 18:15-17 Let the little children come
+Luke 18:15-17 Let the little children come
 
-<br>Luke 22:14-20 The Lord's Supper"
+Luke 22:14-20 The Lord's Supper"
 weight: 14
 ---
 # D12 Missional Communities

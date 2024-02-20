@@ -4,7 +4,7 @@ type: document
 translationKey: D11 Healing and the Gospel of the Kingdom
 summary: "Luke 4:18-19 Good news to the poor
 
-<br>Luke 9:1,6 Heal the sick"
+Luke 9:1,6 Heal the sick"
 weight: 13
 ---
 # D11 Healing and the Gospel of the Kingdom

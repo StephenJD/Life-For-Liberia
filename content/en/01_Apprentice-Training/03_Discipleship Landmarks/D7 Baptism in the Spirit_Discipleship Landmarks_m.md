@@ -4,11 +4,11 @@ type: document
 translationKey: D7 Baptism in the Spirit
 summary: "John 3:3-6 You must be Born Again
 
-<br>Luke 11:9-13 Ask until you Receive
+Luke 11:9-13 Ask until you Receive
 
-<br>Acts 19:5-6 Tongues and Prophecy
+Acts 19:5-6 Tongues and Prophecy
 
-<br>Romans 15:13 The Spirit gives Joy in Believing"
+Romans 15:13 The Spirit gives Joy in Believing"
 weight: 9
 ---
 # D7 Baptism in the Spirit

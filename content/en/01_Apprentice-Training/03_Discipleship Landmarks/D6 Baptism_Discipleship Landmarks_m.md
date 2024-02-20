@@ -4,9 +4,9 @@ type: document
 translationKey: D6 Baptism
 summary: "Luke 24:7 Crucified and Raised Again
 
-<br>Matthew 28:19 Go and make disciples
+Matthew 28:19 Go and make disciples
 
-<br>Romans 6:3-8 Buried with him through baptism"
+Romans 6:3-8 Buried with him through baptism"
 weight: 8
 ---
 # D6 Baptism
