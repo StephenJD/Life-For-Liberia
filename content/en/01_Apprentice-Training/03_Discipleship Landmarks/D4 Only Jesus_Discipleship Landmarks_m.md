@@ -2,9 +2,7 @@
 title: D4 Only Jesus
 type: document
 translationKey: D4 Only Jesus
-summary: "Luke 9:57-62 Foxes have holes<br>
-
-Matthew 10:37-39 Anyone who loves their father..."
+summary: "Luke 9:57-62 Foxes have holes  <br>Matthew 10:37-39 Anyone who loves their father..."
 weight: 6
 ---
 # D4 Only Jesus
