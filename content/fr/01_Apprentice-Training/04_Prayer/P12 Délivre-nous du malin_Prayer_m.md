@@ -33,7 +33,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Éphésiens 6:10-12 Notre lutte n'est pas contre la chair et le sang
 
->   Éphésiens 6:10-12 Enfin, soyez forts dans le Seigneur et dans sa toute-puissance. Revêtez toute l’armure de Dieu, afin de pouvoir prendre position contre les stratagèmes du diable. Car notre lutte n’est pas contre la chair et le sang, mais contre les dirigeants, contre les autorités, contre les puissances de ce monde des ténèbres et contre les forces spirituelles du mal dans les royaumes célestes.
+>   Éphésiens 6:10-12 Enfin, soyez forts dans le Seigneur et dans sa toute-puissance. Revêtez toute l’armure de Dieu, afin de pouvoir prendre position contre les stratagèmes du diable. Car notre lutte n’est pas contre la chair et le sang, mais contre les dirigeants, contre les autorités, contre les puissances de ce monde obscur et contre les forces spirituelles du mal dans les royaumes célestes.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 

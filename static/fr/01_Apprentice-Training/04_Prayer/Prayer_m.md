@@ -320,7 +320,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Éphésiens 6:10-12 Notre lutte n'est pas contre la chair et le sang
 
->   Éphésiens 6:10-12 Enfin, soyez forts dans le Seigneur et dans sa toute-puissance. Revêtez toute l’armure de Dieu, afin de pouvoir prendre position contre les stratagèmes du diable. Car notre lutte n’est pas contre la chair et le sang, mais contre les dirigeants, contre les autorités, contre les puissances de ce monde des ténèbres et contre les forces spirituelles du mal dans les royaumes célestes.
+>   Éphésiens 6:10-12 Enfin, soyez forts dans le Seigneur et dans sa toute-puissance. Revêtez toute l’armure de Dieu, afin de pouvoir prendre position contre les stratagèmes du diable. Car notre lutte n’est pas contre la chair et le sang, mais contre les dirigeants, contre les autorités, contre les puissances de ce monde obscur et contre les forces spirituelles du mal dans les royaumes célestes.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -390,7 +390,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Luc 18:1-8 Dieu n'est pas comme un juge injuste
 
->   Luc 18:1-8 Ensuite, Jésus a raconté une parabole à ses disciples pour leur montrer qu'ils doivent toujours prier et ne pas abandonner. Il a déclaré : « Dans une certaine ville, il y avait un juge qui ne craignait pas Dieu et ne se souciait pas de ce que pensaient les gens. Et il y avait dans cette ville une veuve qui venait le voir pour lui demander : « Accorde-moi justice contre mon adversaire. » Pendant quelque temps, il refusa. Mais finalement il se dit : « Même si je n'ai pas peur de Dieu et que je ne me soucie pas de ce que pensent les gens, mais parce que cette veuve continue de me déranger, je veillerai à ce qu'elle obtienne justice, afin qu'elle ne finisse pas par venir m'attaquer ! ' Et le Seigneur dit : « Écoutez ce que dit le juge injuste. Et Dieu ne fera-t-il pas justice à ses élus, qui crient vers lui jour et nuit ? Va-t-il continuer à les éliminer? Je vous le dis, il veillera à ce qu'ils obtiennent justice, et vite. Cependant, lorsque le Fils de l’homme viendra, trouvera-t-il la foi sur la terre ?”
+>   Luc 18:1-8 Ensuite, Jésus a raconté une parabole à ses disciples pour leur montrer qu'ils doivent toujours prier et ne pas abandonner. Il a déclaré : « Dans une certaine ville, il y avait un juge qui ne craignait pas Dieu et ne se souciait pas de ce que pensaient les gens. Et il y avait dans cette ville une veuve qui venait le voir pour lui demander : « Accorde-moi justice contre mon adversaire. » Pendant quelque temps, il refusa. Mais finalement il se dit : « Même si je n'ai pas peur de Dieu et que je ne me soucie pas de ce que pensent les gens, mais parce que cette veuve continue de me déranger, je veillerai à ce qu'elle obtienne justice, pour qu'elle ne finisse pas par venir m'attaquer ! ' Et le Seigneur dit : « Écoutez ce que dit le juge injuste. Et Dieu ne fera-t-il pas justice à ses élus, qui crient vers lui jour et nuit ? Va-t-il continuer à les éliminer? Je vous le dis, il veillera à ce qu'ils obtiennent justice, et vite. Cependant, lorsque le Fils de l’homme viendra, trouvera-t-il la foi sur la terre ?”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
