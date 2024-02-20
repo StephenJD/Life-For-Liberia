@@ -635,8 +635,8 @@ def getDocTitle(page):
   if len(summary) == 0:
     summary = line[:50]
   else:
-    #summary = '\n\n<br>'.join(summary)
-    summary = '\n\n'.join(summary) 
+    #summary = '<br>'.join(summary) # OK for website, but not pdf's
+    summary = '\n\n'.join(summary) # need \n\n for pdf's
   #summary = cleanFrontMatterString(summary)    
   summary = '"' + summary + '"'
   return title, summary
@@ -833,7 +833,8 @@ def tableOfScriptures(mdRootPath):
           doc_title = line[2:-1]
           page_name = pathToURL(doc_title).lower() + '_' + doc_name
         else: # find list of references
-          for ref in line.split('<br>'):
+          #for ref in line.split('<br>'):
+          for ref in line.split('\n\n'):
             start = ref.find(':')
             if start == -1:
               start = 0
@@ -1098,7 +1099,7 @@ def main():
     if upload_required:updateWebsite(webRootPath)
     
   # next SourceDoc
-  #re_do_listOfRefs = True
+  re_do_listOfRefs = True
   if re_do_listOfRefs: tableOfScriptures(webRootPath / "content/en/01_Apprentice-Training")
   updateWebsite(webRootPath)
   # Allow Windows to go to sleep again (optional)
