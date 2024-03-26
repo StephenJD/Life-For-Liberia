@@ -4,141 +4,217 @@ Formation D-Path
 
 [Utiliser cette formation](#utiliser-cette-formation)
 
-[D1 Découverte](#d1-découverte)
+[D1 Bonnes nouvelles](#d1-bonnes-nouvelles)
 
-[D2 Groupes de croissance](#d2-groupes-de-croissance)
+[D2 Écouter](#d2-écouter)
 
-[D3 Quatre sols](#d3-quatre-sols)
+[D3 Obéir](#d3-obéir)
 
-[D4 Seulement Jésus](#d4-seulement-jésus)
+[D4 Multiplier](#d4-multiplier)
 
-[D5 Repentir](#d5-repentir)
+[D5 Créer de nouveaux groupes](#d5-créer-de-nouveaux-groupes)
 
-[D6 Baptême](#d6-baptême)
+[D6 Seulement Jésus](#d6-seulement-jésus)
 
-[D7 Baptême dans l'Esprit](#d7-baptême-dans-lesprit)
+[D7 Repentir](#d7-repentir)
 
-[D8 Paix avec Dieu](#d8-paix-avec-dieu)
+[D8 Baptême](#d8-baptême)
 
-[D9 Prière](#d9-prière)
+[D9 Baptême dans l'Esprit](#d9-baptême-dans-lesprit)
 
-[D10 Partager votre histoire](#d10-partager-votre-histoire)
+[D10 Paix avec Dieu](#d10-paix-avec-dieu)
 
-[D11 Guérison et Évangile du Royaume](#d11-guérison-et-évangile-du-royaume)
+[D11 Prière](#d11-prière)
 
-[D12 Communautés missionnaires](#d12-communautés-missionnaires)
+[D12 Partager votre histoire](#d12-partager-votre-histoire)
 
-[D13 Multiplier votre vie](#d13-multiplier-votre-vie)
+[D13 Guérison et Évangile du Royaume](#d13-guérison-et-évangile-du-royaume)
 
-### Formation D-Path
+[D14 Communautés missionnaires](#d14-communautés-missionnaires)
 
-Cet ensemble d’histoires évangéliques est choisi pour aider une personne à passer de la curiosité à l’égard de Jésus à devenir un disciple fécond, confiant et obéissant de Jésus.
+[D15 Multiplier votre vie](#d15-multiplier-votre-vie)
 
-Après avoir enseigné chaque histoire, demandez : **Quelle bonne nouvelle contient cette histoire ?**
-
-Après avoir enseigné toutes les histoires d'une section, les disciples doivent parcourir les histoires dans leur GG, en utilisant les questions GG.
+Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de « repères » importants, depuis la curiosité à l'égard de Jésus jusqu'à devenir un apprenti du Royaume.
 
 # Utiliser cette formation
 
-## Obéissance personnelle
+## Formation sur les repères du disciple
 
-Un formateur est simplement un apprenti qui a déjà appris une histoire de formation, qui vit en obéissance à celle-ci et qui souhaite maintenant la transmettre.
+Un apprenti du Royaume est un disciple de Jésus fécond, confiant et obéissant, qui s’engage à accomplir le commandement de Jésus de faire des disciples qui se multiplient. Notre ADN est **Écouter**, **Obéir** et **Multiplier**.
 
-Ces histoires ne peuvent être enseignées efficacement que par un apprenti qui s’est approprié l’histoire et qui est parvenu à aimer la bonne nouvelle qu’elle contient. Chaque histoire est suivie de la simple question « Quelle bonne nouvelle y a-t-il dans cette histoire ? » Il appartient au formateur d'avoir prié sur l'histoire et écouté Jésus pour pouvoir guider ses apprentis dans la découverte de la bonne nouvelle.
+Cette formation est conçue pour être utilisée par tout type de groupe, y compris les groupes en ligne. Il peut également être utilisé par un particulier. D5 décrit les groupes de découverte et les groupes de croissance.
 
-Les formateurs doivent comprendre en quoi consiste la formation. Ils doivent bien connaître les histoires de formation et comprendre comment chaque histoire contribue au message de formation. Si vous ne savez pas pourquoi une histoire est pertinente par rapport au sujet de la formation, demandez à d'autres formateurs ce qu'ils en pensent.
+Les premières formations incluent quelques histoires tirées de sourates du Coran à utiliser avec des groupes musulmans. Vous pouvez les omettre pour les groupes chrétiens.
 
-Avez-vous une passion pour que les gens apprennent la formation ? Alors ne prends pas de raccourcis!
+Utiliser la sourate 5:46 (si vous invitez un musulman) et Matthieu 11:28-30 depuis D1 pour inviter les gens à créer un groupe. Lors de la première réunion de groupe, utilisez le suivant D1 histoire (Actes 26:18).
 
-## Aucun expert
+## Apprendre les histoires
 
-Les experts font toute la formation parce qu’ils sont les meilleurs dans ce domaine. Mais les experts ne grandissent que par addition et non par multiplication. Alors ne cédez pas à la tentation de faire toute la formation vous-même. Jésus n'a pas dit de faire des experts, mais de faire des disciples ! Les gens apprennent mieux en enseignant, alors laissez les nouveaux apprentis enseigner. Vous avez besoin de nombreux apprentis formateurs expérimentés.
+Nous recommandons fortement au formateur et aux membres du groupe d'apprendre les histoires par cœur afin que Jésus puisse continuer à vous parler à travers elles. La plupart des histoires peuvent facilement être apprises à la lettre, mais pour les histoires plus longues, il suffit de pouvoir raconter l'histoire avec vos propres mots.
 
-## Groupes de croissance pour le discipulat
+Utilisez une Bible moderne et facile à lire, pas la Bible King James!
 
-Cette formation est une série d'histoires évangéliques soigneusement sélectionnées que les groupes de croissance peuvent utiliser pour aider les disciples (apprentis) à grandir dans les repères essentiels du discipulat. Il y a beaucoup de choses que le Saint-Esprit peut nous apprendre à travers chacune de ces histoires, et suffisamment de temps et d’attention doivent être accordés à chaque histoire avant de passer à la suivante.
-
-Il y a deux étapes essentielles et distinctes. Tout d'abord, un formateur enseigne l'histoire au GG. Cette étape de formation n'est PAS un GG et n'utilise pas les questions GG. Elle est normalement beaucoup plus brève qu’une réunion du GG. Ne laissez pas cela s'éterniser ou dégénérer en prédication.
-
-La deuxième étape consiste pour les membres du GG à se réunir pour discuter de l’histoire et apprendre à lui obéir. Ils peuvent continuer à discuter de l’histoire pendant plusieurs semaines avant d’être prêts à passer à l’histoire suivante. Ils ne devraient pas se précipiter.
-
-## N'entraînez PAS les gens à être désobéissants!
-
-Jésus a dit que le bâtisseur sage est celui qui entend **et obéit** ses paroles (Luc 6:46). Le but de cette formation est de susciter des disciples obéissants à Jésus.
-
-Pour cette raison, cette formation ne doit **pas** être réalisée à la hâte. Si vous progressez trop rapidement dans cette formation sans vous assurer que les auditeurs obéissent à ce qu’ils apprennent, vous les entraînerez à désobéir ! Ils penseront qu’entendre ou comprendre est tout ce qui compte et que l’obéissance est facultative.
-
-## Raconte-moi la même histoire
-
-Nous recommandons fortement aux formateurs et aux membres de GG d'apprendre par cœur les histoires de formation afin que le Saint-Esprit puisse continuer à vous parler à travers elles.
-
-La plupart des histoires peuvent facilement être apprises à la lettre, mais pour les histoires plus longues, il suffit de pouvoir raconter l'histoire avec vos propres mots.
+Si des membres n’ont pas de Bible ou ne savent pas lire, vous pouvez lire le passage à haute voix et laisser les membres l’enregistrer sur leur téléphone.
 
 Chaque fois que vous enseignez une histoire, si c'est quelque chose que Jésus a dit, commencez-la par « Jésus a dit : ». De cette façon, la personne qui apprend saura que ce sont les paroles de Jésus.
 
-1.  Utilisez autant que possible des actions à chaque fois que vous racontez l’histoire et demandez aux apprentis de copier vos actions.
-2.  Récitez l’histoire de mémoire deux fois.
-3.  Demandez aux apprentis de raconter tous les détails qu’ils ont remarqués dans l’histoire.
-4.  S’ils oublient quelque chose, posez des questions pour voir s’ils se souviennent du détail.
-5.  Récitez l’histoire de mémoire deux fois de plus.
-6.  Dites : "**Racontez-moi la même histoire**" jusqu'à ce qu'ils aient compris.
+Utilisez des actions pour aider les gens à se souvenir de l’histoire. Demandez aux membres de copier vos actions.
 
-Après avoir enseigné chaque histoire, demandez « Quelle bonne nouvelle y a-t-il dans cette histoire ? ». Cela rappelle au formateur et à l'apprenti que l'Évangile est une Bonne Nouvelle.
+Récitez l'histoire de mémoire deux fois, puis dites au groupe : "**Racontez-moi la même histoire**".
 
-## Un exemple de séance de formation
+Pour une histoire plus longue, utilisez cet outil d'apprentissage:
 
-*Exemple de formation D3:*
+-   Demandez aux membres de raconter tous les détails qu’ils ont remarqués dans l’histoire.
+-   S’ils oublient quelque chose, posez des questions pour voir s’ils se souviennent du détail.
+-   Récitez l’histoire de mémoire deux fois de plus.
+-   Dites : "**Racontez-moi la même histoire**" jusqu'à ce qu'ils aient compris.
 
-Aujourd’hui, nous allons passer par la prochaine formation sur le Disciple-Repères. On l'appelle D3-Quatre sols. Disons ensemble la devise : « Aimez-vous les uns les autres – Allez et faites des disciples ».
+## 4 Règles de groupe
 
-La première histoire vient de Luke 8:5-8,11-15.
+Ces règles de groupe se sont révélées essentielles pour des groupes heureux et fructueux. Chaque fois que vous créez un nouveau groupe, partagez ces règles de groupe avec les membres.:
 
-*Suivez les instructions « Enseigner l'histoire » ci-dessus.*
+### 1. Pas d'église!
 
-*S'ils oublient un détail à l'étape 3, pose des questions comme celles-ci:*
+Nous ne voulons pas fonder une église, ni inciter quiconque à aller à l’église, ou à quitter son église ou sa mosquée.
 
->   Qui a semé la graine ? Comment l'a-t-il semé ? Où sont tombées les graines gaspillées ? Qu'est-ce qui lui est arrivé? Où est tombée la prochaine graine ?
+Nous partageons simplement des histoires de Jésus, afin que les gens puissent devenir de meilleurs chrétiens ou musulmans.
 
-Maintenant **raconte-moi la même histoire**. Disons tout ensemble... Luke 8:5-8,11-15 “Un agriculteur est allé semer sa graine..."
+### 2. Aucune prédication autorisée
 
-*Au lieu des questions GG, demandez* « Quelle bonne nouvelle y a-t-il dans cette histoire ? » *Ne vous précipitez pas. Ils ont besoin de voir les bonnes nouvelles et voudront donc passer du temps dans leur GG pour en discuter.*
+Les membres ne doivent pas prêcher ou enseigner aux autres membres. Si les gens veulent entendre des prédications, ils peuvent aller à l'église ou à la mosquée.!
 
-*À la fin de la formation, utilisez les questions de conclusion.*
+Chaque personne peut partager ce qu’elle pense, et personne ne devrait essayer de la corriger ou de dire qu’elle a tort. Nous ne nous réunissons pas pour discuter les uns avec les autres, mais pour nous écouter et apprendre les uns des autres et de Jésus. Les groupes d’enfants peuvent avoir besoin d’aide et de rappel pour ne pas prêcher ou se montrer autoritaire envers les jeunes enfants.
 
-La meilleure façon d’apprendre l’histoire est de l’enseigner ! Alors, allez-vous enseigner cette histoire à quelqu’un d’autre chaque jour cette semaine ?
+### 3. Répondez uniquement à partir du passage
 
-### Résumé de la façon de s'entraîner:
+Lorsque vous discutez d'un passage, nous vous demandons de limiter vos réponses au contenu du passage choisi. Si les gens commencent à citer d’autres Écritures, ou ce qu’ils ont lu ou entendu ailleurs, ils auront l’air d’un expert et rebuteront ceux qui n’ont pas cette connaissance approfondie. Nous devons apprendre de Jésus, pas de nos traditions.
 
-1.  Nom du parcours de formation : « Discipleship-Landmarks »
-2.  Numéro et titre de la formation : "D3-Quatre sols."
-3.  Devise : « Aimez-vous les uns les autres – Allez et faites des disciples »
-4.  Faites référence à l’histoire et récitez l’histoire de mémoire deux fois.
-5.  Posez beaucoup de questions simples « Qu'est-ce qu'il y a dans l'histoire ».
-6.  Récitez l'histoire de mémoire deux fois et copiez vos actions.
-7.  "Racontez-moi la même histoire" jusqu'à ce qu'ils l'aient apprise et puissent la raconter par eux-mêmes.
-8.  Demandez : « Quelle bonne nouvelle y a-t-il dans cette histoire ? »
-9.  Posez les questions de conclusion.
-10. Encouragez-les à enseigner l’histoire à quelqu’un d’autre chaque jour cette semaine. La meilleure façon d'apprendre l'histoire est de l'enseigner!
+### 4. Allez à votre rythme
 
-## Progresser dans la formation
+Il y a beaucoup de choses que Jésus peut nous apprendre à travers chacune de ces histoires, et suffisamment de temps et d’attention doivent être accordés à chaque histoire avant de passer à la suivante. Si vous progressez trop vite sans vous assurer que les auditeurs obéissent à ce qu’ils apprennent, vous les entraînerez à désobéir ! Ils penseront qu’entendre ou comprendre est tout ce qui compte et que l’obéissance est facultative.
 
-Enseigner D1-Découverte et D2-Groupes de croissance en une seule séance si possible.
+Ne pas épuiser les gens avec des passages difficiles ou de longues réunions (1½ heures est une durée habituelle de réunion). Vous n’avez pas besoin de tout comprendre, laissez simplement de côté les passages ou les histoires que vous trouvez trop difficiles.
 
-S'ils acceptent de se rencontrer dans un GG, organisez une première rencontre avec eux pour les aider à utiliser les quatre questions GG. Commencez par la première histoire de formation comme texte. Laissez-les diriger la discussion, mais veillez à ne pas la laisser s’éterniser en une longue séance ennuyeuse. Encouragez-les à prier et à écouter Jésus.
+Chaque groupe doit être libre de décider quand, où et à quelle fréquence il se réunit et de quelles histoires il discute. Ils peuvent se dissoudre et former de nouveaux groupes s’ils le souhaitent.
 
-Une fois que les disciples se réunissent régulièrement seuls en tant que GG et ont parcouru les D1 & D2 histoires, vous pourrez ensuite leur enseigner la prochaine formation. Progressez dans la formation à un rythme qui convient à leur croissance en obéissance. Si vous ne pouvez pas leur donner la prochaine formation dès qu'ils sont prêts, encouragez-les à continuer de se réunir dans leur GG et à parcourir l'Évangile de Luc depuis le début.
+## Des questions
 
-# D1 Découverte
+N'oubliez pas : *Aucune prédication n'est autorisée* ! Au lieu de cela, nous posons des questions pour aider chaque personne à écouter, obéir et se multiplier.
 
-Il s'agit de la première formation du D-Path : **D**iscipleship Landmarks.
+#### Questions d'écoute
+
+Commencez par des questions d'écoute, comme:
+
+-   Qu’est-ce qui vous plaît dans cette histoire ?
+-   Que pensez-vous de cette partie de l'histoire... ? »
+-   Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+Si les membres répondent bien à ces questions, nous pouvons essayer d'approfondir un peu:
+
+-   Qu'est-ce que cela nous apprend sur la nature (ou le caractère) des gens ?
+-   Qu’est-ce que cela nous apprend sur Jésus ou sur la nature de Dieu ?
+
+#### Questions d'obéissance
+
+Une fois que les gens ont réfléchi aux détails de l'histoire, posez des questions sur l'obéissance, comme:
+
+-   Que veut vous dire personnellement Jésus à travers cette histoire ?
+-   Comment allez-vous obéir ?
+
+Il est généralement facile de réfléchir à la manière dont une histoire s’applique aux autres. Mais quoi qu’il dise, demandez à Jésus ce qu’il veut vous dire personnellement.
+
+#### Questions sur les multiplications
+
+Enfin, posez des questions de multiplication comme:
+
+Avec qui Jésus veut-il que vous partagiez cette histoire ? (Dites leurs noms).
+
+Où Jésus veut-il que nous « allions » ?
+
+Pouvons-nous créer un nouveau groupe ?
+
+Quel type de nouveau groupe devrions-nous créer ?
+
+Ce ne sont que des suggestions de questions pour vous aider à démarrer. Si une question ne fonctionne pas, pensez à une alternative. Mais essayez de vous assurer de poser des questions d’écoute, d’obéissance et de multiplication.
+
+## Après chaque discussion
+
+Convenez de la date et de l’heure de la prochaine réunion et partagez l’histoire dont vous allez discuter.
+
+Pouvez-vous copier la Bible et la formation D-Path sur les téléphones intelligents des gens ?
+
+Ou pouvez-vous faire des copies de la formation D-Path à donner aux membres du groupe ?
+
+Ou les membres peuvent-ils photographier l’histoire ?
+
+Ou peuvent-ils enregistrer sa lecture ?
+
+Encouragez les membres à lire et à prier seuls sur l’histoire chaque jour avant que le groupe ne se réunisse pour en discuter. Cela fait une énorme différence.
+
+Enfin, prenez le temps de vous aimer en écoutant leurs préoccupations et en priant les uns pour les autres.
+
+# D1 Bonnes nouvelles
+
+Il s'agit de la formation d'introduction au D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
+Utilisez ces histoires pour inviter les gens à créer un nouveau groupe pour apprendre à écouter Jésus.
+
+## Sourate 5:46 Nous avons donné à Isa l'Injil contenant des conseils et de la lumière.
+
+>   Sourate 5:46 Nous avons envoyé Isa, fils de Marie, confirmant la Torah révélée devant lui. Et Nous lui avons donné l'Injil (Evangile) contenant la direction et la lumière et confirmant ce qui a été révélé dans la Torah - un guide et une leçon pour ceux qui craignent Dieu.
+
+Nous sommes venus partager avec vous les conseils et la lumière de l’Évangile. Pouvons-nous partager une histoire de l'Injil à propos d'Isa ?
+
+## Matthieu 11:28-30 Venez à moi
+
+>   Matthieu 11:28-30 Jésus a dit : « Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. Marchez avec moi et apprenez de moi, car je suis doux et humble de cœur, et vous trouverez le repos pour vos âmes. Car ma marche est facile et mon fardeau est léger.”
+
+Qu’est-ce qui vous plaît dans cette histoire ?
+
+Jésus dit-il : « Venez à l'église… » ?
+
+Expliquez que nous ne sommes pas venus pour fonder une église, ni pour vous demander de venir à l'église, ou de quitter votre église ou mosquée.
+
+Jésus dit-il : « Apprenez du prédicateur… » ?
+
+Expliquez que nous ne sommes pas venus prêcher, ni vous dire quoi croire.
+
+Quels fardeaux avez-vous ?
+
+Quel genre de repos Jésus vous offre-t-il ?
+
+Comment pouvez-vous venir à Jésus avec vos fardeaux ?
+
+À votre avis, que signifie « marcher avec moi et apprendre de moi » ?  
+Avec qui partagerez-vous cette histoire ?
+
+Voudriez-vous que je revienne une autre fois pour que vous puissiez entendre plus d'histoires de Jésus et ainsi apprendre à marcher avec lui et à apprendre de lui ?
+
 ## Actes 26:18 Des ténèbres à la lumière
 
->   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon des péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
+>   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon de leurs péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+Jésus nous a envoyé vers toi. Vers qui Jésus vous envoie-t-il ?
+
+Qui pourriez-vous inviter à rejoindre ce groupe ?
+
+# D2 Écouter
+
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
+
+Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+
+Rappelez au groupe le 4 règles de groupe.
+
+## Sourate 4:171 Allah n'a pas de descendance
+
+>   Sourate 4:171 “Allah n'a pas de descendance”
+
+La Bible confirme que Dieu n'a pas de descendance. Jésus décrit Dieu comme son père d'une manière relationnelle et non biologique.
 
 ## Matthieu 11:27 Personne ne connaît le fils...
 
@@ -146,11 +222,15 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
+Qui devons-nous écouter ?
+
 ## John 6:45 Tous ceux qui ont entendu le Père
 
 >   John 6:45 Jésus a dit : « Quiconque a entendu le Père et appris de lui vient à moi. »
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+Qui devons-nous écouter ?
 
 ## John 6:63 L'Esprit donne la vie
 
@@ -158,120 +238,51 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-### Conclusion
-
-Qui a besoin de venir à la lumière de Dieu ?
-
-Comment sommes-nous rendus justes ?
-
-Qui peut nous dire la vérité sur Dieu ?
-
 Qui devons-nous écouter ?
 
-Vivre une vie bonne et juste peut-il nous amener au paradis ?
+### Conclusion
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez par-dessus D1 à D2 encore des histoires.
 
-# D2 Groupes de croissance
+Comment ce groupe vous aide-t-il à écouter ?
 
-Il s'agit de la deuxième formation du D-Path : **D**iscipleship Landmarks.
+Selon vous, quelles questions vous aident vraiment à écouter ?
+
+Allez-vous vous écouter attentivement et ne pas simplement attendre votre tour pour parler ?
+
+Allez-vous demander à Jésus de vous montrer ce que signifie chaque histoire et d’écouter sa réponse ?
+
+Il est peu probable que vous entendiez une voix ! Mais si vous écoutez, des idées vous viendront à l’esprit, ou quelqu’un d’autre pourra dire quelque chose qui vous aidera. Faites simplement confiance à Jésus pour parler d’une manière que vous pouvez entendre. Cela vient avec la pratique.
+
+# D3 Obéir
+
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-## Matthieu 18:20 Où deux ou trois se rassemblent
+## Sourate 43:63 Isa a dit : « Craignez Dieu et obéissez-moi.”
 
->   Matthieu 18:20 Jésus a dit : « Là où deux ou trois se rassemblent en mon nom, je suis avec eux. »
-
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
-
-## John 16:13 L'Esprit de vérité vous guidera
-
->   John 16:13 Jésus a dit : « L'Esprit de vérité vous guidera dans toute la vérité. »
-
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   Sourate 43:63 Quand Isa est venu avec les clarifications, il a dit : « Je suis venu vers vous avec sagesse et pour clarifier pour vous certains des points sur lesquels vous n'êtes pas d'accord. Craignez donc Dieu et obéissez-moi. »
 
 ## Luc 6:46-49 Constructeurs sages et insensés
 
->   Luc 6:46-49 Jésus a dit : « Pourquoi m’appelez-vous « Seigneur, Seigneur » et ne faites-vous pas ce que je dis ? Tous ceux qui viennent à moi, entendent mes paroles et les mettent en pratique, je vous montrerai à quoi elles ressemblent. Ils sont comme un homme qui bâtit une maison, qui creuse profondément et pose les fondations sur le roc. Lorsqu'une inondation arriva, le torrent frappa cette maison mais ne put l'ébranler, car elle était bien bâtie. Mais celui qui écoute mes paroles et ne les met pas en pratique est comme un homme qui a bâti une maison sur le sable. Au moment où le torrent a frappé cette maison, elle s’est effondrée et sa destruction a été totale.”
+>   Luc 6:46-49 Jésus a dit : « Pourquoi m’appelez-vous « Seigneur, Seigneur » et ne faites-vous pas ce que je dis ? Tous ceux qui viennent à moi, entendent mes paroles et les mettent en pratique, je vous montrerai à quoi elles ressemblent. Ils sont comme un homme qui bâtit une maison, qui creuse profondément et pose les fondations sur le roc. Lorsqu'une inondation survint, la tempête frappa cette maison mais ne put l'ébranler, car elle était bien bâtie. Mais celui qui écoute mes paroles et ne les met pas en pratique est comme un homme qui a bâti une maison sur le sable. Au moment où la tempête a frappé cette maison, elle s’est effondrée et sa destruction a été totale.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-### Conclusion
-
-Comment pouvez-vous rencontrer Jésus ?
-
-Comment découvrir la vérité ?
-
 Comment avoir une vie inébranlable ?
 
-Souhaitez-vous vous réunir dans un Groupe de Croissance (GG) de deux ou trois personnes pour vous réunir régulièrement (généralement une à deux fois par semaine) pour écouter Jésus, apprendre du Saint-Esprit, vous aimer les uns les autres et tendre la main aux autres ?
+### Conclusion
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez par-dessus D1 à D3 encore des histoires.
 
-### Quatre questions GG
+Comment ce groupe vous aide-t-il à obéir à Jésus ?
 
-Lorsque le groupe de croissance se réunit, vous commencez par lire (ou raconter) l’histoire biblique que vous avez choisie. Chaque personne doit ensuite **raconter la même histoire** de mémoire pour s'assurer que tout le monde comprend ce qu'il a entendu. Ensuite, chaque personne devrait partager la discussion sur ces quatre questions.:
+Selon vous, quelles questions vous aident vraiment à obéir ?
 
-1.  Qu'est-ce que cela nous apprend sur le caractère ou la nature des gens ?
-2.  Qu’est-ce que cela nous apprend sur Jésus ou Dieu ?
-3.  Qu’est-ce que Jésus veut me dire personnellement ? (Comment allez-vous obéir ?)
-4.  Avec qui Jésus veut-il que je partage cette histoire ? (Dites leurs noms).
+# D4 Multiplier
 
-Ensuite, à tour de rôle, priez les uns pour les autres et pour votre contact avec les autres.
-
-Convenez de l'histoire pour la prochaine réunion. Entre les réunions, priez chaque jour pour la prochaine histoire et voyez ce que Jésus vous dit, prêt pour votre prochaine réunion.
-
-### Quatre règles GG
-
-#### Pas plus que 4 personnes
-
-Deux ou trois est la taille idéale. Dans les groupes plus importants, certaines personnes ne contribueront pas.
-
-Incluez les jeunes enfants dans un groupe familial. Les enfants qui savent lire peuvent former leur propre groupe – laissez-les demander de l’aide s’ils le souhaitent.
-
-#### Aucune prédication autorisée
-
-Les membres ne doivent pas prêcher ou enseigner aux autres membres. Ils doivent s’entraider pour écouter Jésus et découvrir par eux-mêmes.
-
-Les groupes d’enfants peuvent avoir besoin d’aide et de rappel pour ne pas prêcher ou se montrer autoritaire envers les jeunes enfants.
-
-#### Répondez uniquement à partir du passage
-
-Lorsque vous discutez de votre passage et répondez aux questions GG, limitez vos réponses au contenu du passage choisi. Si vous commencez à citer d’autres Écritures, ou ce que vous avez appris des commentaires, des prédicateurs ou des écoles bibliques, vous aurez alors l’air d’un expert et rebuterez ceux qui n’ont pas vos connaissances approfondies.
-
-#### Allez à votre rythme
-
-Allez au rythme qui convient à votre groupe. Ne pas épuiser les gens avec des passages difficiles ou de longues réunions (1½ heures est une durée habituelle de GG). Vous n’avez pas besoin de tout comprendre, laissez simplement de côté les passages que vous trouvez difficiles.
-
-Les GG doivent être libres du contrôle des dirigeants de l'église. Ils peuvent décider quand, où et à quelle fréquence ils se réunissent et de quelles histoires ils discuteront. Ils peuvent se dissoudre et former de nouveaux GG s'ils le souhaitent.
-
-Progressez lentement [^1]L'Évangile de Luc puis Jean, Marc et Matthieu avant de passer à d'autres parties de la Bible. Nous vous recommandons de revenir à au moins un Évangile chaque année.
-
-[^1]: Luke est le meilleur conteur. John fournit de nombreuses applications, Mark est plein d'action, Matthew fournit un peu de tout. Cet ordre suggéré est notre recommandation pour tous les nouveaux GG. Si vous suivez une formation de disciple, vous voudrez prendre le temps dans votre GG de parcourir les histoires de formation.
-
-### Quatre pratiques GG
-
-#### Lisez le passage chaque jour
-
-Vous tirerez beaucoup plus de profit de votre GG si vous lisez et priez vous-même sur le passage convenu chaque jour avant que votre GG ne se réunisse pour en discuter.
-
-#### Écoutez Jésus et obéissez-lui
-
-Lorsqu’on réfléchit à un passage, il est généralement facile de penser à la manière dont il s’applique aux autres. Mais quoi qu’il dise, demandez à Jésus ce qu’il veut vous dire personnellement. Il veut vous bénir et vous aider à lui ressembler davantage. Mais pour entendre, il faut écouter!
-
-Soyez obéissant à ce que Jésus vous dit. L’obéissance est la seule chose qui compte pour être disciple de Jésus.
-
-#### Priez les uns pour les autres
-
-Prenez le temps de vous aimer en écoutant vos préoccupations et en priant les uns pour les autres.
-
-#### Créer de nouveaux groupes
-
-Partagez votre expérience GG avec les autres et aidez-les à créer leur propre GG. Priez pour que vous puissiez démarrer des GG dans toute votre communauté et également dans les communautés environnantes.
-
-# D3 Quatre sols
-
-Il s'agit de la troisième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -283,15 +294,95 @@ Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-### Conclusion
-
 Quel type de sol pensez-vous être ?
 
-Allez-vous revivre cette histoire dans votre GG ?
+### Conclusion
 
-# D4 Seulement Jésus
+L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez par-dessus D1 à D4 encore des histoires.
 
-Il s'agit de la quatrième formation du D-Path : **D**iscipleship Landmarks.
+Quelles histoires parlent de multiplication ?
+
+Comment ce groupe vous aide-t-il à vous multiplier ?
+
+Selon vous, quelles questions vous aident vraiment à vous multiplier ?
+
+La prochaine formation vous aidera à vous multiplier en créant un nouveau groupe.
+
+# D5 Créer de nouveaux groupes
+
+## Matthieu 18:20 Où deux ou trois se rassemblent
+
+>   Matthieu 18:20 Jésus a dit : « Là où deux ou trois se rassemblent en mon nom, je suis avec eux. »
+
+Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+## Sourate 19:34 Isa est la Parole de Vérité
+
+>   Sourate 19:34 C'est Isa, fils de Marie, la Parole de vérité dont ils doutent.
+
+## John 16:13 L'Esprit de vérité vous guidera
+
+>   John 16:13 Jésus a dit : « L'Esprit de vérité vous guidera dans toute la vérité. »
+
+Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+## John 7:18 Celui qui parle tout seul cherche sa gloire personnelle
+
+>   John 7:18 Jésus a dit : « Celui qui parle de son propre chef le fait pour gagner sa gloire personnelle, mais celui qui cherche la gloire de celui qui l'a envoyé est un homme de vérité ; il n'y a rien de faux chez lui.”
+
+Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+Jésus nous avertit de ne pas aimer le son de notre propre voix et de nous laisser impressionner par notre propre prédication, mais de laisser Jésus parler à travers les histoires qu'il nous a racontées. Si nous recherchons réellement la gloire de Dieu, nous accorderons plus de valeur à ses paroles qu’aux nôtres.
+
+## Marque 7:9 Vous observez vos propres traditions
+
+>   Marque 7:9 Jésus a dit : « Vous avez une belle manière de mettre de côté les commandements de Dieu pour observer vos propres traditions !
+
+Nous devons apprendre de Jésus, pas de nos traditions. C'est pourquoi nous répondons uniquement à partir du passage, et non à partir de ce que d'autres nous ont dit.
+
+## Différents types de groupe
+
+Nous proposons différents types de groupes, mais tous dépendent de la véracité de ces promesses. Les groupes peuvent être utilisés dans les familles, les églises, les mosquées, les écoles et dans la communauté et peuvent inclure des enfants et des jeunes.
+
+Les groupes de découverte (DG) ont pour but d'aider les gens à découvrir Jésus. Ils sont ouverts à tous ceux qui souhaitent venir et sont souvent des groupes mixtes de chrétiens, de musulmans et de personnes d'autres confessions ou sans foi. Ils se terminent quand ils ont terminé D7 - Repentir.
+
+Les communautés missionnaires (MC) nous aident à être sel et lumière dans nos communautés en agissant pour répondre aux besoins de la communauté. Ils sont également ouverts à tous ceux qui souhaitent venir. Nous en apprendrons davantage dans une formation ultérieure.
+
+Les groupes de croissance (GG) sont destinés aux personnes qui souhaitent sérieusement devenir apprentis du Royaume. Un groupe de croissance est composé de deux ou trois personnes qui se réunissent régulièrement (généralement une ou deux fois par semaine) pour écouter Jésus, apprendre du Saint-Esprit, s'aimer et tendre la main aux autres.
+
+Le but des groupes de découverte et des communautés missionnaires est d’amener les gens à un endroit où ils veulent vraiment être des disciples de Jésus et créer un groupe de croissance.
+
+Une fois qu'un GG a terminé la formation D-Path, vous pouvez utiliser les autres ensembles d'histoires (Prière, Aller aux Nations, Église simple, etc. Voir www.kingdom-apprentices.net) ou progresser lentement. [^1]L'Évangile de Luc puis Jean, Marc et Matthieu avant de passer à d'autres parties de la Bible. Nous vous recommandons de revenir à au moins un Évangile chaque année.
+
+[^1]: Luke est le meilleur conteur. John fournit de nombreuses applications, Mark est plein d'action, Matthew fournit un peu de tout. Cet ordre suggéré est notre recommandation pour tous les nouveaux GG. Si vous suivez une formation de disciple, vous voudrez prendre le temps dans votre GG de parcourir les histoires de formation.
+
+## Créer un nouveau groupe
+
+>   Pour créer un nouveau groupe, vous devez former un nouveau leader pour ce groupe, **puis quitter le groupe** pour continuer sans vous.
+
+>   Quitter le groupe est indispensable pour se multiplier. Si nous ne quittons pas le groupe, tout ce que nous pouvons faire est d'ajouter, pas de multiplier, et nous nous épuiserons.!
+
+Chaque fois qu'un nouveau groupe démarre, parcourez la section « Utilisation de cette formation » au début de ce manuel et démarrez le D-Path à D1, même si les membres ont déjà parcouru certaines histoires dans un autre groupe. Cela permet de garantir que chaque membre fait l'expérience de la réalité des histoires et obéit à Jésus.
+
+Dès qu'un membre est en mesure de répondre correctement aux questions, demandez-lui de diriger les réunions à tour de rôle avec votre aide. Une fois qu’ils sont en confiance, quittez le groupe et allez en créer un autre.
+
+### N'utilisez pas de préservatif!
+
+Demander aux gens de se rassembler dans un bâtiment public comme une église, une mosquée ou une cabane à palabres, c'est comme utiliser un préservatif ! Cela empêche la reproduction. Les gens timides ne pouvaient pas rassembler une foule et la diriger, ils ne se reproduiraient donc pas. Mais ils peuvent inviter quelques amis et voisins à partager une histoire de Jésus chez eux.
+
+### Arrosage
+
+Paul a dit : « J’ai planté, Apollos a arrosé, mais Dieu a fait croître. » Lorsque nous avons « planté » un groupe, nous devons « l’arroser » pour l’aider à bien pousser. Cela impliquera de prier fidèlement pour l'hôte et les membres du groupe, de téléphoner à l'hôte pour les encourager et de lui rendre visite de temps en temps pour siéger au groupe afin de s'assurer qu'il fonctionne toujours bien et de répondre à toutes les questions qui se posent.
+
+### Enregistrements
+
+Obtenir des commentaires réguliers de la part des groupes peut contribuer à garantir leur efficacité et à découvrir s’ils ont besoin d’une aide ou d’une formation supplémentaire.
+
+Cependant, nombreux sont ceux qui trouvent que la rédaction de rapports est fastidieuse et difficile. Rappelez-vous que Jésus a dit : « Mon fardeau est léger » : tenir des registres de nos activités doit clairement servir notre objectif et ne pas devenir un fardeau.
+
+# D6 Seulement Jésus
+
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -313,17 +404,15 @@ Pensez-vous que Jésus était fou ou méchant pour dire ces choses ?
 
 Êtes-vous prêt à suivre Jésus comme ça ? Ou avez-vous besoin de plus de temps pour découvrir qui est vraiment Jésus ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+# D7 Repentir
 
-# D5 Repentir
-
-Il s'agit de la cinquième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 ## Marque 1:15 Le temps est venu
 
->   Marque 1:15 Jésus est allé en Galilée, proclamant la bonne nouvelle de Dieu. « Le moment est venu », a-t-il déclaré. « Le royaume de Dieu est proche. Repentez-vous et croyez à la bonne nouvelle!”
+>   Marque 1:15 Jésus est allé en Galilée, proclamant la bonne nouvelle de Dieu. « Le moment est venu », a-t-il déclaré. « Le royaume de Dieu est proche. Repentez-vous (retournez-vous) et croyez à la bonne nouvelle!”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -341,11 +430,13 @@ Selon Jésus, que devons-nous croire ?
 
 Quels sont les résultats de la croyance ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+A présent, ceux qui veulent devenir disciples de Jésus devraient faire partie d'un groupe de croissance et peuvent continuer à D8 - Baptême.
 
-# D6 Baptême
+Ceux qui ne sont pas prêts à rejoindre un groupe de croissance pourraient créer un nouveau groupe de découverte à D1, ou démarrer une communauté missionnaire (voir D14) avec les histoires de M-Path. Voir D5 “Créer de nouveaux groupes ».
 
-Il s'agit de la sixième formation du D-Path : **D**iscipleship Landmarks.
+# D8 Baptême
+
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -379,17 +470,15 @@ Que se passe-t-il en nous lorsque nous allons sous l’eau lors du baptême ?
 
 Que se passe-t-il en nous lorsque nous sortons de l’eau par le baptême ?
 
-Si vous avez obéi à D4 "Seulement Jésus" et D5 "Repentir" et que vous comprenez cette formation sur le Baptême alors vous êtes prêt à être baptisé. Mais avant de vous faire baptiser, nous vous recommandons de suivre la formation suivante: D7-Baptême dans le Saint-Esprit. Ces deux-là vont ensemble.
+Si vous avez obéi à D6 "Seulement Jésus" et D7 "Repentir" et que vous comprenez cette formation sur le Baptême alors vous êtes prêt à être baptisé. Mais avant de vous faire baptiser, nous vous recommandons de suivre la formation suivante: D9-Baptême dans le Saint-Esprit. Ces deux-là vont ensemble.
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+# D9 Baptême dans l'Esprit
 
-# D7 Baptême dans l'Esprit
-
-Il s'agit de la septième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le temps de les parcourir dans la prière et d’en discuter avec votre mentor.
+Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le temps de les parcourir dans la prière et d’en discuter avec votre formateur.
 
 ## John 3:3-6 Vous devez être né de nouveau
 
@@ -425,11 +514,9 @@ Comment pouvez-vous recevoir le Saint-Esprit ?
 
 Quelle est la preuve d’avoir reçu le Saint-Esprit ?
 
-Allez-vous demander à votre mentor chrétien de vous baptiser dans l’eau ?
+Allez-vous demander à votre entraîneur chrétien de vous baptiser dans l’eau ?
 
-Allez-vous demander à votre mentor chrétien de vous baptiser du Saint-Esprit ?
-
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+Allez-vous demander à votre entraîneur chrétien de vous baptiser du Saint-Esprit ?
 
 ### Une note pour les mentors
 
@@ -441,9 +528,9 @@ Certaines personnes disent que le parler en langues est LA preuve du baptême da
 
 Il est vrai que la plupart des exemples du Saint-Esprit donnés dans les Actes incluent le parler en langues, mais il ressort clairement du passage ci-dessus que cela n'a pas toujours été le cas. En fait, n’importe qui peut inventer du charabia et appeler cela le parler en langues. Jésus a dit qu'un arbre se reconnaît à ses fruits, nous devrions donc rechercher les preuves bibliques du baptême du Saint-Esprit dans une vie changée, et pas seulement dans l'apparence de « manifestations ». L'histoire finale de cette formation nous montre qu'il faut rechercher une espérance, une joie et une paix abondantes dans la foi comme preuve du Saint-Esprit.
 
-# D8 Paix avec Dieu
+# D10 Paix avec Dieu
 
-Il s'agit de la huitième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -451,9 +538,9 @@ John 14 est vraiment important et plein de vérité profonde sur laquelle nous d
 
 Croire en Jésus signifie croire ce qu'il dit de lui-même *et* croire ce qu'il dit de vous.
 
-## John 14:1-2 Ne laissez pas vos cœurs être troublés
+## John 14:1-3 Ne laissez pas vos cœurs être troublés
 
->   John 14:1-2 Jésus a dit : « Ne laissez pas votre cœur se troubler. Tu crois en Dieu; crois aussi en moi. La maison de mon Père a plusieurs pièces ; s'il n'en était pas ainsi, vous aurais-je dit que j'y vais pour vous préparer une place ?
+>   John 14:1-3 Jésus a dit : « Ne laissez pas votre cœur se troubler. Tu crois en Dieu; crois aussi en moi. La maison de mon Père a plusieurs pièces ; s'il n'en était pas ainsi, vous aurais-je dit que j'y vais pour vous préparer une place ? Et si je vais vous préparer une place, je reviendrai et vous recevrai auprès de moi ; afin que là où je suis, *là* tu sois aussi.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -493,11 +580,9 @@ Quelles choses pourraient troubler votre paix avec Dieu ?
 
 Que dit Jésus à ce sujet ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+# D11 Prière
 
-# D9 Prière
-
-Il s'agit de la neuvième formation du D-Path : **Repères du disciple.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -529,7 +614,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## John 15:16 Priez pour la fécondité
 
->   John 15:16 Jésus a dit : « Vous ne m’avez pas choisi, mais je vous ai choisi et établi pour que vous alliez porter du fruit et que votre fruit demeure, afin que tout ce que vous demanderez au Père en mon nom, il vous le donne.”
+>   John 15:16 Jésus a dit : « Vous ne m’avez pas choisi, mais je vous ai choisi et je vous ai établi pour que vous alliez porter du fruit et que votre fruit demeure, afin que tout ce que vous demanderez au Père en mon nom, il vous le donne.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -547,11 +632,11 @@ Quelle est la meilleure prière que nous puissions faire ?
 
 Allez-vous apprendre à prier en copiant d’autres personnes, ou apprendrez-vous de Jésus comment prier ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+Si vous souhaitez en savoir plus sur la prière, passez par le P-Path (Prière).
 
-# D10 Partager votre histoire
+# D12 Partager votre histoire
 
-Il s'agit de la dixième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -561,7 +646,7 @@ Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 ## Luc 8:26-39 Dis combien Dieu a fait pour toi
 
->   Luc 8:26-39 Lorsque Jésus débarqua, il fut accueilli par un homme possédé par un démon de la ville. Pendant longtemps, cet homme n'avait pas porté de vêtements ni vécu dans une maison, mais vivait dans les tombeaux. Lorsqu'il aperçut Jésus, il s'écria et tomba à ses pieds, criant à pleine voix : « Que me veux-tu, Jésus, Fils du Dieu Très-Haut ? Je t'en supplie, ne me torture pas ! Car Jésus avait ordonné à l’esprit impur de sortir de l’homme. Plusieurs fois, il l'avait saisi, et bien qu'il fût enchaîné pieds et poings liés et gardé sous surveillance, il avait brisé ses chaînes et avait été poussé par le démon dans des endroits solitaires.
+>   Luc 8:26-39 Lorsque Jésus débarqua, il fut accueilli par un homme possédé par un démon de la ville. Pendant longtemps, cet homme n'avait pas porté de vêtements ni vécu dans une maison, mais vivait dans les tombeaux. Lorsqu'il vit Jésus, il s'écria et tomba à ses pieds, criant à pleine voix : « Que me veux-tu, Jésus, Fils du Dieu Très-Haut ? Je t'en supplie, ne me torture pas ! Car Jésus avait ordonné à l’esprit impur de sortir de l’homme. Plusieurs fois, il l'avait saisi, et bien qu'il fût enchaîné pieds et poings liés et gardé sous surveillance, il avait brisé ses chaînes et avait été poussé par le démon dans des endroits solitaires.
 
 >   Jésus lui demanda : « Quel est ton nom ? » « Légion », répondit-il, car de nombreux démons étaient entrés en lui. Et ils supplièrent Jésus à plusieurs reprises de ne pas leur ordonner d’aller en enfer. Un grand troupeau de porcs paissait là, à flanc de colline. Les démons supplièrent Jésus de les laisser entrer dans les cochons, et il leur donna la permission. Quand les démons sortirent de l'homme, ils entrèrent dans les cochons, et le troupeau dévala la rive escarpée dans le lac et se noya.
 
@@ -593,11 +678,9 @@ Quelle différence Jésus a-t-il fait dans votre vie ?
 
 Allez-vous dire à votre famille, à vos amis et à votre communauté ce que Jésus a fait pour vous ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
+# D13 Guérison et Évangile du Royaume
 
-# D11 Guérison et Évangile du Royaume
-
-Il s'agit de la onzième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -621,22 +704,20 @@ Partagerez-vous la Bonne Nouvelle de la liberté de l'oppression, de la guériso
 
 Proposerez-vous de guérir les malades lorsque vous partagerez l’Évangile ?
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
-
-*Le mentor doit sortir avec l'apprenti pour démontrer la guérison, et le GG doit sortir ensemble pour pratiquer la guérison.*
+*Le formateur doit sortir avec l'apprenti pour démontrer la guérison, et le GG doit sortir ensemble pour pratiquer la guérison.*
 
 ### Conseils de guérison
 
-1.  Demandez à la personne pourquoi elle veut prier (ne présumez pas qu'elle veut la guérison).)
-2.  Écoutez Jésus pour savoir comment prier
-3.  Parlez simplement et calmement, sans crier.
-4.  Vous pouvez demander à Jésus de guérir, ou ordonner à la maladie de disparaître, ou encore bénir la personne en lui accordant la guérison. Quoi que vous fassiez, faites-le avec la foi que Jésus entend et répond.
-5.  Demandez à la personne si elle se sent mieux ou si elle a senti que Dieu la touchait de quelque manière que ce soit.
-6.  Continuez à écouter Jésus, à prier et à interroger la personne sur tout changement. Continuez jusqu'à ce que vous ayez une guérison complète ou que vous sentiez que vous devriez arrêter.
+-   Demandez à la personne pourquoi elle veut prier (ne présumez pas qu'elle veut la guérison).)
+-   Écoutez Jésus pour savoir comment prier
+-   Parlez simplement et calmement, sans crier.
+-   Vous pouvez demander à Jésus de guérir, ou ordonner à la maladie de disparaître, ou encore bénir la personne en lui accordant la guérison. Quoi que vous fassiez, faites-le avec la foi que Jésus entend et répond.
+-   Demandez à la personne si elle se sent mieux ou si elle a senti que Dieu la touchait de quelque manière que ce soit.
+-   Continuez à écouter Jésus, à prier et à interroger la personne sur tout changement. Continuez jusqu'à ce que vous ayez une guérison complète ou que vous sentiez que vous devriez arrêter.
 
-# D12 Communautés missionnaires
+# D14 Communautés missionnaires
 
-Il s'agit de la douzième formation du D-Path : **D**iscipleship Landmarks.
+Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
@@ -670,24 +751,20 @@ Comment les chrétiens peuvent-ils perdre leur goût salé ?
 
 Comment les chrétiens peuvent-ils cacher leur lumière ?
 
-Allez-vous commencer les GG pour les enfants ?
+### Communauté Missionnaire (MC)
 
-Allez-vous célébrer la Cène du Seigneur avec vos voisins autour d'un bon repas ?
+Les communautés missionnaires (MC) nous aident à être sel et lumière dans nos communautés. Ils sont ouverts à tous ceux qui souhaitent venir.
 
-Allez-vous parcourir chacune de ces histoires dans votre GG ?
-
-### Communauté missionnaire
-
-Les communautés missionnaires sont une manière biblique de vous impliquer dans votre communauté afin de multiplier les disciples obéissants de Jésus. Allez-vous créer une communauté missionnaire avec vos voisins ?
-
-Les histoires ci-dessus vous donnent les ingrédients de base d'une communauté missionnaire
+Les histoires ci-dessus vous donnent les ingrédients de base d'une communauté missionnaire:
 
 -   Rassembler vos voisins autour d'un repas, célébrant la vie, la mort et la résurrection de Jésus.
 -   Accueil des « pécheurs » et des enfants.
 -   Discuter et planifier des moyens de bénir et d’améliorer votre communauté.
 -   Démarrage de GG's pour les membres de la communauté, y compris les enfants.
 
-Si quelqu'un dans votre communauté missionnaire a des difficultés avec l'idée de rompre le pain autour d'un repas avec des personnes non baptisées, suivez la formation N-Path appelée « Rompre le pain » (vous pouvez la trouver sur <https://kingdom-apprentices. net/fr/01_formation-d'apprenti/09_outres-à-vins-neufs/n6-break-bread_new-wineskins_m/> ou demandez-en une copie à votre mentor).
+Allez-vous créer une communauté missionnaire avec vos voisins ?
+
+Si quelqu'un dans votre communauté missionnaire a des difficultés avec l'idée de rompre le pain autour d'un repas avec des personnes non baptisées, suivez la formation N-Path appelée « Rompre le pain » (vous pouvez la trouver sur <https://kingdom-apprentices. net/fr/01_formation-d'apprenti/09_outres-à-vins-neufs/n6-break-bread_new-wineskins_m/> ou demandez-en une copie à votre entraîneur).
 
 Voici quelques autres suggestions:
 
@@ -700,7 +777,7 @@ Voici quelques autres suggestions:
 -   Comment votre MC peut-elle se multiplier ? Est-ce que tout le monde est dans un GG ? Votre MC peut-il créer un groupe Discovery ? Ou lancer un autre MC à proximité ou dans une autre communauté ?
 -   Avant de terminer, planifiez quand et où vous aurez votre prochain rassemblement MC (essayez de vous réunir chaque semaine).
 
-# D13 Multiplier votre vie
+# D15 Multiplier votre vie
 
 Il s'agit de la formation finale du D-Path : **D**iscipleship Landmarks.
 
@@ -724,14 +801,36 @@ Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-### Conclusion
-
 Qu'est-ce que Dieu vous a donné pour qu'Il veuille que vous investissiez dans la vie des autres ?
 
-Prendrez-vous des risques en partageant l’Évangile, en guérissant les malades et en faisant des disciples ?
+Prenez-vous régulièrement des risques en partageant l’Évangile, en guérissant les malades et en faisant des disciples ?
 
-Allez-vous vous inscrire à la formation de multiplication et devenir un apprenti disciple multiplicateur ?
+## Luc 6:39-40 L'aveugle peut-il conduire l'aveugle ?
 
-Demandez à votre mentor chrétien, leader de la communauté missionnaire, contact du Hub ou pasteur comment vous inscrire.
+>   Luc 6:39-40 Jésus a dit : « Un aveugle peut-il conduire un aveugle ? Ne tomberont-ils pas tous les deux dans un gouffre ? L’élève n’est pas au-dessus du professeur, mais quiconque est pleinement formé sera comme son professeur.
 
-La formation est sur <https://kingdom-apprentices.net/en/01_formation-d'apprenti/10_disciples-multiplicateurs/>
+Quelle bonne nouvelle y a-t-il dans cette histoire ?
+
+Les histoires de l’Évangile ne peuvent être enseignées efficacement que par un apprenti qui s’est approprié l’histoire et qui est parvenu à aimer la bonne nouvelle qu’elle contient. Chaque apprenti doit prier sur l'histoire et écouter Jésus avant de pouvoir guider les autres dans la découverte de la bonne nouvelle. Sinon, ils seront des aveugles conduisant des aveugles!
+
+Les apprentis doivent comprendre en quoi consiste la formation. Ils doivent bien connaître les histoires de formation et comprendre comment chaque histoire contribue au message de formation. Si vous ne savez pas pourquoi une histoire est pertinente par rapport au sujet de formation, demandez aux autres apprentis ce qu'ils en pensent.
+
+### Conclusion
+
+À présent, si vous avez obéi à Jésus, vous devriez avoir beaucoup d’expérience dans la création de nouveaux groupes de découverte et de nouveaux groupes de croissance. Si vous ne formez pas déjà d’autres apprentis du Royaume, c’est le moment de commencer. Demandez à Jésus de vous conduire vers deux ou trois « personnes de paix » dans lesquelles vous pourrez investir, pour les présenter à Jésus comme le fruit de son investissement en vous.
+
+Parcourez également les histoires du G-Path (Aller vers les nations) dans votre GG et prévoyez d'aller dans de nouvelles communautés avec l'Évangile.
+
+Nous recommandons également le P-Path (Prière) pour approfondir votre vie de prière.
+
+### Groupe d'apprentis (AG)
+
+Un groupe d'apprentis (AG) est destiné à former ceux qui souhaitent devenir apprentis du Royaume. Il est dirigé par un apprenti du Royaume plus expérimenté. Le but est de s'assurer que les apprentis comprennent les histoires et leur lien avec le titre de la formation, de partager leurs idées entre eux et de souligner la nécessité de prier, de méditer et d'obéir aux histoires. Il est essentiel que les apprentis passent du temps dans leur GG à prier sur l'histoire, à écouter Jésus et à apprendre à lui obéir. Les apprentis devraient créer de nouveaux groupes et former d’autres apprentis.
+
+‘Les experts assurent toute la formation parce qu’ils sont les meilleurs dans ce domaine. Mais les experts ne grandissent que par addition et non par multiplication. Alors ne cédez pas à la tentation de faire toute la formation vous-même. Jésus n'a pas dit de faire des experts, mais de faire des disciples ! Les gens apprennent mieux en enseignant, alors laissez les nouveaux apprentis enseigner. Vous avez besoin de nombreux apprentis formateurs expérimentés.
+
+Avez-vous la passion de faire multiplier les disciples ? Alors ne prenez pas de raccourcis ! Jésus a dit : « Quiconque est pleinement formé sera comme son maître. » Une formation adéquate est importante ; "Allez lentement pour aller vite”
+
+Si les apprentis sont très motivés et font également partie de leur propre GG, il est possible de former un plus grand groupe d'apprentis du Royaume, mais ne laissez pas le groupe être trop grand pour que chacun puisse contribuer pleinement (six plus le formateur pourraient être un nombre raisonnable). limite).
+
+Les apprentis doivent s’entraîner à partager la « Bonne Nouvelle » entre eux, en utilisant uniquement les paroles de Jésus dans l’histoire sans essayer de l’expliquer ou de la développer. Ils ne doivent pas utiliser de mots ou de concepts religieux, ni ajouter leurs propres explications. Entraînez-vous simplement à utiliser le D1 des histoires et des questions appropriées.

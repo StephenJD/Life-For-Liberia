@@ -20,13 +20,13 @@ Plus tard, l'épouse de Stephen, Mirrlees, et ses amis Nick, Gordon et Alison so
 
 ## 2014 – Voyage janvier-février
 
-Pendant Ça 4-voyage d'une semaine Stephen a été rejoint par Andy Bell, Gordon et Nick (leur deuxième visite), ainsi que Jonathan, Mike et Daron. C’est merveilleux de voir l’école Chocolate City terminée. J'ai prié avec un Imam que j'avais déjà vu dans un rêve – il demandait encore et encore que Jésus vienne prendre le contrôle de son village, chasser le mal et l'aider à conduire les gens à Jésus. Notre première visite dans le comté de Lofa et la ville de Ganglata. Encore de nombreuses guérisons remarquables dont la restauration d'une femme qui depuis l'âge de 6 avait vécu comme un animal et n'avait pas prononcé un mot. Bien que les chefs du village nous aient donné l'autorisation de partager l'Évangile, il y avait une crainte évidente que les prêtres de Poro empêchent les gens de confesser ouvertement leur foi et de se faire baptiser.
+Pendant Ça 4-voyage d'une semaine Stephen a été rejoint par Andy Bell, Gordon et Nick (leur deuxième visite), ainsi que Jonathan, Mike et Daron. C’est merveilleux de voir l’école Chocolate City terminée. J'ai prié avec un Imam que j'avais déjà vu dans un rêve – il demandait encore et encore que Jésus vienne prendre le contrôle de son village, chasser le mal et l'aider à conduire les gens à Jésus. Notre première visite dans le comté de Lofa et la ville de Ganglata. Encore de nombreuses guérisons remarquables dont la restauration d'une femme qui depuis l'âge de 6 avait vécu comme un animal et n'avait pas prononcé un mot. Bien que les chefs du village nous aient donné la permission de partager l'Évangile, il y avait une crainte évidente que les prêtres de Poro empêchent les gens de confesser ouvertement leur foi et de se faire baptiser.
 
 ## 2015 – L’année où Ebola a frappé
 
 En raison de l'épidémie d'Ebola, nous n'avons pas pu nous rendre au Libéria, mais les églises avec lesquelles nous travaillons ont maintenu un témoignage remarquable en termes d'évangélisation pratique et spirituelle. Des équipes de l’Église sont allées sur place pour dispenser une formation sur la prévention d’Ebola et apporter espoir et foi à la place de la peur et du désespoir qui s’étaient emparés de tant de personnes.
 
-Les dons d'un certain nombre d'églises britanniques de Newfrontiers ont permis à Jonathan de construire une école de six classes à Fendell, où il y a très peu d'établissements scolaires. Les parents sont ravis de la qualité de l'enseignement qu'ils reçoivent.
+Les dons d'un certain nombre d'églises britanniques de Newfrontiers ont permis à Jonathan de construire une école de six salles de classe à Fendell, où l'offre scolaire est très limitée. Les parents sont ravis de la qualité de l'enseignement qu'ils reçoivent.
 
 ## 2016 - Voyage de janvier
 
@@ -78,10 +78,14 @@ Cette année a été une année de construction et de modernisation majeures des
 
 ## Janvier 2022 - Mission d'exploration en Sierra Leone
 
-George et Robert ont passé quelques jours à voyager dans les zones rurales de la Sierra Leone, où là encore la porte était grande ouverte pour l'Évangile parmi les communautés musulmanes. 92 les gens ont été baptisés et beaucoup d’autres sont désireux de suivre Jésus.
+George et Robert ont passé quelques jours à voyager dans les zones rurales de la Sierra Leone, où là encore, la porte était grande ouverte pour l'Évangile parmi les communautés musulmanes. 92 les gens ont été baptisés et beaucoup d’autres sont désireux de suivre Jésus.
 
 ## Juin 2022 – Lancement des apprentissages de disciples multiplicateurs
 
 ## Février 2023 – Voyage missionnaire dans le comté de Bomi
 
 UN 16-excursion d'une journée avec Stephen, Andy Bell et Chris Nowak. Tout le voyage s'est concentré sur la pratique en utilisant le matériel de formation de disciple. Nous avons beaucoup appris sur la manière de ne pas les utiliser et sur de meilleures façons de les utiliser. Nous nous sommes entraînés à enseigner plusieurs histoires à de nouvelles communautés en peu de temps et sommes devenus encore plus convaincus que le fait de former des disciples en petits groupes était bien plus efficace que d'essayer d'enseigner ensemble de plus grands groupes de personnes. Grâce à notre expérience de ce voyage, nous avons grandement amélioré le matériel de formation.
+
+## Février 2024 – Voyage missionnaire dans le comté de Bomi
+
+UN 17-excursion d'une journée avec Stephen et Andy Bell. L'accent était mis sur la création de groupes de découverte dans de nombreuses communautés, tant chrétiennes que musulmanes. C'était merveilleux de voir l'enthousiasme de certains 50 Apprentis du Royaume formés depuis un an. C’était aussi étonnant de voir à quel point les communautés musulmanes étaient avides d’entendre parler de Jésus.

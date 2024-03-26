@@ -23,10 +23,3 @@ Are there people who think of you as their spiritual father or mother?
 
 What does Jesus want to say to you about these titles?
 
-### Conclusion
-
-There are a lot of areas mentioned above where we recognise we have followed the traditions of men instead of obeying Jesus.
-
-I hope that you will listen to Jesus and try your best to obey Him by correcting these outward and inward practices.
-
-The most important thing is to open our spiritual ears to hear Jesus and our hearts to obey Jesus. Without that our 'house' will fall in a terrible destruction (Luke 6:49).

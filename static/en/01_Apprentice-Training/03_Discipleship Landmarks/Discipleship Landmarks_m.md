@@ -4,135 +4,193 @@ D-Path Training
 
 [Using this Training](#using-this-training)
 
-[D1 Discovery](#d1-discovery)
+[D1 Good News](#d1-good-news)
 
-[D2 Growth Groups](#d2-growth-groups)
+[D2 Listen](#d2-listen)
 
-[D3 Four Soils](#d3-four-soils)
+[D3 Obey](#d3-obey)
 
-[D4 Only Jesus](#d4-only-jesus)
+[D4 Multiply](#d4-multiply)
 
-[D5 Repentance](#d5-repentance)
+[D5 Starting New Groups](#d5-starting-new-groups)
 
-[D6 Baptism](#d6-baptism)
+[D6 Only Jesus](#d6-only-jesus)
 
-[D7 Baptism in the Spirit](#_Toc159323659)
+[D7 Repentance](#d7-repentance)
 
-[D8 Peace with God](#_Toc159323660)
+[D8 Baptism](#d8-baptism)
 
-[D9 Prayer](#d9-prayer)
+[D9 Baptism in the Spirit](#d9-baptism-in-the-spirit)
 
-[D10 Sharing your story](#_Toc159323662)
+[D10 Peace with God](#d10-peace-with-god)
 
-[D11 Healing and the Gospel of the Kingdom](#_Toc159323663)
+[D11 Prayer](#d11-prayer)
 
-[D12 Missional Communities](#d12-missional-communities)
+[D12 Sharing your story](#d12-sharing-your-story)
 
-[D13 Multiplying Your Life](#_Toc159323665)
+[D13 Healing and the Gospel of the Kingdom](#d13-healing-and-the-gospel-of-the-kingdom)
 
-### D-Path Training
+[D14 Missional Communities](#d14-missional-communities)
 
-This set of Gospel stories are chosen to help a person progress from curiosity about Jesus to become a fruitful, confident and obedient disciple of Jesus.
+[D15 Multiplying Your Life](#d15-multiplying-your-life)
 
-After teaching each story ask: **What good news is in this story?**
-
-After teaching all the stories for one section, the disciples should go through the stories in their GG, using the GG questions.
+This set of Jesus stories are chosen to help a person progress through a series of important “landmarks” from curiosity about Jesus to become a Kingdom-Apprentice.
 
 # Using this Training
 
-## Personal Obedience
+## Discipleship Landmarks Training
 
-A trainer is simply an apprentice who has already learnt a training story, is living in obedience to it and now wants to pass it on.
+A Kingdom-Apprentice is a fruitful, confident and obedient disciple of Jesus who is committed to fulfilling Jesus’ command to make multiplying disciples. Our DNA is **Listen**, **Obey** and **Multiply**.
 
-These stories can only be effectively taught by an apprentice who has made the story their own and has come to love the good news it contains. Each story is followed by the simple question "What good news is in this story?" It is up to the trainer to have prayed over the story and listened to Jesus so they can guide their apprentices in discovering the good news.
+This training is designed to be used by any kind of group, including on-line groups. It can also be used by an individual. D5 describes Discovery Groups and Growth Groups.
 
-Trainers must understand what the training is about. They must know the training stories well and understand how each story contributes to the training message. If you are not sure why a story is relevant to the training subject, ask other trainers what they think.
+The first few trainings include some stories from surahs in the Quran for use with Muslim groups. You can omit these for Christian groups.
 
-Do you have a passion for people to learn the training? Then don't take shortcuts!
+Use Surah 5:46 (if inviting a Muslim) and Matthew 11:28-30 from D1 to invite people to start a group. At the first group meeting use the next D1 story (Acts 26:18).
 
-## No Experts
+## Learning The Stories
 
-Experts do all the training because they are the best at it. But experts only grow by addition, not multiplication. So don't give in to the temptation to do all the training yourself. Jesus did not say make experts, but make disciples! People learn best by teaching, so let new apprentices teach. You need lots of practiced apprentice trainers.
+We strongly recommend that both the trainer and group members learn the stories by heart so Jesus can keep speaking to you through them. Most stories can easily be learnt word-perfect, but for the longer stories, being able to retell the story in your own words is sufficient.
 
-## Growth Groups for Discipleship
+Use a modern easy to read bible, not the King James!
 
-This training is a carefully selected series of Gospel stories that Growth Groups can use to help disciples (apprentices) grow in the essential landmarks of discipleship. There is much that the Holy Spirit can teach us through each of these stories, and sufficient time and attention should be given to each story, before moving on to the next.
-
-There are two essential and separate steps. First a trainer teaches the story to the GG. This Training Step is NOT a GG and does not use the GG questions. It is normally much briefer than a GG meeting would be. Don't let it drag on or degenerate into preaching.
-
-The second step is for the GG members to meet to discuss the story and learn to be obedient to it. They may continue discussing the story for several weeks before they are ready to move on to the next story. They should not rush.
-
-## Do NOT train people to be disobedient!
-
-Jesus said that the wise builder is one who hears **and obeys** his words (Luke 6:46). The aim of this training is to raise up disciples who are obedient to Jesus.
-
-For this reason, this training should **not** be rushed through. If you progress through this training too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! They will think that hearing or understanding is all that matters, and obedience is optional.
-
-## Tell me the same story
-
-We strongly recommend that both the trainers and GG members learn the training stories by heart so the Holy Spirit can keep speaking to you through them.
-
-Most stories can easily be learnt word-perfect, but for the longer stories, being able to retell the story in your own words is sufficient.
+If any members do not have a bible or cannot read, you can read the passage out loud and let the members record it on their phones.
 
 Whenever you teach a story, if it is something Jesus said, start it with "Jesus said: ". That way the person learning will know that these are the words of Jesus.
 
-1.  Use actions as much as possible each time you tell the story and get the apprentices to copy your actions.
-2.  Recite the story from memory twice.
-3.  Get the apprentices to say every detail they noticed in the story.
-4.  If they miss anything ask questions to see if they remember the detail.
-5.  Recite the story from memory twice more.
-6.  Say, "**Tell me the same story**" until they have got it right.
+Use actions to help people remember the story. Get the members to copy your actions.
 
-After teaching every story ask "What good news is in this story?". This reminds both the trainer and the apprentice that the Gospel is Good News.
+Recite the story from memory twice and then say to the group, "**Tell me the same story**".
 
-## An Example Training session
+For a longer story, use this learning tool:
 
-*Example for training D3:*
+-   Get the members to say every detail they noticed in the story.
+-   If they miss anything ask questions to see if they remember the detail.
+-   Recite the story from memory twice more.
+-   Say, "**Tell me the same story**" until they have got it right.
 
-Today we will go through the next training in Discipleship-Landmarks. It is called D3-Four Soils. Let's say the motto together: "Love one another – Go and make disciples".
+## 4 Group Rules
 
-The first story is from Luke 8:5-8,11-15.
+These Group Rules have been found to be essential for happy and fruitful groups. Whenever starting any kind of new group, share these Group Rules with the members:
 
-*Follow the "Teaching the Story" instructions above.*
+### 1. No Church!
 
-*If they miss out any detail in step 3, ask questions like these:*
+We are not wanting to start a church, or get anyone to start going to church, or to leave their church or mosque.
 
->   Who sowed the seed? How did he sow it? Where did some wasted seed fall? What happened to it? Where did the next seed fall?
+We are just sharing Jesus stories, so people can become better Christians or Muslims.
 
-Now **tell me the same story**. Let's say it all together... Luke 8:5-8,11-15 “A farmer went to sow his seed..."
+### 2. No Preaching Allowed
 
-*Instead of the GG questions, ask* "What good news is in this story?" *Don't rush this. They need to see the good news so they will want to spend time in their GG discussing it.*
+Members should not preach or teach other members. If people want to hear preaching they can go to church or the mosque!
 
-*At the end of the training use the Conclusion questions.*
+Each person can share what they think, and no-one should try to correct them or say they are wrong. We do not meet to argue with each other, but to listen to and learn from each other and from Jesus. Children’s groups may need help and reminding not to preach or be bossy to younger children.
 
-The best way to learn the story is to teach it! So will you teach this story to someone else every day this week?
+### 3. Answer only from the passage
 
-### Summary of How to Train:
+When discussing a passage we ask you to limit your answers to what is in the chosen passage. If people start quoting other scripture, or what they have read or heard from other places, they will sound like an expert and put off those who do not have that depth of knowledge. We need to learn from Jesus, not from our traditions.
 
-1.  Training Pathway name: "Discipleship-Landmarks"
-2.  Training Number and Title: "D3-Four Soils."
-3.  Motto: "Love one another – Go and make disciples"
-4.  Story reference and recite the story from memory twice.
-5.  Ask lots of simple "What is in the story" questions.
-6.  Recite the story from memory twice with them copying your actions.
-7.  "Tell me the same story" until they have learnt it and can say it on their own.
-8.  Ask "What good news is in this story?"
-9.  Ask the conclusion questions.
-10. Encourage them to teach the story to someone else every day this week. The best way to learn the story is to teach it!
+### 4. Go at your own speed
 
-## Progressing through the Training
+There is much that Jesus can teach us through each of these stories, and sufficient time and attention should be given to each story, before moving on to the next. If you progress too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! They will think that hearing or understanding is all that matters, and that obedience is optional.
 
-Teach D1-Discovery and D2-Growth Groups in one session if possible.
+Do not wear people out with difficult passages or long meetings (1½ hours is a usual meeting length). You do not need to understand everything, just leave out passages or stories you find too difficult.
 
-If they agree to meet in a GG, arrange to meet with them the first time to help them use the four GG questions. Start with the first training story as the text. Let them lead the discussion, but be careful not to let it drag out into a long boring session. Encourage them to pray and listen to Jesus.
+Each group must be free to decide when, where and how often they meet and what stories they discuss. They can disband and form new groups if they choose to.
 
-Once the disciples are regularly meeting on their own as a GG and have gone over the D1 & D2 stories, you can then teach them the next training. Progress through the training at a rate that suits their growth in obedience. If you cannot give them the next training as soon as they are ready for it, encourage them to keep meeting in their GG and to go through Luke's Gospel from the beginning.
+## Questions
 
-# D1 Discovery
+Remember, *No Preaching Allowed*! Instead we ask questions to help each person Listen, Obey and Multiply.
 
-This is the first training in the D-Path: **D**iscipleship Landmarks.
+#### Listening Questions
+
+Start with Listening questions, like:
+
+-   What do you like about this story?
+-   What do you think about this part of the story...?"
+-   What good news is in this story?
+
+If the members engage well with these questions, we can try digging a bit deeper with:
+
+-   What does this tell us about people's nature (or character)?
+-   What does this tell us about Jesus or God’s nature?
+
+#### Obedience Questions
+
+Once people have thought about the detail of the story, ask Obedience questions, like:
+
+-   What does Jesus want to say to you personally through this story?
+-   How will you obey?
+
+It is usually easy to think how a story applies to other people. But whatever it says, ask Jesus what He wants to say to you personally.
+
+#### Multiplication Questions
+
+Finally, ask Multiplication questions like:
+
+Who does Jesus want you to share this story with? (Say their names).
+
+Where does Jesus want us to “Go” to?
+
+Can we start a new group?
+
+Which type of new group shall we start?
+
+These are just suggested questions to get you started. If a question doesn’t work, think of an alternative. But try to make sure you ask Listening, Obedience and Multiplication questions.
+
+## After Each Discussion
+
+Agree the date and time for the next meeting and share the story you will discuss.
+
+Can you copy the bible and D-Path training to people’s smart phones?
+
+Or can you make copies of the D-Path training to give to group members?
+
+Or can members photograph the story?
+
+Or can they record it being read?
+
+Encourage members to read and pray over the story on their own each day before the group meets to discuss it. This makes a huge difference.
+
+Finally, take time to love each other through listening to their concerns and praying for each other.
+
+# D1 Good News
+
+This is the introductory training for the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
+
+Use these stories to invite people to start a new group to learn how to listen to Jesus.
+
+## Surah 5:46 We gave Isa the Injil containing guidance and light
+
+>   Surah 5:46 We sent Isa, son of Mary, confirming the Torah revealed before him. And We gave him the Injil (Gospel) containing guidance and light and confirming what was revealed in the Torah - a guide and a lesson to the God-fearing.
+
+We have come to share the guidance and light of the Gospel with you. May we share a story from the Injil about Isa?
+
+## Matthew 11:28-30 Come to me
+
+>   Matthew 11:28-30 Jesus said, “Come to me, all you who are tired and heavy burdened, and I will give you rest. Walk with me and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my walk is easy and my burden is light.”
+
+What do you like about this story?
+
+Does Jesus say “Come to church…”?
+
+Explain that we have not come to start a church, or ask you to come to church, or to leave your church or mosque.
+
+Does Jesus say “Learn from the preacher…”?
+
+Explain that we have not come to preach, or tell you what to believe.
+
+What burdens do you have?
+
+What sort of rest does Jesus offer you?
+
+How can you come to Jesus with your burdens?
+
+What do you think “walk with me and learn from me” means?  
+Who will you share this story with?
+
+Would you like me to come back another time so you can hear more Jesus stories and so learn to walk with him and learn from him?
 
 ## Acts 26:18 From Darkness to Light
 
@@ -140,11 +198,31 @@ Motto: Love one another – Go and make disciples
 
 What good news is in this story?
 
+Jesus has sent us to you. Who is Jesus sending you to?
+
+Who could you invite to join this group?
+
+# D2 Listen
+
+This story is in the D-Path: **D**iscipleship Landmarks.
+
+Motto: Love one another – Go and make disciples
+
+Remind the group of the 4 group rules.
+
+## Surah 4:171 Allah has no offspring
+
+>   Surah 4:171 “Allah has no offspring”
+
+The Bible confirms that God has no offspring. Jesus describes God as his father in a relational way, not a biological way.
+
 ## Matthew 11:27 No One Knows the Son...
 
 >   Matthew 11:27 Jesus said "All things have been given to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him."
 
 What good news is in this story?
+
+Who do we need to listen to?
 
 ## John 6:45 Everyone who has heard the Father
 
@@ -152,126 +230,59 @@ What good news is in this story?
 
 What good news is in this story?
 
+Who do we need to listen to?
+
 ## John 6:63 The Spirit gives life
 
 >   John 6:63 Jesus said "The Spirit gives life; the flesh counts for **nothing. The words I have spoken to you—they are full of the Spirit** and life. Yet there are some of you who do not believe.”
 
 What good news is in this story?
 
-### Conclusion
-
-Who needs to come to God's light?
-
-How are we made righteous?
-
-Who can tell us the truth about God?
-
 Who do we need to listen to?
 
-Can living a good and righteous life get us into heaven?
+### Conclusion
 
-Will you go through each of these stories in your GG?
+Kingdom-Apprentice DNA is **Listen**, **Obey** and **Multiply**. Look over the D1 to D2 stories again.
 
-# D2 Growth Groups
+How does this group help you to listen?
 
-This is the second training in the D-Path: **D**iscipleship Landmarks.
+Which questions do you find really help you to listen?
+
+Will you listen attentively to each other and not just wait to have your turn to speak?
+
+Will you ask Jesus to show you what each story means and listen for His answer?
+
+You are unlikely to hear a voice! But if you listen you will get ideas come into your head, or someone else may say something that helps. Just trust Jesus to speak in a way that you can hear. It comes with practice.
+
+# D3 Obey
+
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
-## Matthew 18:20 Where two or three gather
+## Surah 43:63 Isa said “Fear God, and obey me.”
 
->   Matthew 18:20 Jesus said "Where two or three gather in my name, there am I with them."
-
-What good news is in this story?
-
-## John 16:13 The Spirit of truth will guide you
-
->   John 16:13 Jesus said "The Spirit of truth will guide you into all the truth."
-
-What good news is in this story?
+>   Surah 43:63 When Isa came with the clarifications, he said, “I have come to you with wisdom, and to clarify for you some of what you disagree about. So fear God, and obey me."
 
 ## Luke 6:46-49 Wise & Foolish Builders
 
->   Luke 6:46-49 Jesus said “Why do you call me, ‘Lord, Lord,’ and do not do what I say? Everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the sand. The moment the torrent struck that house, it collapsed and its destruction was complete.”
+>   Luke 6:46-49 Jesus said “Why do you call me, ‘Lord, Lord,’ and do not do what I say? Everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the storm struck that house but could not shake it, because it was well built. But the one who hears my words and does not put them into practice is like a man who built a house on the sand. The moment the storm struck that house, it collapsed and its destruction was complete.”
 
 What good news is in this story?
 
-### Conclusion
-
-How can you meet with Jesus?
-
-How can you discover truth?
-
 How can you have an unshakeable life?
 
-Would you like to meet in a Growth Group (GG) of two or three people to meet regularly (usually once or twice a week) to listen to Jesus, learn from the Holy Spirit, love each other and reach out to others?
+### Conclusion
 
-Will you go through each of these stories in your GG?
+Kingdom-Apprentice DNA is **Listen**, **Obey** and **Multiply**. Look over the D1 to D3 stories again.
 
-### Four GG Questions
+How does this group help you to obey Jesus?
 
-When the Growth Group meets, you start by reading (or telling) the bible story you have chosen. Each person should then **tell the same story** from memory to make sure everyone understands what they have heard. Then each person should share in discussing these four questions:
+Which questions do you find really help you to obey?
 
-1.  What does this tell us about people's character or nature?
-2.  What does this tell us about Jesus or God?
-3.  What does Jesus want to say to me personally? (How will you obey?)
-4.  Who does Jesus want me to share this story with? (Say their names).
+# D4 Multiply
 
-Then take turns to pray for each other, and for your outreach to others.
-
-Agree the story for the next meeting. Between meetings pray over the next story every day and see what Jesus says to you, ready for your next meeting.
-
-### Four GG Rules
-
-#### No more than 4 people
-
-Two or three is the ideal size. In larger groups some people will not contribute.
-
-Include small children in a family group. Children who can read can be in their own group –let them ask for help if they want it.
-
-#### No Preaching Allowed
-
-Members should not preach or teach other members. They must help each other listen to Jesus and discover for themselves.
-
-Children’s groups may need help and reminding not to preach or be bossy to younger children.
-
-#### Answer only from the passage
-
-When discussing your passage and answering the GG questions, limit your answers to what is in the chosen passage. If you start quoting other scripture, or what you have learnt from commentaries, or preachers, or bible-school then you will sound like an expert and put off those who do not have your depth of knowledge.
-
-#### Go at your own pace
-
-Go at the pace that suits your group. Do not wear people out with difficult passages or long meetings (1½ hours is a usual GG length). You do not need to understand everything, just leave out passages you find difficult.
-
-GG's must be free from the control of church leaders. They can decide when, where and how often they meet and what stories they discuss. They can disband and form new GG's if they choose to.
-
-Work your way slowly through [^1]Luke's Gospel and then John, Mark and Matthew before moving on to other parts of the bible. We recommend you return to at least one of the Gospel's each year.
-
-[^1]: Luke is the best story-teller. John provides lots of application, Mark is full of action, Matthew provides a bit of everything. This suggested order is our recommendation for all new GG's . If you are going through discipleship training you will want to take time in your GG to go through the training stories.
-
-### Four GG Practices
-
-#### Read the passage each day
-
-You will get much more out of your GG if you read and pray over the agreed passage on your own each day before your GG meets to discuss it.
-
-#### Listen to Jesus and obey Him
-
-When thinking about a passage, it is usually easy to think how it applies to other people. But whatever it says, ask Jesus what He wants to say to you personally. He wants to bless you and help you to become more like Him. But to hear, you must listen!
-
-Be obedient to what Jesus says to you. Obedience is the only thing that counts in being a disciple of Jesus.
-
-#### Pray for each other
-
-Take time to love each other through listening to your concerns and praying for each other.
-
-#### Start New Groups
-
-Share your GG experience with others and help them to start a GG of their own. Pray that you can start GG’s throughout your community and also in surrounding communities.
-
-# D3 Four Soils
-
-This is the third training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -283,15 +294,95 @@ Motto: Love one another – Go and make disciples
 
 What good news is in this story?
 
-### Conclusion
-
 What kind of soil do you think you are?
 
-Will you go through this story in your GG?
+### Conclusion
 
-# D4 Only Jesus
+Kingdom-Apprentice DNA is **Listen**, **Obey** and **Multiply**. Look over the D1 to D4 stories again.
 
-This is the fourth training in the D-Path: **D**iscipleship Landmarks.
+Which stories say something about multiplying?
+
+How does this group help you to Multiply?
+
+Which questions do you find really help you to multiply?
+
+The next training will help you to multiply by starting a new group.
+
+# D5 Starting New Groups
+
+## Matthew 18:20 Where two or three gather
+
+>   Matthew 18:20 Jesus said "Where two or three gather in my name, there am I with them."
+
+What good news is in this story?
+
+## Surah 19:34 Isa is the Word of Truth
+
+>   Surah 19:34 That is Isa son of Mary—the Word of truth about which they doubt.
+
+## John 16:13 The Spirit of truth will guide you
+
+>   John 16:13 Jesus said "The Spirit of truth will guide you into all the truth."
+
+What good news is in this story?
+
+## John 7:18 Whoever speaks on their own seeks personal glory
+
+>   John 7:18 Jesus said, “Whoever speaks on their own does so to gain personal glory, but he who seeks the glory of the one who sent him is a man of truth; there is nothing false about him.”
+
+What good news is in this story?
+
+Jesus warns us not to love the sound of our own voice and be impressed by our own preaching, but to let Jesus do the talking through the stories he has given us. If we truly seek God’s glory we will value His words high above our own.
+
+## Mark 7:9 You Observe Your Own Traditions
+
+>   Mark 7:9 Jesus said "You have a fine way of setting aside the commands of God in order to observe your own traditions!"
+
+We need to learn from Jesus, not from our traditions. That is why we answer only from the passage, and not from what others have told us.
+
+## Different Types of Group
+
+We offer a number of different types of group, but all depend upon the truth of these promises. The groups can be used in families, churches, mosques, schools and out in the community and can include children and young people.
+
+Discovery Groups (DGs) are to help people discover Jesus. They are open to anyone who wants to come, and are often mixed groups of Christians, Muslims and people of other faiths or no faith. They end when they complete D7 - Repentance.
+
+Missional Communities (MCs) help us be salt and light in our communities by taking action on community needs. They are also open to anyone who wants to come. We will learn about these in a later training.
+
+Growth Groups (GGs) are for people who are serious about becoming a Kingdom-Apprentice. A Growth Group is two or three people who meet regularly (usually once or twice a week) to listen to Jesus, learn from the Holy Spirit, love each other and reach out to others.
+
+The aim of Discovery Groups and Missional Communities is to bring people to a place where they really want to be a disciple of Jesus and start a Growth Group.
+
+After a GG has completed the D-Path training, you can use the other story-sets (Prayer, Go to the Nations, Simple Church etc. See www.kingdom-apprentices.net) or work your way slowly through [^1]Luke's Gospel and then John, Mark and Matthew before moving on to other parts of the bible. We recommend you return to at least one of the Gospel's each year.
+
+[^1]: Luke is the best story-teller. John provides lots of application, Mark is full of action, Matthew provides a bit of everything. This suggested order is our recommendation for all new GG's . If you are going through discipleship training you will want to take time in your GG to go through the training stories.
+
+## Starting a new Group
+
+>   To start a new group you must train a new leader for that group, **then leave the group** to continue without you.
+
+>   Leaving the group is essential if we are to multiply. If we do not leave the group, all we can do is to add, not multiply, and we will get exhausted!
+
+Whenever a new group starts, go through the “Using this Training” section at the start of this manual, and start the D-Path at D1, even if the members have already gone through some of the stories in a different group. This is to help ensure sure each member is experiencing the reality of the stories and being obedient to Jesus.
+
+As soon as any member is able to answer the questions properly, get them to take turns to lead the meetings with you assisting them. Once they are confident, leave the group, and go and start another one.
+
+### Don’t use a condom!
+
+Asking people to gather to a public building like a church, mosque or palaver hut is like using a condom! It prevents reproduction. Timid people could not gather a crowd and lead them, so they will not reproduce. But they can invite a few friends and neighbours to share a Jesus story at their home.
+
+### Watering
+
+Paul said, “I planted, Apollos watered, but God gave the growth.” When we have “planted” a group we need to “water” it to help it to grow well. This will include faithfully praying for the group’s host and members, phoning the host to encourage them and visiting from time to time to sit in on the group to ensure it is still working well and help with any questions that arise.
+
+### Records
+
+Obtaining regular feedback from groups can help to ensure that they are being effective, and discover if they need extra help or training.
+
+However, many find that writing reports is tedious and difficult. Remember that Jesus said “My burden is light” - keeping records of activity must clearly serve our goal and not become a burden.
+
+# D6 Only Jesus
+
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -313,17 +404,15 @@ Do you think Jesus was mad or evil to say these things?
 
 Are you ready to follow Jesus like this? Or do you need more time to discover who Jesus truly is?
 
-Will you go through each of these stories in your GG?
+# D7 Repentance
 
-# D5 Repentance
-
-This is the fifth training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
 ## Mark 1:15 The time has come
 
->   Mark 1:15 Jesus went into Galilee, proclaiming the good news of God. “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”
+>   Mark 1:15 Jesus went into Galilee, proclaiming the good news of God. “The time has come,” he said. “The kingdom of God has come near. Repent (turn around) and believe the good news!”
 
 What good news is in this story?
 
@@ -341,11 +430,13 @@ What does Jesus say we must believe?
 
 What are the results of believing?
 
-Will you go through each of these stories in your GG?
+By now, those who want to be disciples of Jesus should be in a Growth Group, and can continue to D8 - Baptism.
 
-# D6 Baptism
+Those who are not ready to join a Growth Group could start a new Discovery Group at D1, or start a Missional Community (see D14) with the M-Path stories. See D5 “Starting New Groups”.
 
-This is the sixth training in the D-Path: **D**iscipleship Landmarks.
+# D8 Baptism
+
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -379,17 +470,15 @@ What happens inside us when we going under the water in baptism?
 
 What happens inside us when we come out of the water in baptism?
 
-If you have been obedient to D4 "Only Jesus" and D5 "Repentance" and you understand this training on Baptism then you are ready to be baptised. But before you are baptised, we recommend you go through the next training: D7-Baptism in the Holy Spirit. These two go together.
+If you have been obedient to D6 "Only Jesus" and D7 "Repentance" and you understand this training on Baptism then you are ready to be baptised. But before you are baptised, we recommend you go through the next training: D9-Baptism in the Holy Spirit. These two go together.
 
-Will you go through each of these stories in your GG?
+# D9 Baptism in the Spirit
 
-# D7 Baptism in the Spirit
-
-This is the seventh training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
-There are four stories in this training. You may need to take some time to go through them prayerfully and discuss them with your mentor.
+There are four stories in this training. You may need to take some time to go through them prayerfully and discuss them with your trainer.
 
 ## John 3:3-6 You must be Born Again
 
@@ -425,11 +514,9 @@ How can you receive the Holy Spirit?
 
 What is the evidence of having received the Holy Spirit?
 
-Will you ask your Christian mentor to baptise you in water?
+Will you ask your Christian trainer to baptise you in water?
 
-Will you ask your Christian mentor to baptise you in the Holy Spirit?
-
-Will you go through each of these stories in your GG?
+Will you ask your Christian trainer to baptise you in the Holy Spirit?
 
 ### A note for Mentors
 
@@ -441,9 +528,9 @@ Some people say that speaking in tongues is THE evidence of baptism in the Spiri
 
 It is true that most examples of the Holy Spirit being given as recorded in Acts include speaking in tongues, but it is clear from the above passage that this was not always the case. In fact anyone can make up gibberish and call it speaking in tongues. Jesus said a tree is known by its fruit, so we should look for the biblical evidences for baptism in the Holy Spirit in a changed life, not just in the appearance of "manifestations". The final story in this training shows us to look for abounding hope, joy and peace in believing as evidence of the Holy Spirit.
 
-# D8 Peace with God
+# D10 Peace with God
 
-This is the eighth training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -451,9 +538,9 @@ John 14 is really important and full of deep truth which we need to keep coming 
 
 Believing in Jesus means believing what He says about Himself *and* believing what he says about you.
 
-## John 14:1-2 Do not let your hearts be troubled
+## John 14:1-3 Do not let your hearts be troubled
 
->   John 14:1-2 Jesus said, “Do not let your hearts be troubled. You believe in God; believe also in me. My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?"
+>   John 14:1-3 Jesus said, “Do not let your hearts be troubled. You believe in God; believe also in me. My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, *there* you may be also."
 
 What good news is in this story?
 
@@ -493,11 +580,9 @@ What things could trouble your peace with God?
 
 What does Jesus say about that?
 
-Will you go through each of these stories in your GG?
+# D11 Prayer
 
-# D9 Prayer
-
-This is the ninth training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -547,11 +632,11 @@ What is the best prayer we can pray?
 
 Will you learn to pray by copying other people, or will you learn from Jesus how to pray?
 
-Will you go through each of these stories in your GG?
+If you want to learn more about prayer, go through the P-Path (Prayer).
 
-# D10 Sharing your story
+# D12 Sharing your story
 
-This is the tenth training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -593,11 +678,9 @@ What difference has Jesus made to your life?
 
 Will you tell your family, friends and community what Jesus has done for you?
 
-Will you go through each of these stories in your GG?
+# D13 Healing and the Gospel of the Kingdom
 
-# D11 Healing and the Gospel of the Kingdom
-
-This is the eleventh training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -621,22 +704,20 @@ Will you share the Good News of freedom from oppression, healing from sickness, 
 
 Will you offer to heal the sick when you share the Gospel?
 
-Will you go through each of these stories in your GG?
-
-*The mentor should go out with the apprentice to demonstrate healing, and the GG should go out together to practice healing.*
+*The trainer should go out with the apprentice to demonstrate healing, and the GG should go out together to practice healing.*
 
 ### Healing Guidance
 
-1.  Ask what the person wants prayer for (don't assume they want healing)
-2.  Listen to Jesus for how to pray
-3.  Speak simply and calmly, without shouting.
-4.  You might ask Jesus to heal, or command the sickness to go, or bless the person with healing. Whatever you do, do it in faith that Jesus hears and answers.
-5.  Ask the person if they feel any better or felt God touch them in any way.
-6.  Keep listening to Jesus, praying and asking the person about any changes. Keep going until you have complete healing, or you feel you should stop.
+-   Ask what the person wants prayer for (don't assume they want healing)
+-   Listen to Jesus for how to pray
+-   Speak simply and calmly, without shouting.
+-   You might ask Jesus to heal, or command the sickness to go, or bless the person with healing. Whatever you do, do it in faith that Jesus hears and answers.
+-   Ask the person if they feel any better or felt God touch them in any way.
+-   Keep listening to Jesus, praying and asking the person about any changes. Keep going until you have complete healing, or you feel you should stop.
 
-# D12 Missional Communities
+# D14 Missional Communities
 
-This is the twelfth training in the D-Path: **D**iscipleship Landmarks.
+This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
@@ -670,37 +751,33 @@ How can Christians lose their saltiness?
 
 How can Christians hide their light?
 
-Will you start GG's for children?
+### Missional Community (MC)
 
-Will you celebrate the Lord's Supper with your neighbours over a proper meal?
+Missional Communities (MC’s) help us be salt and light in our communities. They are open to anyone who wants to come.
 
-Will you go through each of these stories in your GG?
-
-### Missional Community
-
-Missional Communities are a biblical way to get involved in your community so that you can multiply obedient disciples of Jesus. Will you start a Missional Community with your neighbours?
-
-The stories above give you the basic ingredients of a Missional Community
+The stories above give you the basic ingredients of a Missional Community:
 
 -   Gathering your neighbours to a meal, celebrating Jesus' life, death and resurrection.
 -   Welcoming "sinners" and children.
 -   Discussing and planning ways to bless and improve your community.
--   Starting up GG's for the members of the community, including the children.
+-   Starting up GG's for members of the community, including the children.
 
-If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/09_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your mentor for a copy).
+Will you start a Missional Community with your neighbours?
+
+If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/09_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your trainer for a copy).
 
 Here are some other suggestions:
 
 -   Before the meal, tell a bible story.
 -   During the meal encourage people to discuss the story.
--   Towards the end of the meal, remind people that you are celebrating Jesus life, death and resurrection, and His presence with you today. Raise your cups to Jesus. Someone can pray a prayer of thanks to Jesus and blessing on the gathering.
+-   Towards the end of the meal, remind people that you are celebrating Jesus’ life, death and resurrection, and His presence with you today. Raise your cups to Jesus. Someone can pray a prayer of thanks to Jesus and blessing on the gathering.
 -   After the meal start discussing community needs and plan how the group can take action to help.
 -   Don't let your Missional Community look like a "church service" or a bible-study. It should look more like a family gathering and be lively and fun and engaging. Arrange chairs in circles, not rows like a church!
 -   If you have unbelievers present, ask them how they think God may be working in their own lives. Ask them what they can do to cooperate with God and suggest they join a GG or a Discovery Group.
 -   How can your MC multiply? Is everyone in a GG? Can your MC start a Discovery Group? Or launch another MC nearby or in another community?
 -   Before you end, plan when and where you will have your next MC gathering (aim to meet every week).
 
-# D13 Multiplying Your Life
+# D15 Multiplying Your Life
 
 This is the final training in the D-Path: **D**iscipleship Landmarks.
 
@@ -724,14 +801,36 @@ Motto: Love one another – Go and make disciples
 
 What good news is in this story?
 
-### Conclusion
-
 What has God given you that He wants you to invest in other people's lives?
 
-Will you take risks in sharing the Gospel, healing the sick and making disciples?
+Are you regularly taking risks in sharing the Gospel, healing the sick and making disciples?
 
-Will you enrol with the Multiplication Training and become an apprentice Multiplying Disciple?
+## Luke 6:39-40 Can the blind lead the blind?
 
-Ask your Christian mentor, Missional Community leader, Hub contact or Pastor how to enrol.
+>   Luke 6:39-40 Jesus said, “Can the blind lead the blind? Will they not both fall into a pit? The student is not above the teacher, but everyone who is fully trained will be like their teacher.
 
-The training is at <https://kingdom-apprentices.net/en/01_apprentice-training/10_multiplying-disciples/>
+What good news is in this story?
+
+Gospel stories can only be effectively taught by an apprentice who has made the story their own and has come to love the good news it contains. Each apprentice must pray over the story and listen to Jesus before they can guide others in discovering the good news. Otherwise they will be the blind leading the blind!
+
+Apprentices must understand what the training is about. They must know the training stories well and understand how each story contributes to the training message. If you are not sure why a story is relevant to the training subject, ask other apprentices what they think.
+
+### Conclusion
+
+By now, if you have been obedient to Jesus, you should have plenty of experience starting new Discovery Groups and new Growth Groups. If you are not already training other Kingdom-Apprentices, then now is the time to start. Ask Jesus to lead you to two or three “people of peace” whom you can invest in, to present to Jesus as the fruit of His investment in you.
+
+Also, go through the G-Path (Go to the Nations) stories in your GG, and plan to go to new communities with the Gospel.
+
+We also recommend the P-Path (Prayer) to deepen your prayer-life.
+
+### Apprentice Group (AG)
+
+An Apprentice group (AG) is to train those who want to become Kingdom-Apprentices. It is led by a more experienced Kingdom-Apprentice. The purpose is to make sure apprentices understand the stories and how they relate to the training title, to share insights with each other and to emphasise the need to pray, meditate and obey the stories. It is essential that the apprentices spend time in their GG praying over the story and listening to Jesus and learn to be obedient to it. Apprentices are expected to be starting new groups and training other apprentices.
+
+‘Experts’ do all the training because they are the best at it. But experts only grow by addition, not multiplication. So don't give in to the temptation to do all the training yourself. Jesus did not say make experts, but make disciples! People learn best by teaching, so let new apprentices teach. You need lots of practiced apprentice trainers.
+
+Do you have a passion to make multiplying disciples? Then don't take shortcuts! Jesus said, “Everyone who is fully trained will be like their teacher.” Proper training is important; “Go slow to go fast”
+
+If apprentices are highly motivated and are also in their own GG, it is possible to train a larger group of Kingdom-Apprentices, but don’t let the group be too large for everyone to contribute fully (six plus the trainer might be a reasonable limit).
+
+Apprentices should practice sharing the “Good News” with each other, using only the words of Jesus in the story without trying to explain it or expand upon it. They should not use any religious words or concepts, or add their own explanations. Practice just using the D1 stories and appropriate questions.

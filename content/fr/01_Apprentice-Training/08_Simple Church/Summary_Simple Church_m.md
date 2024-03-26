@@ -59,3 +59,10 @@ Matthieu 6:3-4 Laissez votre don être en secret
 # S10  Pères et mères spirituels
 
 Matthieu 23:8-10 N’appelez personne sur Terre « Père »’
+# S11  Devenir une école de formation missionnaire
+
+Il y a de nombreux domaines mentionnés ci-dessus dans lesquels nous reconnaissons que nous avons suivi les traditions des hommes au lieu d’obéir à Jésus.	
+
+J’espère que vous écouterez Jésus et ferez de votre mieux pour lui obéir en corrigeant ces pratiques extérieures et intérieures.	
+
+La chose la plus importante est d’ouvrir nos oreilles spirituelles pour entendre Jésus et nos cœurs pour obéir à Jésus. Sans cela, notre « maison » tombera dans une terrible destruction (Luc 6:49).

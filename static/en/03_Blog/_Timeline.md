@@ -85,3 +85,7 @@ George and Robert spent a few days travelling in rural areas of Sierra Leone, wh
 ## February 2023 – Mission Trip to Bomi County
 
 A 16-day trip with Stephen, Andy Bell and Chris Nowak. The entire trip focused on practicing using the Discipleship Training materials. We learnt a lot about how not to use them and much about better ways to use them. We practiced teaching multiple stories to new communities in a short time and became even more convinced that discipleship in small groups was so much more effective than trying to teach larger groups of people all together. Using our experience from this trip we have greatly improved the training materials.
+
+## February 2024 – Mission Trip to Bomi County
+
+A 17-day trip with Stephen and Andy Bell. The focus was on establishing Discovery Groups in numerous communities, both Christian and Muslim. It was wonderful to see the enthusiasm of some 50 Kingdom Apprentices trained since year. It was also amazing to see how hungry the Muslim communities were to hear about Jesus.

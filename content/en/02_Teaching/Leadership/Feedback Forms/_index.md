@@ -5,4 +5,4 @@ translationKey: Feedback Forms
 summary: 
 weight: 
 ---
-This series of questions is to help you assess what you have learnt about effective mission practice.
+| **Discovery group feedback form.** Apprentice name:  Date and time of meeting: Name of community: Discovery group host name: Discovery group host phone number: Scripture reference discussed: How many attended: Names of people you think might be good soil          | **Discovery group feedback form.** Apprentice name:  Date and time of meeting: Name of community: Discovery group host name: Discovery group host phone number: Scripture reference discussed: How many attended: Names of people you think might be good soil  |

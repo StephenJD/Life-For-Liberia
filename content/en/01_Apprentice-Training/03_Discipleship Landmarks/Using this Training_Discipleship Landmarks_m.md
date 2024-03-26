@@ -2,108 +2,131 @@
 title: Using this Training
 type: document
 translationKey: Using this Training
-summary: "Personal Obedience	
+summary: "Discipleship Landmarks Training	
 
-No Experts	
+Learning The Stories	
 
-Growth Groups for Discipleship	
+4 Group Rules	
 
-Do NOT train people to be disobedient!	
+Questions	
 
-Tell me the same story	
-
-An Example Training session	
-
-Progressing through the Training"
+After Each Discussion"
 weight: 2
 ---
 # Using this Training
 
-## Personal Obedience
+## Discipleship Landmarks Training
 
-A trainer is simply an apprentice who has already learnt a training story, is living in obedience to it and now wants to pass it on.
+A Kingdom-Apprentice is a fruitful, confident and obedient disciple of Jesus who is committed to fulfilling Jesus’ command to make multiplying disciples. Our DNA is **Listen**, **Obey** and **Multiply**.
 
-These stories can only be effectively taught by an apprentice who has made the story their own and has come to love the good news it contains. Each story is followed by the simple question "What good news is in this story?" It is up to the trainer to have prayed over the story and listened to Jesus so they can guide their apprentices in discovering the good news.
+This training is designed to be used by any kind of group, including on-line groups. It can also be used by an individual. D5 describes Discovery Groups and Growth Groups.
 
-Trainers must understand what the training is about. They must know the training stories well and understand how each story contributes to the training message. If you are not sure why a story is relevant to the training subject, ask other trainers what they think.
+The first few trainings include some stories from surahs in the Quran for use with Muslim groups. You can omit these for Christian groups.
 
-Do you have a passion for people to learn the training? Then don't take shortcuts!
+Use Surah 5:46 (if inviting a Muslim) and Matthew 11:28-30 from D1 to invite people to start a group. At the first group meeting use the next D1 story (Acts 26:18).
 
-## No Experts
+## Learning The Stories
 
-Experts do all the training because they are the best at it. But experts only grow by addition, not multiplication. So don't give in to the temptation to do all the training yourself. Jesus did not say make experts, but make disciples! People learn best by teaching, so let new apprentices teach. You need lots of practiced apprentice trainers.
+We strongly recommend that both the trainer and group members learn the stories by heart so Jesus can keep speaking to you through them. Most stories can easily be learnt word-perfect, but for the longer stories, being able to retell the story in your own words is sufficient.
 
-## Growth Groups for Discipleship
+Use a modern easy to read bible, not the King James!
 
-This training is a carefully selected series of Gospel stories that Growth Groups can use to help disciples (apprentices) grow in the essential landmarks of discipleship. There is much that the Holy Spirit can teach us through each of these stories, and sufficient time and attention should be given to each story, before moving on to the next.
-
-There are two essential and separate steps. First a trainer teaches the story to the GG. This Training Step is NOT a GG and does not use the GG questions. It is normally much briefer than a GG meeting would be. Don't let it drag on or degenerate into preaching.
-
-The second step is for the GG members to meet to discuss the story and learn to be obedient to it. They may continue discussing the story for several weeks before they are ready to move on to the next story. They should not rush.
-
-## Do NOT train people to be disobedient!
-
-Jesus said that the wise builder is one who hears **and obeys** his words (Luke 6:46). The aim of this training is to raise up disciples who are obedient to Jesus.
-
-For this reason, this training should **not** be rushed through. If you progress through this training too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! They will think that hearing or understanding is all that matters, and obedience is optional.
-
-## Tell me the same story
-
-We strongly recommend that both the trainers and GG members learn the training stories by heart so the Holy Spirit can keep speaking to you through them.
-
-Most stories can easily be learnt word-perfect, but for the longer stories, being able to retell the story in your own words is sufficient.
+If any members do not have a bible or cannot read, you can read the passage out loud and let the members record it on their phones.
 
 Whenever you teach a story, if it is something Jesus said, start it with "Jesus said: ". That way the person learning will know that these are the words of Jesus.
 
-1.  Use actions as much as possible each time you tell the story and get the apprentices to copy your actions.
-2.  Recite the story from memory twice.
-3.  Get the apprentices to say every detail they noticed in the story.
-4.  If they miss anything ask questions to see if they remember the detail.
-5.  Recite the story from memory twice more.
-6.  Say, "**Tell me the same story**" until they have got it right.
+Use actions to help people remember the story. Get the members to copy your actions.
 
-After teaching every story ask "What good news is in this story?". This reminds both the trainer and the apprentice that the Gospel is Good News.
+Recite the story from memory twice and then say to the group, "**Tell me the same story**".
 
-## An Example Training session
+For a longer story, use this learning tool:
 
-*Example for training D3:*
+-   Get the members to say every detail they noticed in the story.
+-   If they miss anything ask questions to see if they remember the detail.
+-   Recite the story from memory twice more.
+-   Say, "**Tell me the same story**" until they have got it right.
 
-Today we will go through the next training in Discipleship-Landmarks. It is called D3-Four Soils. Let's say the motto together: "Love one another – Go and make disciples".
+## 4 Group Rules
 
-The first story is from Luke 8:5-8,11-15.
+These Group Rules have been found to be essential for happy and fruitful groups. Whenever starting any kind of new group, share these Group Rules with the members:
 
-*Follow the "Teaching the Story" instructions above.*
+### 1. No Church!
 
-*If they miss out any detail in step 3, ask questions like these:*
+We are not wanting to start a church, or get anyone to start going to church, or to leave their church or mosque.
 
->   Who sowed the seed? How did he sow it? Where did some wasted seed fall? What happened to it? Where did the next seed fall?
+We are just sharing Jesus stories, so people can become better Christians or Muslims.
 
-Now **tell me the same story**. Let's say it all together... Luke 8:5-8,11-15 “A farmer went to sow his seed..."
+### 2. No Preaching Allowed
 
-*Instead of the GG questions, ask* "What good news is in this story?" *Don't rush this. They need to see the good news so they will want to spend time in their GG discussing it.*
+Members should not preach or teach other members. If people want to hear preaching they can go to church or the mosque!
 
-*At the end of the training use the Conclusion questions.*
+Each person can share what they think, and no-one should try to correct them or say they are wrong. We do not meet to argue with each other, but to listen to and learn from each other and from Jesus. Children’s groups may need help and reminding not to preach or be bossy to younger children.
 
-The best way to learn the story is to teach it! So will you teach this story to someone else every day this week?
+### 3. Answer only from the passage
 
-### Summary of How to Train:
+When discussing a passage we ask you to limit your answers to what is in the chosen passage. If people start quoting other scripture, or what they have read or heard from other places, they will sound like an expert and put off those who do not have that depth of knowledge. We need to learn from Jesus, not from our traditions.
 
-1.  Training Pathway name: "Discipleship-Landmarks"
-2.  Training Number and Title: "D3-Four Soils."
-3.  Motto: "Love one another – Go and make disciples"
-4.  Story reference and recite the story from memory twice.
-5.  Ask lots of simple "What is in the story" questions.
-6.  Recite the story from memory twice with them copying your actions.
-7.  "Tell me the same story" until they have learnt it and can say it on their own.
-8.  Ask "What good news is in this story?"
-9.  Ask the conclusion questions.
-10. Encourage them to teach the story to someone else every day this week. The best way to learn the story is to teach it!
+### 4. Go at your own speed
 
-## Progressing through the Training
+There is much that Jesus can teach us through each of these stories, and sufficient time and attention should be given to each story, before moving on to the next. If you progress too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! They will think that hearing or understanding is all that matters, and that obedience is optional.
 
-Teach D1-Discovery and D2-Growth Groups in one session if possible.
+Do not wear people out with difficult passages or long meetings (1½ hours is a usual meeting length). You do not need to understand everything, just leave out passages or stories you find too difficult.
 
-If they agree to meet in a GG, arrange to meet with them the first time to help them use the four GG questions. Start with the first training story as the text. Let them lead the discussion, but be careful not to let it drag out into a long boring session. Encourage them to pray and listen to Jesus.
+Each group must be free to decide when, where and how often they meet and what stories they discuss. They can disband and form new groups if they choose to.
 
-Once the disciples are regularly meeting on their own as a GG and have gone over the D1 & D2 stories, you can then teach them the next training. Progress through the training at a rate that suits their growth in obedience. If you cannot give them the next training as soon as they are ready for it, encourage them to keep meeting in their GG and to go through Luke's Gospel from the beginning.
+## Questions
+
+Remember, *No Preaching Allowed*! Instead we ask questions to help each person Listen, Obey and Multiply.
+
+#### Listening Questions
+
+Start with Listening questions, like:
+
+-   What do you like about this story?
+-   What do you think about this part of the story...?"
+-   What good news is in this story?
+
+If the members engage well with these questions, we can try digging a bit deeper with:
+
+-   What does this tell us about people's nature (or character)?
+-   What does this tell us about Jesus or God’s nature?
+
+#### Obedience Questions
+
+Once people have thought about the detail of the story, ask Obedience questions, like:
+
+-   What does Jesus want to say to you personally through this story?
+-   How will you obey?
+
+It is usually easy to think how a story applies to other people. But whatever it says, ask Jesus what He wants to say to you personally.
+
+#### Multiplication Questions
+
+Finally, ask Multiplication questions like:
+
+Who does Jesus want you to share this story with? (Say their names).
+
+Where does Jesus want us to “Go” to?
+
+Can we start a new group?
+
+Which type of new group shall we start?
+
+These are just suggested questions to get you started. If a question doesn’t work, think of an alternative. But try to make sure you ask Listening, Obedience and Multiplication questions.
+
+## After Each Discussion
+
+Agree the date and time for the next meeting and share the story you will discuss.
+
+Can you copy the bible and D-Path training to people’s smart phones?
+
+Or can you make copies of the D-Path training to give to group members?
+
+Or can members photograph the story?
+
+Or can they record it being read?
+
+Encourage members to read and pray over the story on their own each day before the group meets to discuss it. This makes a huge difference.
+
+Finally, take time to love each other through listening to their concerns and praying for each other.
 

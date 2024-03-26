@@ -15,7 +15,7 @@ Devise : **Aimez-vous les uns les autres – Allez et faites des disciples**
 
 ## 1 Timothée 6:20-21 Gardez ce qui vous a été confié
 
->   1 Timothée 6:20-21 Timothée, garde ce qui t'a été confié. Détournez-vous des bavardages impies et des idées contradictoires de ce qu'on appelle faussement connaissance, que certains ont professé et, ce faisant, se sont éloignés de la foi.
+>   1 Timothée 6:20-21 Timothée, garde ce qui t'a été confié. Détournez-vous des bavardages impies et des idées opposées de ce que l’on appelle faussement connaissance, que certains ont professé et, ce faisant, se sont éloignés de la foi.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 

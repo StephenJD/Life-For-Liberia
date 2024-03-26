@@ -219,7 +219,7 @@ Il est important de rendre visite au chef de la ville, à l'imam et à d'autres 
 
 Il est important que vous ne parliez **pas** de christianisme, de conversion, de changement de croyance, d'aller à l'église ou de fonder une église. De nombreuses communautés seront soit hostiles à ces idées, soit auront des idées très fausses à leur sujet.
 
-Expliquez plutôt que vous souhaitez les aider à en apprendre davantage sur Jésus, afin qu'ils puissent devenir de meilleurs dirigeants qui apprennent à écouter et à obéir à Jésus (ou Isa).
+Expliquez plutôt que vous souhaitez les aider à en apprendre davantage sur Jésus, afin qu’ils puissent devenir de meilleurs leaders qui apprennent à écouter et à obéir à Jésus (ou Isa).
 
 ### Préparer notre stratégie
 
@@ -273,7 +273,7 @@ Devise : **Aimez-vous les uns les autres – Allez et faites des disciples**
 
 ## 1 Timothée 6:20-21 Gardez ce qui vous a été confié
 
->   1 Timothée 6:20-21 Timothée, garde ce qui t'a été confié. Détournez-vous des bavardages impies et des idées contradictoires de ce qu'on appelle faussement connaissance, que certains ont professé et, ce faisant, se sont éloignés de la foi.
+>   1 Timothée 6:20-21 Timothée, garde ce qui t'a été confié. Détournez-vous des bavardages impies et des idées opposées de ce que l’on appelle faussement connaissance, que certains ont professé et, ce faisant, se sont éloignés de la foi.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -321,15 +321,15 @@ Si vous visitez une communauté musulmane, faites tout ce que vous pouvez pour q
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-## Sourate 2:136 Nous croyons en ce qui a été donné à Jésus
+## Sourate 2:136 Nous croyons en ce qui a été donné à Isa
 
->   Sourate 2:136 "Nous croyons en Dieu et en ce qui a été donné à Moïse, David, Jésus et aux prophètes par leur Seigneur.”
+>   Sourate 2:136 "Nous croyons en Dieu et en ce qui a été donné à Moïse, David, Isa et aux prophètes par leur Seigneur.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-## Sourate 43:63 Jésus a dit : « Craignez Dieu et obéissez-moi. »
+## Sourate 43:63 Isa a dit : « Craignez Dieu et obéissez-moi. »
 
->   Sourate 43:63 Lorsque Jésus est venu avec les clarifications, il a dit : « Je suis venu vers vous avec sagesse, et pour clarifier pour vous certains de vos différends. Craignez donc Dieu et obéissez-moi. »
+>   Sourate 43:63 Quand Isa est venu avec les clarifications, il a dit : « Je suis venu vers vous avec sagesse et pour clarifier pour vous certains de vos différends. Craignez donc Dieu et obéissez-moi. »
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -339,15 +339,15 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-## Sourate 19:33-34 Jésus est la Parole de Vérité
+## Sourate 19:33-34 Isa est la Parole de Vérité
 
->   Sourate 19:33-34 Ainsi, la paix est sur moi le jour de ma naissance, le jour de ma mort et le jour où je ressusciterai vivant. C'est Jésus, fils de Marie, la Parole de vérité dont ils doutent.
+>   Sourate 19:33-34 Ainsi, la paix est sur moi le jour de ma naissance, le jour de ma mort et le jour où je ressusciterai vivant. C'est Isa, fils de Marie, la Parole de vérité dont ils doutent.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
-## Sourate 4:158-159 Jésus sera notre juge
+## Sourate 4:158-159 Isa sera notre juge
 
->   Sourate 4:158-159 Allah l'a élevé vers Lui. Et Allah est Puissant et Sage. Chacun des Gens du Livre croira certainement en lui avant sa mort. Et au Jour du Jugement, Jésus sera témoin contre eux.
+>   Sourate 4:158-159 Allah l'a élevé vers Lui. Et Allah est Puissant et Sage. Chacun des Gens du Livre croira certainement en lui avant sa mort. Et le jour du jugement, Isa témoignera contre eux.
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -355,4 +355,4 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 Si les musulmans disent que l'Évangile (qu'ils appellent l'Injil) a été corrompu, dites-leur alors que l'Évangile que nous avons aujourd'hui est exactement le même évangile que celui de Mahomet. AD600. C’est ce même Évangile dont Mahomet a dit que les musulmans devraient apprendre (Sourate 43:63) et ayez foi en (Sourate 4:136).
 
-Si les musulmans soulèvent d’autres objections aux enseignements concernant Jésus, invitez-les à lire l’Évangile par eux-mêmes et toutes leurs questions trouveront une réponse.
+Si les musulmans soulèvent d’autres objections aux enseignements sur Isa, invitez-les à lire l’Évangile par eux-mêmes, et toutes leurs questions recevront une réponse.

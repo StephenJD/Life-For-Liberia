@@ -1,0 +1,10 @@
+---
+title: ¬-------------------------------------------------
+type: document
+translationKey: Discovery group feedback form
+summary: "| Formulaire de commentaires du groupe de découverte. Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre | Formulaire de commentaires du groupe de découverte. Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre  |"
+weight: 3
+---
+
+| **Formulaire de commentaires du groupe de découverte.** Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre | **Formulaire de commentaires du groupe de découverte.** Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

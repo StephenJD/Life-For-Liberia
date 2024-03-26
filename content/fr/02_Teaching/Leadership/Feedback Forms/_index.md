@@ -5,4 +5,4 @@ translationKey: Feedback Forms
 summary: 
 weight: 
 ---
-Cette série de questions a pour but de vous aider à évaluer ce que vous avez appris sur une pratique missionnaire efficace.
+| **Formulaire de commentaires du groupe de découverte.** Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre | **Formulaire de commentaires du groupe de découverte.** Nom de l'apprenti : Date et heure de la réunion : Nom de la communauté : Nom de l'hôte du groupe de découverte : Numéro de téléphone de l'hôte du groupe de découverte : Référence biblique discutée : Combien de personnes ont participé : Noms des personnes qui, selon vous, pourraient être une bonne terre  |

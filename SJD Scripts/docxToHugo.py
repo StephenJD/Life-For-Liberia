@@ -9,10 +9,10 @@ import ctypes # To prevent windows sleep
 # python.exe -m pip install --upgrade pip
 # pip install -U deep-translator
 from deep_translator import GoogleTranslator
+# pip install --upgrade deepl # get free api key for deep-language translator.
 import ctypes
 import os
 # pip install --upgrade pywin32 
-# pip install --upgrade deepl # get free api key for deep-language translator.
 import win32com
 from win32com.client import constants
 # pip install pandoc
@@ -57,7 +57,10 @@ def readINI() :
           if line == "[Languages]":
             languages = iniFile.readline().strip('[] \t\n').replace(' ', '').split(',')
           if line == "[DateChanged]":
-            dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n'))     
+            try:
+                dateChanged = datetime.fromisoformat(iniFile.readline().strip(' \t\n')) 
+            except:
+                dateChanged = datetime.fromisoformat('1970-01-01')
       iniFile.close()
       if (iniFileDate - dateChanged).total_seconds() > 0:
         dateChanged = True
@@ -310,9 +313,11 @@ def combinedMD_to_pages(docAsMD):
           pageNo = 0
         elif line[0] == '#': # H1/2 so stop summary
           gotFirst_H1_2 = True
+          if not doingSummary:
+            pageNo += 1
           doingSummary = False
           pageNo += 1
-          if len(pages) < pageNo + 1:
+          while len(pages) < pageNo + 1:
             pages.append([])
         elif not doingSummary: # Text before heading
           doingSummary = True
@@ -436,6 +441,7 @@ def doc_to_docx(docName):
 
 def updateStyles(sourceDoc):
   #word.visible = True
+  word.visible = False
   doc = word.Documents.Open(str(sourceDoc))
   doc.UpdateStylesOnOpen = True
   #print("word_template: " , word_template) 
@@ -466,10 +472,11 @@ def word_to_md(sourcePath, destFile):
   #aspose_WordToMD(sourcePath,file, mediaPath)
 
 def writage_word_saveas_md(sourcePath, destFile):
-  word.visible = False
+  #word.visible = True
   doc = word.Documents.Open(str(sourcePath))
   print(f"Converting {sourcePath.name} to .md")
-  doc.SaveAs2(str(destFile), FileFormat=24) # file format for .md
+  # print(f"SaveAs: {doc.SaveFormat}") # Use this to discover .md file-type after manually saving as .md
+  doc.SaveAs2(str(destFile), FileFormat=27)
   doc.Close(0) # don't save changes
 
 # def add_heading_bookmarks(doc):
@@ -487,10 +494,10 @@ def to_pdf(sourcePath, file, booklet = False):
     word.visible = False
     doc = word.Documents.Open(str(sourcePath))
     doc.UpdateStylesOnOpen = False   
-    doc.PageSetup.TopMargin = '2cm'
-    doc.PageSetup.BottomMargin = '2cm'
-    doc.PageSetup.LeftMargin = '2cm'
-    doc.PageSetup.RightMargin = '2cm'
+    doc.PageSetup.TopMargin = '1.5cm'
+    doc.PageSetup.BottomMargin = '1.5cm'
+    doc.PageSetup.LeftMargin = '1.5cm'
+    doc.PageSetup.RightMargin = '1.5cm'
     doc.AttachedTemplate = word_template  
     #print("Attached after change:", doc.AttachedTemplate.Name)
     doc.UpdateStyles()
@@ -970,7 +977,7 @@ def main():
         
       haveMadeNewFolder(source_md.parent)
       word = win32com.client.Dispatch("Word.Application")
-      word.visible = 0  
+      word.visible = False 
       updateStyles(sourceDoc)    
       word_to_md(sourceDoc, source_md) # non-website file for pagination and translation, saved in static folder
       if moveImageFiles(source_md, mediaRoot): 
@@ -998,7 +1005,7 @@ def main():
         pdf_A5_file = pdf_folder / (docName + "_A5.pdf")     
         if word is None :
           word = win32com.client.Dispatch("Word.Application")
-          word.visible = 0  
+          word.visible = False  
         # save as combined .pdf        
         if lang == sourceLanguage: 
           if docFolder.find('01_Apprentice-Training') >= 0: re_do_listOfRefs = True

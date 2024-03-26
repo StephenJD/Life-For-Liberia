@@ -16,11 +16,13 @@ Formation S-Path
 
 [S7 – Grands systèmes de sonorisation](#s7-–-grands-systèmes-de-sonorisation)
 
-[S8 – Special Clothess8--vêtements spéciaux)
+[S8 – Vêtements spéciaux](#s8-–-vêtements-spéciaux)
 
 [S9 – Dîmes et offrandes](#s9-–-dîmes-et-offrandes)
 
 [S10 – Pères et mères spirituels](#s10-–-pères-et-mères-spirituels)
+
+[S11 – Devenir une école de formation missionnaire](#s11-–-devenir-une-école-de-formation-missionnaire)
 
 ### Résumé
 
@@ -289,6 +291,12 @@ Avez-vous un père, une mère, des fils ou des filles spirituels ?
 Y a-t-il des gens qui vous considèrent comme leur père ou leur mère spirituelle ?
 
 Que veut vous dire Jésus à propos de ces titres ?
+
+# S11 – Devenir une école de formation missionnaire
+
+Jésus vous appelle-t-il à arrêter de vous concentrer sur votre église et à commencer à faire des disciples obéissants qui iront faire des disciples obéissants ?
+
+Si oui, comment pouvez-vous procéder ?
 
 ### Conclusion
 

@@ -10,7 +10,7 @@ G-Path Training
 
 [G4 Crossing Culture](#g4-crossing-culture)
 
-[G5 Heal the Sick](#_Toc159324191)
+[G5 Heal the Sick](#_Toc162368839)
 
 [G6 Have Courage](#g6-have-courage)
 
@@ -321,15 +321,15 @@ If you are visiting a Muslim community, do all you can to keep any new disciples
 
 What good news is in this story?
 
-## Surah 2:136 We believe in what was given to Jesus
+## Surah 2:136 We believe in what was given to Isa
 
->   Surah 2:136 "We believe in God and what was given to Moses, David, Jesus and the prophets by their Lord.”
+>   Surah 2:136 "We believe in God and what was given to Moses, David, Isa and the prophets by their Lord.”
 
 What good news is in this story?
 
-## Surah 43:63 Jesus said “Fear God, and obey me."
+## Surah 43:63 Isa said “Fear God, and obey me."
 
->   Surah 43:63 When Jesus came with the clarifications, he said, “I have come to you with wisdom, and to clarify for you some of what you differ about. So fear God, and obey me."
+>   Surah 43:63 When Isa came with the clarifications, he said, “I have come to you with wisdom, and to clarify for you some of what you differ about. So fear God, and obey me."
 
 What good news is in this story?
 
@@ -339,15 +339,15 @@ What good news is in this story?
 
 What good news is in this story?
 
-## Surah 19:33-34 Jesus is the Word of Truth
+## Surah 19:33-34 Isa is the Word of Truth
 
->   Surah 19:33-34 So Peace is upon me the day I was born, and the day I die, and the Day I get resurrected alive. That is Jesus son of Mary—the Word of truth about which they doubt.
+>   Surah 19:33-34 So Peace is upon me the day I was born, and the day I die, and the Day I get resurrected alive. That is Isa son of Mary—the Word of truth about which they doubt.
 
 What good news is in this story?
 
-## Surah 4:158-159 Jesus will be our Judge
+## Surah 4:158-159 Isa will be our Judge
 
->   Surah 4:158-159 Allah raised him up to Himself. And Allah is Almighty, All-Wise. Every one of the People of the Book will definitely believe in him before his death. And on the Day of Judgment Jesus will be a witness against them.
+>   Surah 4:158-159 Allah raised him up to Himself. And Allah is Almighty, All-Wise. Every one of the People of the Book will definitely believe in him before his death. And on the Day of Judgment Isa will be a witness against them.
 
 What good news is in this story?
 
@@ -355,4 +355,4 @@ What good news is in this story?
 
 If Muslims say that the Gospel (which they call the Injil) has been corrupted, tell then that the Gospel we have today, is the exact same gospel that Muhammad had in AD600. It is that same Gospel that Muhammad said Muslims should learn from (Surah 43:63) and have faith in (Surah 4:136).
 
-If Muslims raise other objections to teachings about Jesus, invite them to read the Gospel for themselves, and all their questions will be answered.
+If Muslims raise other objections to teachings about Isa, invite them to read the Gospel for themselves, and all their questions will be answered.

@@ -59,3 +59,10 @@ Matthew 6:3-4 Let Your Giving be in Secret
 # S10  Spiritual Fathers and Mothers
 
 Matthew 23:8-10 Do Not Call Anyone On Earth ‘Father’
+# S11  Becoming a Missionary Training School
+
+There are a lot of areas mentioned above where we recognise we have followed the traditions of men instead of obeying Jesus.	
+
+I hope that you will listen to Jesus and try your best to obey Him by correcting these outward and inward practices.	
+
+The most important thing is to open our spiritual ears to hear Jesus and our hearts to obey Jesus. Without that our 'house' will fall in a terrible destruction (Luke 6:49).

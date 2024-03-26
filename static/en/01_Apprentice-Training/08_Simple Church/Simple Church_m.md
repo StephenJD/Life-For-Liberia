@@ -22,6 +22,8 @@ S-Path Training
 
 [S10 – Spiritual Fathers and Mothers](#s10--spiritual-fathers-and-mothers)
 
+[S11 – Becoming a Missionary Training School](#s11--becoming-a-missionary-training-school)
+
 ### Summary
 
 Jesus never told us to plant churches or run church services. He told us go and make obedient disciples. This training considers some of the ways that church tradition has replaced the commands of Jesus.
@@ -289,6 +291,12 @@ Do you have a spiritual father or mother or sons or daughters?
 Are there people who think of you as their spiritual father or mother?
 
 What does Jesus want to say to you about these titles?
+
+# S11 – Becoming a Missionary Training School
+
+Is Jesus calling you to stop focussing on your church and start to make obedient disciples who will go and make obedient disciples?
+
+If so, how can you do this?
 
 ### Conclusion
 

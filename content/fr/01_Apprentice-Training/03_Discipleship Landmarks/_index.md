@@ -5,8 +5,4 @@ translationKey: 03_Discipleship Landmarks
 summary: 
 weight: 03
 ---
-Cet ensemble d'histoires évangéliques est choisi pour aider une personne à passer de la curiosité à l'égard de Jésus à devenir un disciple fécond, confiant et obéissant de Jésus.
-
-Après avoir enseigné chaque histoire, demandez : **Quelle bonne nouvelle contient cette histoire ?**
-
-Après avoir enseigné toutes les histoires d'une section, les disciples doivent parcourir les histoires dans leur GG, en utilisant les questions GG.
+Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de « repères » importants, depuis la curiosité à l'égard de Jésus jusqu'à devenir un apprenti du Royaume.
