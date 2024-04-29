@@ -115,7 +115,7 @@ Luc 4:18-19 Bonne nouvelle aux pauvres
 Luc 9:1,6 Guérir les malades
 # D14 Communautés missionnaires
 
-Matthieu 5:13-16 Sel et lumière	
+Matthieu 5:13-16 Sel et Lumière	
 
 Luc 5:29-32 Dîner de Levi's	
 
@@ -127,3 +127,6 @@ Luc 22:14-20 La Cène du Seigneur
 Matthieu 25:14-30 Investir votre vie	
 
 Luc 6:39-40 L'aveugle peut-il conduire l'aveugle ?
+# Formulaire de commentaires
+
+Combien de personnes ont participé : …………………………………

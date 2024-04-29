@@ -34,6 +34,8 @@ Formation D-Path
 
 [D15 Multiplier votre vie](#d15-multiplier-votre-vie)
 
+[Formulaire de commentaires](#formulaire-de-commentaires)
+
 Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de « repères » importants, depuis la curiosité à l'égard de Jésus jusqu'à devenir un apprenti du Royaume.
 
 # Utiliser cette formation
@@ -187,14 +189,14 @@ Quel genre de repos Jésus vous offre-t-il ?
 
 Comment pouvez-vous venir à Jésus avec vos fardeaux ?
 
-À votre avis, que signifie « marcher avec moi et apprendre de moi » ?  
+À votre avis, que signifie « marchez avec moi et apprenez de moi » ?  
 Avec qui partagerez-vous cette histoire ?
 
 Voudriez-vous que je revienne une autre fois pour que vous puissiez entendre plus d'histoires de Jésus et ainsi apprendre à marcher avec lui et à apprendre de lui ?
 
 ## Actes 26:18 Des ténèbres à la lumière
 
->   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon de leurs péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
+>   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon des péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -488,7 +490,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Luc 11:9-13 Demandez jusqu'à ce que vous receviez
 
->   Luc 11:9-13 Jésus a dit : « Demandez et on vous donnera ; Cherchez et vous trouverez; frappez et la porte vous sera ouverte. Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira. Lequel de vous pères, si son fils demande un poisson, lui donnera un serpent à la place ? Ou s'il demande un œuf, lui donnera-t-il un scorpion ? Si donc vous, bien que méchants, savez donner de bons dons à vos enfants, combien plus votre Père céleste donnera-t-il le Saint-Esprit à ceux qui le lui demandent.!”
+>   Luc 11:9-13 Jésus a dit : « Demandez et l’on vous donnera ; Cherchez et vous trouverez; frappez et la porte vous sera ouverte. Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira. Lequel de vous pères, si son fils demande un poisson, lui donnera un serpent à la place ? Ou s'il demande un œuf, lui donnera-t-il un scorpion ? Si donc vous, bien que méchants, savez donner de bons cadeaux à vos enfants, combien plus votre Père céleste donnera-t-il le Saint-Esprit à ceux qui le lui demandent.!”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
@@ -606,7 +608,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Matthieu 6:9-10, 26:39 Priez pour que la volonté de Dieu soit faite
 
->   Matthieu 6:9-10 Jésus a dit : « Voici comment vous devez prier : « Notre Père qui est aux cieux, que ton nom soit honoré, que ton royaume vienne et que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Et pardonne-nous nos péchés, comme nous pardonnons aussi à ceux qui ont péché contre nous, et conduis-nous hors de la tentation et délivre-nous du malin. " Car si vous pardonnez aux autres lorsqu'ils pèchent contre vous, votre Père céleste vous pardonnera aussi. . Mais si vous ne pardonnez pas aux autres leurs péchés, votre Père ne vous pardonnera pas vos péchés.
+>   Matthieu 6:9-10 Jésus a dit : « Voici comment vous devez prier : « Notre Père qui est aux cieux, que ton nom soit honoré, que ton royaume vienne et que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Et pardonne-nous nos péchés, comme nous pardonnons aussi à ceux qui ont péché contre nous. Et délivre-nous de la tentation et délivre-nous du malin.' Car si vous pardonnez aux autres lorsqu'ils pèchent contre vous, votre Père céleste vous pardonnera aussi. . Mais si vous ne pardonnez pas aux autres leurs péchés, votre Père ne vous pardonnera pas vos péchés. »
 
 >   Matthieu 26:39 Jésus a dit : « Cependant, ce n'est pas ma volonté, mais la tienne qui soit faite. »
 
@@ -721,7 +723,7 @@ Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-## Matthieu 5:13-16 Sel et lumière
+## Matthieu 5:13-16 Sel et Lumière
 
 >   Matthieu 5:13-16 Jésus a dit : « Vous êtes le sel de la terre. Mais si le sel perd son caractère salé, comment peut-il redevenir salé ? Il ne sert plus à rien, sinon à être jeté dehors et piétiné. Tu es la lumière du monde. Une ville construite sur une colline ne peut pas être cachée. On n’allume pas non plus une lampe pour la mettre sous un bol. Au lieu de cela, ils l'ont mis sur son support et il éclaire toute la maison. De la même manière, que votre lumière brille devant les autres, afin qu'ils voient vos bonnes actions et glorifient votre Père qui est aux cieux. »
 
@@ -834,3 +836,19 @@ Avez-vous la passion de faire multiplier les disciples ? Alors ne prenez pas de 
 Si les apprentis sont très motivés et font également partie de leur propre GG, il est possible de former un plus grand groupe d'apprentis du Royaume, mais ne laissez pas le groupe être trop grand pour que chacun puisse contribuer pleinement (six plus le formateur pourraient être un nombre raisonnable). limite).
 
 Les apprentis doivent s’entraîner à partager la « Bonne Nouvelle » entre eux, en utilisant uniquement les paroles de Jésus dans l’histoire sans essayer de l’expliquer ou de la développer. Ils ne doivent pas utiliser de mots ou de concepts religieux, ni ajouter leurs propres explications. Entraînez-vous simplement à utiliser le D1 des histoires et des questions appropriées.
+
+# Formulaire de commentaires
+
+Nom de l'apprenti : ……………………………………………………………………………..
+
+Type de groupe : DG/GG/MC/AG
+
+Nom de la communauté: …………………………………………………………………………
+
+Nom d'hôte du groupe : ……………………………………………………………………………..
+
+Date et heure de la réunion la plus récente : ………………………………………………..
+
+Numéro de formation et Écriture : ……………………………………………………………..
+
+Combien de personnes ont participé : …………………………………………………………………………..

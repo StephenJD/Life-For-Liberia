@@ -39,7 +39,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Matthieu 6:9-10, 26:39 Priez pour que la volonté de Dieu soit faite
 
->   Matthieu 6:9-10 Jésus a dit : « Voici comment vous devez prier : « Notre Père qui est aux cieux, que ton nom soit honoré, que ton royaume vienne et que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Et pardonne-nous nos péchés, comme nous pardonnons aussi à ceux qui ont péché contre nous, et conduis-nous hors de la tentation et délivre-nous du malin. " Car si vous pardonnez aux autres lorsqu'ils pèchent contre vous, votre Père céleste vous pardonnera aussi. . Mais si vous ne pardonnez pas aux autres leurs péchés, votre Père ne vous pardonnera pas vos péchés.
+>   Matthieu 6:9-10 Jésus a dit : « Voici comment vous devez prier : « Notre Père qui est aux cieux, que ton nom soit honoré, que ton royaume vienne et que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien. Et pardonne-nous nos péchés, comme nous pardonnons aussi à ceux qui ont péché contre nous. Et délivre-nous de la tentation et délivre-nous du malin.' Car si vous pardonnez aux autres lorsqu'ils pèchent contre vous, votre Père céleste vous pardonnera aussi. . Mais si vous ne pardonnez pas aux autres leurs péchés, votre Père ne vous pardonnera pas vos péchés. »
 
 >   Matthieu 26:39 Jésus a dit : « Cependant, ce n'est pas ma volonté, mais la tienne qui soit faite. »
 

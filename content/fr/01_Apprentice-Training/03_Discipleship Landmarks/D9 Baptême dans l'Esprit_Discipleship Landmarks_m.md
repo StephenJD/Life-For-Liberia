@@ -27,7 +27,7 @@ Quelle bonne nouvelle y a-t-il dans cette histoire ?
 
 ## Luc 11:9-13 Demandez jusqu'à ce que vous receviez
 
->   Luc 11:9-13 Jésus a dit : « Demandez et on vous donnera ; Cherchez et vous trouverez; frappez et la porte vous sera ouverte. Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira. Lequel de vous pères, si son fils demande un poisson, lui donnera un serpent à la place ? Ou s'il demande un œuf, lui donnera-t-il un scorpion ? Si donc vous, bien que méchants, savez donner de bons dons à vos enfants, combien plus votre Père céleste donnera-t-il le Saint-Esprit à ceux qui le lui demandent.!”
+>   Luc 11:9-13 Jésus a dit : « Demandez et l’on vous donnera ; Cherchez et vous trouverez; frappez et la porte vous sera ouverte. Car quiconque demande reçoit ; celui qui cherche trouve ; et à celui qui frappe, la porte s'ouvrira. Lequel de vous pères, si son fils demande un poisson, lui donnera un serpent à la place ? Ou s'il demande un œuf, lui donnera-t-il un scorpion ? Si donc vous, bien que méchants, savez donner de bons cadeaux à vos enfants, combien plus votre Père céleste donnera-t-il le Saint-Esprit à ceux qui le lui demandent.!”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 

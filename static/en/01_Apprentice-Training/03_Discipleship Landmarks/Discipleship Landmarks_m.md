@@ -34,6 +34,8 @@ D-Path Training
 
 [D15 Multiplying Your Life](#d15-multiplying-your-life)
 
+[Feedback Form](#feedback-form)
+
 This set of Jesus stories are chosen to help a person progress through a series of important “landmarks” from curiosity about Jesus to become a Kingdom-Apprentice.
 
 # Using this Training
@@ -834,3 +836,19 @@ Do you have a passion to make multiplying disciples? Then don't take shortcuts! 
 If apprentices are highly motivated and are also in their own GG, it is possible to train a larger group of Kingdom-Apprentices, but don’t let the group be too large for everyone to contribute fully (six plus the trainer might be a reasonable limit).
 
 Apprentices should practice sharing the “Good News” with each other, using only the words of Jesus in the story without trying to explain it or expand upon it. They should not use any religious words or concepts, or add their own explanations. Practice just using the D1 stories and appropriate questions.
+
+# Feedback Form
+
+Apprentice Name: ……………………………………………………………………………..
+
+Type of Group: DG / GG / MC / AG
+
+Name of Community: …………………………………………………………………………
+
+Group Host Name: ……………………………………………………………………………..
+
+Date & Time of most recent meeting: ………………………………………………..
+
+Training Number & Scripture: ……………………………………………………………..
+
+How many attended: …………………………………………………………………………..

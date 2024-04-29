@@ -127,3 +127,6 @@ Luke 22:14-20 The Lord's Supper
 Matthew 25:14-30 Investing Your Life	
 
 Luke 6:39-40 Can the blind lead the blind?
+# Feedback Form
+
+How many attended: …………………………………………………………………………..

@@ -64,3 +64,4 @@ Avez-vous la passion de faire multiplier les disciples ? Alors ne prenez pas de 
 Si les apprentis sont très motivés et font également partie de leur propre GG, il est possible de former un plus grand groupe d'apprentis du Royaume, mais ne laissez pas le groupe être trop grand pour que chacun puisse contribuer pleinement (six plus le formateur pourraient être un nombre raisonnable). limite).
 
 Les apprentis doivent s’entraîner à partager la « Bonne Nouvelle » entre eux, en utilisant uniquement les paroles de Jésus dans l’histoire sans essayer de l’expliquer ou de la développer. Ils ne doivent pas utiliser de mots ou de concepts religieux, ni ajouter leurs propres explications. Entraînez-vous simplement à utiliser le D1 des histoires et des questions appropriées.
+

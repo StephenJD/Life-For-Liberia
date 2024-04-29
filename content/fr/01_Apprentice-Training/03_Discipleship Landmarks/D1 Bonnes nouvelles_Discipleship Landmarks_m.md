@@ -43,14 +43,14 @@ Quel genre de repos Jésus vous offre-t-il ?
 
 Comment pouvez-vous venir à Jésus avec vos fardeaux ?
 
-À votre avis, que signifie « marcher avec moi et apprendre de moi » ?  
+À votre avis, que signifie « marchez avec moi et apprenez de moi » ?  
 Avec qui partagerez-vous cette histoire ?
 
 Voudriez-vous que je revienne une autre fois pour que vous puissiez entendre plus d'histoires de Jésus et ainsi apprendre à marcher avec lui et à apprendre de lui ?
 
 ## Actes 26:18 Des ténèbres à la lumière
 
->   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon de leurs péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
+>   Actes 26:18 Jésus a dit : « Je vous envoie vers eux pour leur ouvrir les yeux et les tourner des ténèbres à la lumière et de la puissance de Satan à Dieu, afin qu'ils reçoivent le pardon des péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
 
 Quelle bonne nouvelle y a-t-il dans cette histoire ?
 

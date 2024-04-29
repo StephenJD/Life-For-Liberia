@@ -2,7 +2,7 @@
 title: D14 Communautés missionnaires
 type: document
 translationKey: D14 Missional Communities
-summary: "Matthieu 5:13-16 Sel et lumière	
+summary: "Matthieu 5:13-16 Sel et Lumière	
 
 Luc 5:29-32 Dîner de Levi's	
 
@@ -17,7 +17,7 @@ Cette histoire se trouve dans le D-Path : **D**iscipleship Landmarks.
 
 Devise : Aimez-vous les uns les autres – Allez et faites des disciples
 
-## Matthieu 5:13-16 Sel et lumière
+## Matthieu 5:13-16 Sel et Lumière
 
 >   Matthieu 5:13-16 Jésus a dit : « Vous êtes le sel de la terre. Mais si le sel perd son caractère salé, comment peut-il redevenir salé ? Il ne sert plus à rien, sinon à être jeté dehors et piétiné. Tu es la lumière du monde. Une ville construite sur une colline ne peut pas être cachée. On n’allume pas non plus une lampe pour la mettre sous un bol. Au lieu de cela, ils l'ont mis sur son support et il éclaire toute la maison. De la même manière, que votre lumière brille devant les autres, afin qu'ils voient vos bonnes actions et glorifient votre Père qui est aux cieux. »
 
