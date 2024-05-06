@@ -2,7 +2,15 @@
 title: 2 - L'Évangile du pardon
 type: document
 translationKey: 2 - The Gospel of Forgiveness
-summary: "Notre dernière étude s'est terminée par ces paroles de l'évangile de Luc (24:45-47):"
+summary: "Le 4-Lois spirituelles	
+
+Un résumé de l'Évangile ?	
+
+Est-ce que ça importe?	
+
+Ça ne gratte pas là où ça démange	
+
+Et la Croix ?"
 weight: 3
 ---
 # 2 - L'Évangile du pardon
@@ -32,7 +40,7 @@ Alors, où est passé le 4-D'où viennent les lois spirituelles ? Est-ce ce que 
 
 La réponse à cette question surprendrait de nombreux chrétiens. Dans les études ultérieures de cette série, nous examinerons ce que Paul a prêché et verrons qu'il était très similaire à l'Évangile de Jésus, et pas du tout comme l'Évangile de Jésus. 4-Lois spirituelles.
 
-Le 4-Les lois spirituelles ont été conçues en 1952 par une organisation évangélique appelée « Campus Crusade for Christ ». Les quatre lois, ou déclarations, sont toutes bibliques et sont souvent étayées par des versets bibliques. Mais cela ne veut pas dire que ces quatre déclarations sont une représentation biblique de l’Évangile.
+Le 4-Les lois spirituelles ont été conçues par une organisation évangélique appelée « Campus Crusade for Christ » et publiées dans 1956. Les quatre lois, ou déclarations, sont toutes bibliques et sont souvent étayées par des versets bibliques. Mais cela ne veut pas dire que ces quatre déclarations sont une représentation biblique de l’Évangile.
 
 ## Un résumé de l'Évangile ?
 

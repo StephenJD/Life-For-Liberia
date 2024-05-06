@@ -21,11 +21,11 @@ But comparing this with the Gospel Jesus announced in Mark 1 which we looked at 
 
 “The time has come,” he said. “The kingdom of God is near. Repent and believe the good news!”
 
-So where did the the 4-Spiritual Laws come from? Is it what Paul preached?
+So where did the 4-Spiritual Laws come from? Is it what Paul preached?
 
 The answer to this question would surprise many Christians. In later studies in this series we will look at what Paul preached and see that it was very similar to Jesus' Gospel, and not at all like the 4-Spiritual Laws.
 
-The 4-Spiritual Laws were devised in 1952 by an evangelistic organisation called "Campus Crusade for Christ". The four laws, or statements, are all biblical and are often supported by bible verses. But that does not mean that these four statements are a biblical representation of the Gospel.
+The 4-Spiritual Laws were devised by an evangelistic organisation called "Campus Crusade for Christ" and published in 1956. The four laws, or statements, are all biblical and are often supported by bible verses. But that does not mean that these four statements are a biblical representation of the Gospel.
 
 ## A Gospel Summary?
 
