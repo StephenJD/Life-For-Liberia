@@ -16,7 +16,7 @@ La repentance prêchée par Jean-Baptiste provenait de l'injustice (Lc 3:10-14) 
 
 Jésus a annoncé que le moment était venu et que le royaume était maintenant là, mais ils ne se sont pas repentis de leur incrédulité ! Ils étaient là à la synagogue, lisant et discutant des Écritures concernant le Royaume et priant Dieu, mais ils ne croyaient pas que Dieu avait accompli les promesses mêmes qu'ils lisaient ! Ils devaient se repentir et croire.
 
-Tous parlaient en bien de lui et étaient étonnés des paroles gracieuses qui sortaient de ses lèvres. « N'est-ce pas le fils de Joseph ? ils ont demandé. Jésus leur dit : « Vous me citerez sûrement ce proverbe : « Médecin, guérissez-vous ! » Et vous me direz : « Faites ici, dans votre ville, ce que nous avons entendu dire que vous avez fait à Capernaüm. » En vérité, je vous le dis : » a-t-il poursuivi, « aucun prophète n'est accepté dans sa ville natale. Je vous assure qu'il y avait beaucoup de veuves en Israël au temps d'Élie, lorsque le ciel était fermé pendant trois ans et demi et qu'il y avait une grande famine dans tout le pays. Pourtant Élie ne fut envoyé vers aucun d’entre eux, mais vers une veuve à Sarepta, dans la région de Sidon. Et il y avait beaucoup de lépreux en Israël au temps d'Élisée le prophète, mais aucun d'eux ne fut purifié, sauf Naaman le Syrien.”
+Tous parlaient en bien de lui et étaient étonnés des paroles gracieuses qui sortaient de ses lèvres. « N'est-ce pas le fils de Joseph ? ils ont demandé. Jésus leur dit : « Vous me citerez sûrement ce proverbe : « Médecin, guérissez-vous ! » Et vous me direz : « Faites ici, dans votre ville, ce que nous avons entendu dire que vous avez fait à Capharnaüm. » a-t-il poursuivi, « aucun prophète n'est accepté dans sa ville natale. Je vous assure qu'il y avait beaucoup de veuves en Israël au temps d'Élie, lorsque le ciel était fermé pendant trois ans et demi et qu'il y avait une grande famine dans tout le pays. Pourtant Élie ne fut envoyé vers aucun d’entre eux, mais vers une veuve à Sarepta, dans la région de Sidon. Et il y avait beaucoup de lépreux en Israël au temps d'Élisée le prophète, mais aucun d'eux ne fut purifié, sauf Naaman le Syrien.”
 
 Tous les gens de la synagogue furent furieux en entendant cela. Ils se levèrent, le chassèrent de la ville et l'emmenèrent au sommet de la colline sur laquelle la ville était bâtie, afin de le jeter du haut de la falaise. Mais il traversa la foule et poursuivit son chemin. (Lc 4:22-30)
 
@@ -26,7 +26,7 @@ Cette réticence à croire était tenace ! Même après avoir vu tous les miracl
 
 Plus tard, Jésus apparut aux Onze pendant qu'ils mangeaient ; il leur reprocha leur manque de foi et leur refus obstiné de croire ceux qui l'avaient vu après sa résurrection. (Marque 16:14)
 
-Le commandement de se repentir et de croire que le Royaume est venu est un message pour nous tous – en particulier les chrétiens ! Nous devons nous repentir de notre incrédulité concernant le pouvoir de guérison et de transformation du Royaume de Dieu ici dans notre cœur dès maintenant.!
+Le commandement de se repentir et de croire que le Royaume est venu est un message pour nous tous – en particulier les chrétiens ! Nous devons nous repentir de notre incrédulité concernant le pouvoir de guérison et de transformation du Royaume de Dieu ici sur terre dès maintenant.!
 
 “**C’est maintenant** le moment du jugement sur ce monde ; **maintenant** le prince de ce monde sera chassé. (Jn 12:31)
 
@@ -52,7 +52,7 @@ Comme nous l'avons vu dans nos études des Actes et des épîtres, la proclamati
 
 Après que le Seigneur Jésus leur eut parlé, il fut enlevé au ciel et s'assit à la droite de Dieu. (Marque 16:19)
 
-L’ascension de Jésus était le point culminant pour les disciples qui voyaient le royaume venir. Jésus était maintenant intronisé aux côtés du Père pour diriger le Royaume qu’il avait commencé à démontrer. Jésus exerçait ce règne sur terre, à la fois directement et aussi par l’intermédiaire de tous ceux qui croyaient en Lui.
+L’ascension de Jésus était le point culminant pour les disciples qui voyaient le royaume venir. Jésus était maintenant intronisé aux côtés du Père pour diriger le Royaume qu'il avait commencé à démontrer. Jésus exerçait ce règne sur terre, à la fois directement et aussi par l’intermédiaire de tous ceux qui croyaient en Lui.
 
 ## Conclusion
 

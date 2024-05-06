@@ -2,7 +2,15 @@
 title: 6 - The Gospel of the Kingdom
 type: document
 translationKey: 6 - The Gospel of the Kingdom
-summary: "Jesus started his ministry by preaching in the synagogues. Luke provides an example of this early ministry, where Jesus reads a prophecy of the coming Kingdom and announces that this prophecy is now fulfilled:"
+summary: "Announcing the Presence of the Kingdom	
+
+Repent and Believe the Kingdom has come	
+
+Victory over Satan	
+
+The Risen King	
+
+Conclusion"
 weight: 7
 ---
 # 6 - The Gospel of the Kingdom
@@ -33,7 +41,7 @@ This reluctance to believe was stubborn! Even after seeing all of Jesus' miracle
 
 Later Jesus appeared to the Eleven as they were eating; he rebuked them for their lack of faith and their stubborn refusal to believe those who had seen him after he had risen. (Mark 16:14)
 
-The command to repent and believe that the Kingdom has come is a message for us all – especially Christians! We must repent of our unbelief concerning the healing and transforming power of the Kingdom of God here on heart right now!
+The command to repent and believe that the Kingdom has come is a message for us all – especially Christians! We must repent of our unbelief concerning the healing and transforming power of the Kingdom of God here on earth right now!
 
 “**Now** is the time for judgment on this world; **now** the prince of this world will be driven out.” (Jn 12:31)
 
@@ -59,7 +67,7 @@ As we have seen in our studies in the Acts and epistles, the proclamation of the
 
 After the Lord Jesus had spoken to them, he was taken up into heaven and he sat at the right hand of God. (Mark 16:19)
 
-Jesus’ ascension was the climax for the disciples seeing the kingdom coming. Jesus’ was now enthroned at the Father's side to rule the Kingdom He had begun to demonstrate. Jesus exercised that rule on earth, both directly and also through all those who believed in Him.
+Jesus’ ascension was the climax for the disciples seeing the kingdom coming. Jesus was now enthroned at the Father's side to rule the Kingdom He had begun to demonstrate. Jesus exercised that rule on earth, both directly and also through all those who believed in Him.
 
 ## Conclusion
 
