@@ -16,7 +16,7 @@ Conformément à l’ancienne prophétie, Jésus s’est placé au-dessus de Mo�
 
 Jésus a affirmé connaître le Père au-delà de tout ce que Moïse pouvait prétendre:
 
-Alors Moïse dit : « Maintenant, montre-moi ta gloire. » Et l'Éternel dit : « Je ferai passer devant toi toute ma bonté, et je proclamerai mon nom, l'Éternel, devant toi... Mais tu ne peux pas voir ma face, car ** personne ne peut voir moi et vis**. (Ex 33:18-20)
+Alors Moïse dit : « Maintenant, montre-moi ta gloire. » Et l'Éternel dit : « Je ferai passer toute ma bonté devant toi, et je proclamerai mon nom, l'Éternel, devant toi... Mais tu ne peux pas voir ma face, car ** personne ne peut voir moi et vis**. (Ex 33:18-20)
 
 Jésus dit qu'il est le seul à avoir connu le Seigneur face à face ; capable de parler après avoir vu le visage de Dieu, pas seulement son dos:
 

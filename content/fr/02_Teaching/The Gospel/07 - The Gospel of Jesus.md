@@ -2,7 +2,23 @@
 title: 7 - L'Évangile de Jésus
 type: document
 translationKey: 7 - The Gospel of Jesus
-summary: "Dans cette étude, nous examinons ce que Jésus a dit de lui-même. C'est certainement une bonne nouvelle que nos péchés puissent être pardonnés, que nous puissions avoir la paix avec Dieu et que lorsque nous mourrons, nous ne ferons pas face à un jugement effrayant mais à la miséricorde, à la grâce et à l'amour. Mais nous avons vu que l'Évangile est plus que cela ; c'est la présence du Royaume de Dieu sur terre, ici et maintenant, qui apporte la guérison, la délivrance, l'espoir et la paix."
+summary: "Jésus lui-même est la Bonne Nouvelle	
+
+Il est le « prophète comme Moïse”	
+
+Il est l'oint	
+
+Il est le Prince de la Paix	
+
+Il est le Roi éternel	
+
+Jésus est la façon dont nous connaissons Dieu	
+
+Jésus est le vainqueur de notre ennemi	
+
+Jésus peut nous pardonner nos péchés	
+
+Conclusion"
 weight: 8
 ---
 # 7 - L'Évangile de Jésus
@@ -23,7 +39,7 @@ Conformément à l’ancienne prophétie, Jésus s’est placé au-dessus de Mo�
 
 Jésus a affirmé connaître le Père au-delà de tout ce que Moïse pouvait prétendre:
 
-Alors Moïse dit : « Maintenant, montre-moi ta gloire. » Et l'Éternel dit : « Je ferai passer devant toi toute ma bonté, et je proclamerai mon nom, l'Éternel, devant toi... Mais tu ne peux pas voir ma face, car ** personne ne peut voir moi et vis**. (Ex 33:18-20)
+Alors Moïse dit : « Maintenant, montre-moi ta gloire. » Et l'Éternel dit : « Je ferai passer toute ma bonté devant toi, et je proclamerai mon nom, l'Éternel, devant toi... Mais tu ne peux pas voir ma face, car ** personne ne peut voir moi et vis**. (Ex 33:18-20)
 
 Jésus dit qu'il est le seul à avoir connu le Seigneur face à face ; capable de parler après avoir vu le visage de Dieu, pas seulement son dos:
 

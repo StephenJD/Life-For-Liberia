@@ -2,7 +2,23 @@
 title: 7 - The Gospel of Jesus
 type: document
 translationKey: 7 - The Gospel of Jesus
-summary: "In this study we look at what Jesus said about Himself. It is certainly good news that our sins can be forgiven, and that that we can have peace with God and that when we die we will not face a fearful judgement but mercy and grace and love. But we have seen that the Gospel is more than that; it is the presence of God's Kingdom rule on earth here and now which brings healing and deliverance and hope and peace."
+summary: "Jesus Himself is the Good News	
+
+He is the “prophet like Moses”	
+
+He is the anointed one	
+
+He is the Prince of Peace	
+
+He is the Eternal King	
+
+Jesus is how we know God	
+
+Jesus is the victor over our enemy	
+
+Jesus can forgive us our sins	
+
+Conclusion"
 weight: 8
 ---
 # 7 - The Gospel of Jesus
