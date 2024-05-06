@@ -26,7 +26,7 @@ There are at least 17 descriptions of the Gospel in the Acts. Here is the comple
 
 Acts 2:11; **Acts 2:17, 21, 23, 36, 38;** Acts 4:29-31; Acts 5:42; **Acts 7;** Acts 8:5-7, 12; **Acts 10:36-43;** **Acts 13:32-39;** Acts 14:3; **Acts 14:15**, 22; Acts 16:30-31; **Acts 17:7, 18, 30-31;** Acts 18:5; Acts 19:8; Acts 20:21; Acts 26:17-18; Acts 28:8-9; Acts 28:23, 31.
 
-Only three descriptions of the Gospel include forgiveness of sins! The cross is mentioned only in 2:23, 2:36 and 10:39; in each case as a pre-cursor the the resurrection, which is a far more prominent theme.
+Only three descriptions of the Gospel include forgiveness of sins! The cross is mentioned only in 2:23, 2:36 and 10:39; in each case as a pre-cursor to the resurrection, which is a far more prominent theme.
 
 A few passages emphasise turning to God in faith, but the main emphasis (at least 11 passages) emphasise Jesus as Messiah or King.
 

@@ -26,7 +26,7 @@ Il y a au moins 17 descriptions de l'Évangile dans les Actes. Voici la liste co
 
 Actes 2:11; **Actes 2:17, 21, 23, 36, 38;** Actes 4:29-31; Actes 5:42; **Actes 7;** Actes 8:5-7, 12; **Actes 10:36-43;** **Actes 13:32-39;** Actes 14:3; **Actes 14:15**, 22; Actes 16:30-31; **Actes 17:7, 18, 30-31;** Actes 18:5; Actes 19:8; Actes 20:21; Actes 26:17-18; Actes 28:8-9; Actes 28:23, 31.
 
-Seules trois descriptions de l’Évangile incluent le pardon des péchés ! La croix n'est mentionnée que dans 2:23, 2:36 et 10:39; dans chaque cas, comme précurseur, la résurrection, qui est un thème bien plus important.
+Seules trois descriptions de l’Évangile incluent le pardon des péchés ! La croix n'est mentionnée que dans 2:23, 2:36 et 10:39; dans chaque cas comme un précurseur de la résurrection, qui est un thème bien plus important.
 
 Quelques passages mettent l'accent sur le fait de se tourner vers Dieu avec foi, mais l'accent principal (au moins 11 passages) mettent l’accent sur Jésus en tant que Messie ou Roi.
 
