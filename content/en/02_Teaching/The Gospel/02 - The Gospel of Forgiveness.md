@@ -10,6 +10,8 @@ Does it Matter?
 
 It doesn’t scratch where it itches	
 
+Convincing people of their Sin	
+
 What about the Cross?"
 weight: 3
 ---
@@ -71,6 +73,10 @@ The New Testament Gospel has the Kingdom of God at its centre; it is called "the
 ## It doesn’t scratch where it itches
 
 "The gospel of the forgiveness of sins" focuses on an individual’s sinful acts and the Cross of Christ. A problem with this way of presenting the Gospel is that most people don’t readily relate to it as good news; it doesn’t scratch where they itch. You therefore have to first work hard at getting a person to “see” that they have a problem in their relationship with God that really matters. Only then does this gospel sound like good news. You might be able to get them to pray a prayer asking for forgiveness but probably by the next day they will have forgotten all about it. The simple fact is that more than 90% of people who “respond” to this version of the gospel do not go on to become disciples of Jesus.
+
+## Convincing people of their Sin
+
+The 4-Spiritual Laws require that we explain what sin is and try to get a person to feel the weight and consequence of their sin. Yet we never see Jesus or the apostles doing that. Indeed, Jesus told us that convincing people of their sin was the Holy Spirit’s job, not ours! (John 16:8).
 
 ## What about the Cross?
 
