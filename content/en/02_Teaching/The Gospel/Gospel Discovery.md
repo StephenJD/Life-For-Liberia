@@ -17,7 +17,7 @@ Repentance and Forgiveness in the Gospel Message
 Explanations of the Cross	
 
 Proclaiming the Gospel"
-weight: 14
+weight: 15
 ---
 
 ## ![noName](/media/02_Teaching/The-Gospel/Gospel-Discovery/0ec7532d9655c7c0158af84c908dc0fb.jpeg)Introduction
@@ -50,7 +50,9 @@ Consider also these:
 
 >   John 18:37 Jesus said, “You are right in saying I am a king. In fact, for this reason I was born, and for this I came into the world, to testify to the truth.”
 
-Can you see any kind of theme? This is the difficult part. You need to forget the 4-spiritual laws or 3-circles, or you will never see it!
+Can you see any kind of theme? This is the difficult part. There is no mention of you and I obtaining salvation. You need to forget the 4-spiritual laws or 3-circles, or you will never see it!
+
+A strong hint is found in the New Testament name for this Gospel: “The Gospel of the Kingdom”.
 
 ## Paul’s Gospel
 
@@ -68,7 +70,9 @@ There are 17 descriptions of the Gospel in the Acts. Only 3 mention forgiveness.
 
 >   Paul proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!
 
-We have discovered the theme of the Gospel that Jesus and Paul proclaimed.
+We have discovered the theme of the Gospel that Jesus and Paul proclaimed. The heart of the Gospel, the Good News, is not salvation for sinners, but the presence of, and invitation to, the Kingdom rule of Jesus. Jesus’ struggle in making disciples was never in convincing them of their sin and need for forgiveness, but in believing that the Kingdom was at hand. That is why the disciples could not believe in the resurrection:
+
+>   Mark 16:14 Later Jesus appeared to the Eleven as they were eating; he rebuked them for their lack of faith and their stubborn refusal to believe those who had seen him after he had risen.
 
 ## John’s Gospel
 
@@ -106,7 +110,7 @@ The “light” theme is again very prominent. John’s summary of the Gospel in
 
 >   1 John 1: 5,7 This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all … if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin.
 
->   I think we can see that John gives us consistent and clear insight into the Gospel, as he understood and proclaimed it: Jesus came to bring God’s light into the world, so that we can walk in it, receive righteousness, and so have fellowship with both God and each other.
+Instead of the Kingdom, which was an especially Jewish expectation, John presents the Gospel as God’s light shining in the world to dispense the darkness so that we can walk in it, receive righteousness, and so have fellowship with both God and each other. But whether we talk about God’s Kingdom or God’s Light, the Gospel is a proclamation and invitation to Him.
 
 >   Luke was the closest of the Gospel writers to Paul. His Gospel is also self-declared as evangelistic. Luke records Jesus preparing His disciples for His coming death and resurrection.
 
@@ -124,7 +128,19 @@ The “light” theme is again very prominent. John’s summary of the Gospel in
 
 >   Repentance and forgiveness are regular themes in the Gospel Jesus preached. But curiously, the mechanism of forgiveness is rarely, if ever, explained. Jesus gives life to those He chooses! The consistent teaching, of both Old and New Testaments, is that righteousness is the reward of faith in God.
 
+>   Secondly, convincing people of their sin and their need for repentance is not our job – that is the work of the Holy Spirit:
+
+>   John 16:8 Jesus said, “When the Spirit comes, he will convict the world concerning sin and righteousness and judgment.”
+
+Nowhere in the New Testament do we read of sin being preached, whether original sin or our sin. The messages is always the forgiveness of sin.
+
 ## Explanations of the Cross
+
+>   Jesus did teach about the cross:
+
+>   Matthew 10:38-39 Jesus said, “Whoever does not take up their cross and follow me is not worthy of me. Whoever finds their life will lose it, and whoever loses their life for my sake will find it.”
+
+Jesus uses the cross (not His cross, since he never told them He would die on a cross) to teach about humility. He chose not to explain its coming role in salvation.
 
 >   The mechanism of forgiveness is generally left unexplained. Only once do we hear Jesus explain the role of the cross, privately to His devoted disciples:
 
