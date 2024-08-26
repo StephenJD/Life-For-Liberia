@@ -2,21 +2,19 @@
 title: Formulaire de commentaires
 type: document
 translationKey: Feedback Form
-summary: "Combien de personnes ont participé : …………………………………"
+summary: "Numéro de formation et verset : ………………………………………………"
 weight: 18
 ---
 # Formulaire de commentaires
 
-Nom de l'apprenti : ……………………………………………………………………………..
+Nom de l’apprenti : ……………………………………………………………………………..
 
-Type de groupe : DG/GG/MC/AG
+Type de groupe : DG / GG / MC / AG Nombre de participants : ………….
 
 Nom de la communauté: …………………………………………………………………………
 
-Nom d'hôte du groupe : ……………………………………………………………………………..
+Nom de l’hôte du groupe : ……………………………………………………………………………..
 
 Date et heure de la réunion la plus récente : ………………………………………………..
 
-Numéro de formation et Écriture : ……………………………………………………………..
-
-Combien de personnes ont participé : …………………………………………………………………………..
+Numéro de formation et verset : ……………………………………………………………..

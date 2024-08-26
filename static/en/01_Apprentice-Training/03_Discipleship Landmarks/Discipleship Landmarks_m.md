@@ -192,7 +192,7 @@ How can you come to Jesus with your burdens?
 What do you think “walk with me and learn from me” means?  
 Who will you share this story with?
 
-Would you like me to come back another time so you can hear more Jesus stories and so learn to walk with him and learn from him?
+Could we start a little group at your house with some of your friends to discuss more Jesus stories so you can discover how to walk with him and learn from him?
 
 ## Acts 26:18 From Darkness to Light
 
@@ -841,7 +841,7 @@ Apprentices should practice sharing the “Good News” with each other, using o
 
 Apprentice Name: ……………………………………………………………………………..
 
-Type of Group: DG / GG / MC / AG
+Type of Group: DG / GG / MC / AG How many attended: ………….
 
 Name of Community: …………………………………………………………………………
 
@@ -850,5 +850,3 @@ Group Host Name: ………………………………………………………
 Date & Time of most recent meeting: ………………………………………………..
 
 Training Number & Scripture: ……………………………………………………………..
-
-How many attended: …………………………………………………………………………..
