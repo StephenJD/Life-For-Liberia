@@ -2,45 +2,45 @@
 title: Formulaire de commentaires
 type: document
 translationKey: Feedback Form
-summary: "Combien de personnes ont participé : …………………………………"
-weight: 23
+summary: "Combien de personnes étaient présentes : ………………………"
+weight: 22
 ---
 # Formulaire de commentaires
 
-Nom de l'apprenti : ……………………………………………………………………………..
+Nom de l’apprenti : ……………………………………………………………………………..
 
-Type de groupe : DG/GG/MC/AG
+Type de groupe : DG / GG / MC / AG
 
 Nom de la communauté: …………………………………………………………………………
 
-Nom d'hôte du groupe : ……………………………………………………………………………..
+Nom de l’hôte du groupe : ……………………………………………………………………………..
 
 Date et heure de la réunion la plus récente : ………………………………………………..
 
-Numéro de formation et Écriture : ……………………………………………………………..
+Numéro de formation et verset : ……………………………………………………………..
 
-Combien de personnes ont participé : …………………………………………………………………………..
-
-Date et heure de la réunion la plus récente : ………………………………………………..
-
-Numéro de formation et Écriture : ……………………………………………………………..
-
-Combien de personnes ont participé : …………………………………………………………………………..
+Combien de personnes étaient présentes : …………………………………………………………………………..
 
 Date et heure de la réunion la plus récente : ………………………………………………..
 
-Numéro de formation et Écriture : ……………………………………………………………..
+Numéro de formation et verset : ……………………………………………………………..
 
-Combien de personnes ont participé : …………………………………………………………………………..
-
-Date et heure de la réunion la plus récente : ………………………………………………..
-
-Numéro de formation et Écriture : ……………………………………………………………..
-
-Combien de personnes ont participé : …………………………………………………………………………..
+Combien de personnes étaient présentes : …………………………………………………………………………..
 
 Date et heure de la réunion la plus récente : ………………………………………………..
 
-Numéro de formation et Écriture : ……………………………………………………………..
+Numéro de formation et verset : ……………………………………………………………..
 
-Combien de personnes ont participé : …………………………………………………………………………..
+Combien de personnes étaient présentes : …………………………………………………………………………..
+
+Date et heure de la réunion la plus récente : ………………………………………………..
+
+Numéro de formation et verset : ……………………………………………………………..
+
+Combien de personnes étaient présentes : …………………………………………………………………………..
+
+Date et heure de la réunion la plus récente : ………………………………………………..
+
+Numéro de formation et verset : ……………………………………………………………..
+
+Combien de personnes étaient présentes : …………………………………………………………………………..
