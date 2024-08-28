@@ -178,6 +178,10 @@ The Qur'an teaches that Jesus was resurrected from the dead, ascended alive into
 
 >   Allah raised him up to Himself. And Allah is Almighty, All-Wise. Every one of the People of the Book will definitely believe in him before his death. And on the Day of Judgment Jesus will be a witness against them. (Surah 4:158-159)
 
+In Sahih al-Bukhari, Book 60 ‘The Book of the Prophets’, Hadith 49 ‘The descent of Isa, son of Maryam’, we read:
+
+>   Allah's Messenger said, "By Him in Whose Hands my soul is, surely (Jesus,) the son of Mary will soon descend amongst you and will judge mankind justly (as a Just Ruler); … Abu Huraira added "If you wish, you can recite (this verse of the Holy Book): -- 'And there is none Of the people of the Scriptures (Jews and Christians) but must believe in Jesus before his death. And on the Day of Judgment He will be a witness Against them." (Surah 4.159)
+
 ## Gospel Stories for Muslims
 
 ### Friendship with God
