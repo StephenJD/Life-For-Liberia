@@ -31,7 +31,7 @@ toc_tag = "](#"
 REDO_PDFS = False
 word = None
 word_template = None
-do_translations = True
+do_translations = False
 # Toml INI files
 def readINI() :
   docxRoot = Path.cwd() 
@@ -955,9 +955,9 @@ def main():
     #if docName == "2017 Ministry Trip": 
     #if docFolder == "Blog":
     #print(docFolder) 
-    #if docFolder == r"Teaching\Disciple-Making through Storytelling\New Wineskins": 
+    if docFolder == r"01_Apprentice-Training\05_Go To the Nations": 
     #if sourceLanguageMDpath.name == "Evangelism Stories": 
-    if True:
+    #if True:
       pass
     else: continue
 

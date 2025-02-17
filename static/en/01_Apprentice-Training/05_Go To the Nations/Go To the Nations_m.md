@@ -10,7 +10,7 @@ G-Path Training
 
 [G4 Crossing Culture](#g4-crossing-culture)
 
-[G5 Heal the Sick](#_Toc162368839)
+[G5 Heal the Sick](#_Toc190716491)
 
 [G6 Have Courage](#g6-have-courage)
 
