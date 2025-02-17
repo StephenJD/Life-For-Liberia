@@ -955,7 +955,7 @@ def main():
     #if docName == "2017 Ministry Trip": 
     #if docFolder == "Blog":
     #print(docFolder) 
-    if docFolder == r"01_Apprentice-Training\05_Go To the Nations": 
+    if docFolder == r"01_Apprentice-Training": 
     #if sourceLanguageMDpath.name == "Evangelism Stories": 
     #if True:
       pass

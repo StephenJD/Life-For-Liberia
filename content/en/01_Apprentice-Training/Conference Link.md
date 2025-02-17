@@ -2,7 +2,7 @@
 title: Conference Joining Instructions
 type: document
 translationKey: Conference Joining Instructions
-summary: "If you are joining on a laptop, simply Click this link: https://meet.jit.si/kingdom-apprentices-net"
+summary: "When you join the meeting, please type in you name"
 weight: 2
 ---
 # Conference Joining Instructions
