@@ -929,7 +929,7 @@ def main():
   source_md_root = webRootPath/'static/en'
   sourceLanguageMDfolder = contentRootPath / sourceLanguage
   re_do_listOfRefs = False
-
+  folderSummaryDone = {}
 
   for sourceDoc in sourceRootPath.rglob('*.doc'):
     if word is None: word = win32com.client.Dispatch("Word.Application")
@@ -964,6 +964,8 @@ def main():
     if sourceDoc.parent != folder: 
       source_weight = 1
       folder = sourceDoc.parent
+      for lang in languages: 
+        folderSummaryDone[lang] = False
     
     source_md = Path(source_md_root/docFolder/sourceDoc.stem).with_suffix('.md')
     if fileNeedsUpdating(sourceDoc, source_md): # update English source.md
@@ -1036,9 +1038,10 @@ def main():
         #if lang != sourceLanguage: lang_file.unlink()
         summaries = []
         directorySummary = get_MultiPage_Summary(pages) # deletes summary page[0] if found
-        if len(directorySummary) > 0:
+        if len(directorySummary) > 0 and not folderSummaryDone[lang]:
           summaries.append(directorySummary)
           addSummaryTo_index(langMDpath, directorySummary)
+          folderSummaryDone[lang] = True
 
         for pageNo, page in enumerate(pages):
           if len(page) == 0: continue
