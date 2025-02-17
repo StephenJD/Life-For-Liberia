@@ -57,15 +57,12 @@ weight: 1
 |Matthew 18:19|Where two of you agree|[T4](../11_team-building/t4-authority-in-agreement_team-building_m)|
 |Matthew 18:20|Where two or three gather|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m),[M6](../10_multiplying-disciples/m6-growth-group-training_multiplying-disciples_m)|
 |Matthew 18:21-35|Forgive as You Have Been Forgiven|[P10](../04_prayer/p10-forgive-us-our-sins-as-we-also-forgive-those-who-sin-against-us_prayer_m)|
-|Matthew 21:12|Jesus overturned the tables|[I5](../01_introducing-kingdom-apprentices/i5-overturned-tables_introducing-kingdom-apprentices_m)|
-|Matthew 21:23-25|By what authority are you doing these things?|[I6](../01_introducing-kingdom-apprentices/i6-whose-authority_introducing-kingdom-apprentices_m)|
-|Matthew 21:28-31|A Man who had Two Sons|[I4](../01_introducing-kingdom-apprentices/i4-two-sons_introducing-kingdom-apprentices_m)|
 |Matthew 23:4|Cumbersome loads on people’s shoulders|[S2](../08_simple-church/s2-the-cost-of-church-services_simple-church_m)|
 |Matthew 23:5-7|Everything They Do Is For Show|[S8](../08_simple-church/s8-special-clothes_simple-church_m)|
 |Matthew 23:8-10|Do Not Call Anyone On Earth ‘Father’|[S10](../08_simple-church/s10-spiritual-fathers-and-mothers_simple-church_m)|
 |Matthew 25:14-30|Investing Your Life|[D15](../03_discipleship-landmarks/d15-multiplying-your-life_discipleship-landmarks_m)|
 |Matthew 26:17-30|The Last Supper|[C23](../07_creation-to-christ/c23-jesus-talks-about-his-betrayal-and-the-covenant_creation-to-christ_m)|
-|Matthew 28:18-20|Go and make disciples of all nations|[I1](../01_introducing-kingdom-apprentices/i1-kingdom-apprentices_introducing-kingdom-apprentices_m),[M11](../10_multiplying-disciples/m11-go-and-make-disciples_multiplying-disciples_m)|
+|Matthew 28:18-20|Go and make disciples of all nations|[M11](../10_multiplying-disciples/m11-go-and-make-disciples_multiplying-disciples_m)|
 |Matthew 28:19|Go and make disciples|[D8](../03_discipleship-landmarks/d8-baptism_discipleship-landmarks_m),[G1](../05_go-to-the-nations/g1-go-and-make-disciples_go-to-the-nations_m),[S1](../08_simple-church/s1-church-a-command-or-a-tradition_simple-church_m)|
 |Mark 1:15|The time has come|[D7](../03_discipleship-landmarks/d7-repentance_discipleship-landmarks_m)|
 |Mark 4:33-34|He always taught them with Parables|[M5](../10_multiplying-disciples/m5-selecting-training-stories_multiplying-disciples_m)|
@@ -83,7 +80,7 @@ weight: 1
 |Luke 5:17-26|The man lowered through the roof|[C19](../07_creation-to-christ/c19-jesus-and-the-paralyzed-man_creation-to-christ_m)|
 |Luke 5:29-32|Levi's Dinner Party|[D14](../03_discipleship-landmarks/d14-missional-communities_discipleship-landmarks_m),[E3](../06_evangelism-stories/e3-other-stories_evangelism-stories_m),[M8](../10_multiplying-disciples/m8-missional-community-training_multiplying-disciples_m)|
 |Luke 6:39-40|Can the blind lead the blind?|[D15](../03_discipleship-landmarks/d15-multiplying-your-life_discipleship-landmarks_m)|
-|Luke 6:46-49|Wise and Foolish Builders|[I3](../01_introducing-kingdom-apprentices/i3-knowledge-without-obedience_introducing-kingdom-apprentices_m),[D3](../03_discipleship-landmarks/d3-obey_discipleship-landmarks_m),[S3](../08_simple-church/s3-knowledge-without-obedience_simple-church_m),[N4](../09_new-wineskins/n4-obedience-based-discipleship_new-wineskins_m),[M6](../10_multiplying-disciples/m6-growth-group-training_multiplying-disciples_m)|
+|Luke 6:46-49|Wise and Foolish Builders|[D3](../03_discipleship-landmarks/d3-obey_discipleship-landmarks_m),[S3](../08_simple-church/s3-knowledge-without-obedience_simple-church_m),[N4](../09_new-wineskins/n4-obedience-based-discipleship_new-wineskins_m),[M6](../10_multiplying-disciples/m6-growth-group-training_multiplying-disciples_m)|
 |Luke 7:8|I myself am a man under authority|[T4](../11_team-building/t4-authority-in-agreement_team-building_m)|
 |Luke 7:36-50|Simon's Dinner Party|[M7](../10_multiplying-disciples/m7-story-telling-training_multiplying-disciples_m)|
 |Luke 8:4-8|The Four Soils|[M10](../10_multiplying-disciples/m10-discovery-group-training_multiplying-disciples_m)|
@@ -147,7 +144,7 @@ weight: 1
 |John 6:1-14|Jesus feeds five thousand|[J4](../06_evangelism-stories/j4-jesus-feeds-five-thousand_seven-miraculous-signs-of-jesus_m)|
 |John 6:15-25|Jesus walks on the water|[J5](../06_evangelism-stories/j5-jesus-walks-on-the-water_seven-miraculous-signs-of-jesus_m)|
 |John 6:40|That Everyone ... Shall Have Eternal Life|[P8](../04_prayer/p8-may-your-will-be-done-on-earth-as-it-is-in-heaven_prayer_m)|
-|John 6:45|Everyone who has heard the Father comes to me.|[I2](../01_introducing-kingdom-apprentices/i2-how-does-someone-become-a-disciple_introducing-kingdom-apprentices_m),[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m),[M2](../10_multiplying-disciples/m2-discovery-learning_multiplying-disciples_m)|
+|John 6:45|Everyone who has heard the Father comes to me.|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m),[M2](../10_multiplying-disciples/m2-discovery-learning_multiplying-disciples_m)|
 |John 6:60,66|This is a hard teaching|[N5](../09_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
 |John 6:63|The Spirit gives life|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m),[P6](../04_prayer/p6-may-your-name-be-honoured-on-earth-as-it-is-in-heaven_prayer_m)|
 |John 7:18|Whoever speaks on their own|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m),[S6](../08_simple-church/s6-personal-glory_simple-church_m),[N5](../09_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
