@@ -2,7 +2,9 @@
 title: Story Ideas from Luke
 type: document
 translationKey: Story Ideas from Luke
-summary: "Here are some suggested stories from Luke that could be used in training people in mission."
+summary: "Key:	
+
+Luke's Gospel"
 weight: 5
 ---
 # Story Ideas from Luke
