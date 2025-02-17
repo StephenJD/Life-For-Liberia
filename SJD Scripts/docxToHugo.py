@@ -31,7 +31,7 @@ toc_tag = "](#"
 REDO_PDFS = False
 word = None
 word_template = None
-do_translations = False
+do_translations = True
 # Toml INI files
 def readINI() :
   docxRoot = Path.cwd() 
@@ -955,9 +955,9 @@ def main():
     #if docName == "2017 Ministry Trip": 
     #if docFolder == "Blog":
     #print(docFolder) 
-    if docFolder == r"01_Apprentice-Training": 
+    #if docFolder == r"01_Apprentice-Training": 
     #if sourceLanguageMDpath.name == "Evangelism Stories": 
-    #if True:
+    if True:
       pass
     else: continue
 
@@ -1038,7 +1038,7 @@ def main():
         #if lang != sourceLanguage: lang_file.unlink()
         summaries = []
         directorySummary = get_MultiPage_Summary(pages) # deletes summary page[0] if found
-        if len(directorySummary) > 0 and not folderSummaryDone[lang]:
+        if len(directorySummary) > 0 and not folderSummaryDone[lang]: # First page found with a summary is used as the list-page summary
           summaries.append(directorySummary)
           addSummaryTo_index(langMDpath, directorySummary)
           folderSummaryDone[lang] = True
