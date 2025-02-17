@@ -5,4 +5,4 @@ translationKey: 01_Apprentice-Training
 summary: 
 weight: 01
 ---
-Here are some suggested stories from Luke that could be used in training people in mission.
+A family of friends called to obey Jesus in making multiplying disciples in Liberia and beyond.
