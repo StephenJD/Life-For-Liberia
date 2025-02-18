@@ -17,7 +17,7 @@ weight: 2
 
 ## John 15:16 Chosen to bear much lasting fruit
 
-John 15:16 Jesus said, “You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.”
+>   John 15:16 Jesus said, “You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.”
 
 What big dreams is Jesus encouraging you to dream through these promises?
 

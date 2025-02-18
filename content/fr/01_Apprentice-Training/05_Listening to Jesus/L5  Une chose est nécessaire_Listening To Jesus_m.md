@@ -9,9 +9,9 @@ weight: 6
 
 ## Luck 10:38-41 Mary et Martha
 
-Luck 10:38-41 Alors que Jésus et ses disciples étaient en route, il est venu dans un village où une femme nommée Martha lui a ouvert sa maison. Elle avait une sœur appelée Mary, qui était assise aux pieds du Seigneur en écoutant ce qu'il a dit. Mais Martha a été distraite par tous les préparatifs qui devaient être faits. Elle est venue vers lui et a demandé: «Seigneur, ne te soucie pas que ma sœur m'a quitté pour faire le travail par moi-même? Dites-lui de m'aider!”
+>   Luck 10:38-41 Alors que Jésus et ses disciples étaient en route, il est venu dans un village où une femme nommée Martha lui a ouvert sa maison. Elle avait une sœur appelée Mary, qui était assise aux pieds du Seigneur en écoutant ce qu'il a dit. Mais Martha a été distraite par tous les préparatifs qui devaient être faits. Elle est venue vers lui et a demandé: «Seigneur, ne te soucie pas que ma sœur m'a quitté pour faire le travail par moi-même? Dites-lui de m'aider!”
 
-“Martha, Martha, «répondit le Seigneur:« Vous êtes inquiet et bouleversé pour beaucoup de choses, mais peu de choses sont nécessaires - ou en effet une seule. Mary a choisi ce qui est mieux et il ne lui sera pas enlevé.”
+>   “Martha, Martha, «répondit le Seigneur:« Vous êtes inquiet et bouleversé pour beaucoup de choses, mais peu de choses sont nécessaires - ou en effet une seule. Mary a choisi ce qui est mieux et il ne lui sera pas enlevé.”
 
 Qu'est-ce que Jésus vous dit grâce à cet incident?
 

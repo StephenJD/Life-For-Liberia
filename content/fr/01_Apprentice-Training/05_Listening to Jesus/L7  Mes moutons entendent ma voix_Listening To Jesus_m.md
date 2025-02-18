@@ -9,7 +9,7 @@ weight: 8
 
 ## John 10:27-28 Mes moutons écoutent ma voix
 
-John 10:27-28 Jésus a dit: «Mes moutons écoutent ma voix; Je les connais et ils me suivent. Je leur donne la vie éternelle, et ils ne périront jamais; Personne ne les arrachera de ma main.”
+>   John 10:27-28 Jésus a dit: «Mes moutons écoutent ma voix; Je les connais et ils me suivent. Je leur donne la vie éternelle, et ils ne périront jamais; Personne ne les arrachera de ma main.”
 
 Jésus fait une simple déclaration de fait: «Mes moutons écoutent ma voix». C'est la conséquence de la naissance de nouveau et remplie du Saint-Esprit. Si vous êtes en Jésus, vous écouterez sa voix. Alors croyez-le et pratiquez-le!
 

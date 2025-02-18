@@ -9,7 +9,7 @@ weight: 8
 
 ## John 10:27-28 My sheep listen to my voice
 
-John 10:27-28 Jesus said, “My sheep listen to my voice; I know them, and they follow me. I give them eternal life, and they shall never perish; no one will snatch them out of my hand.”
+>   John 10:27-28 Jesus said, “My sheep listen to my voice; I know them, and they follow me. I give them eternal life, and they shall never perish; no one will snatch them out of my hand.”
 
 Jesus makes a simple statement of fact: “My sheep listen to my voice”. It is the consequence of being Born Again and filled with the Holy Spirit. If you are in Jesus, you will listen to His voice. So just believe it and practice it!
 

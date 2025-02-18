@@ -9,7 +9,7 @@ weight: 3
 
 ## John 6:56-57 Whoever eats my flesh and drinks my blood remains in me
 
-John 6:56-57 Jesus said, “Whoever eats my flesh and drinks my blood remains in me, and I in them. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me.”
+>   John 6:56-57 Jesus said, “Whoever eats my flesh and drinks my blood remains in me, and I in them. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me.”
 
 Food becomes a part of us and sustains our efforts.
 

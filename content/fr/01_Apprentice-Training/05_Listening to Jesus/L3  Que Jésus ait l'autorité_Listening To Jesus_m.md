@@ -9,7 +9,7 @@ weight: 4
 
 ## John 6:60 Qui peut l'accepter?
 
-John 6:60,66 En l'entendant, beaucoup de ses disciples ont dit: «C'est un enseignement difficile. Qui peut l'accepter? … À partir de cette fois, beaucoup de ses disciples se sont retournés et ne le suivaient plus.
+>   John 6:60,66 En l'entendant, beaucoup de ses disciples ont dit: «C'est un enseignement difficile. Qui peut l'accepter? … À partir de cette fois, beaucoup de ses disciples se sont retournés et ne le suivaient plus.
 
 Êtes-vous prêt à entendre et à accepter les dictons durs de Jésus?
 

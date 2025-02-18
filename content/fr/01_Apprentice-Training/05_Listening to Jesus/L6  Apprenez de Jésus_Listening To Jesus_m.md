@@ -9,7 +9,7 @@ weight: 7
 
 ## Mat 11:28-30 Marcher avec moi et apprendre de moi
 
-Mat 11:28-30 "Venez à moi, vous tous qui êtes fatigués et accablés, et je vous donnerai du repos. Marchez avec moi et apprenez de moi, car je suis doux et humble de cœur, et vous trouverez du repos pour votre âme. Car mon chemin est facile et mon fardeau est léger.”
+>   Mat 11:28-30 "Venez à moi, vous tous qui êtes fatigués et accablés, et je vous donnerai du repos. Marchez avec moi et apprenez de moi, car je suis doux et humble de cœur, et vous trouverez du repos pour votre âme. Car mon chemin est facile et mon fardeau est léger.”
 
 Qui a besoin d'apprendre de Jésus?
 

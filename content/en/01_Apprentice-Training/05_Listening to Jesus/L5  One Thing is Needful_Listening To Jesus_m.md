@@ -9,9 +9,9 @@ weight: 6
 
 ## Luke 10:38-41 Mary and Martha
 
-Luke 10:38-41 As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. She had a sister called Mary, who sat at the Lord’s feet listening to what he said. But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
+>   Luke 10:38-41 As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. She had a sister called Mary, who sat at the Lord’s feet listening to what he said. But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
 
-“Martha, Martha,” the Lord answered, “you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.”
+>   “Martha, Martha,” the Lord answered, “you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.”
 
 What is Jesus saying to you through this incident?
 

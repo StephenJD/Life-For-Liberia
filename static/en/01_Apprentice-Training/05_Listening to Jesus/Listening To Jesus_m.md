@@ -16,7 +16,7 @@ Jesus has called us to do the impossible and make disciples of all the nations. 
 
 ## John 15:16 Chosen to bear much lasting fruit
 
-John 15:16 Jesus said, “You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.”
+>   John 15:16 Jesus said, “You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you.”
 
 What big dreams is Jesus encouraging you to dream through these promises?
 
@@ -28,7 +28,7 @@ Where do you need to “be” if you are to see these promises become true in yo
 
 ## John 6:56-57 Whoever eats my flesh and drinks my blood remains in me
 
-John 6:56-57 Jesus said, “Whoever eats my flesh and drinks my blood remains in me, and I in them. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me.”
+>   John 6:56-57 Jesus said, “Whoever eats my flesh and drinks my blood remains in me, and I in them. Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me.”
 
 Food becomes a part of us and sustains our efforts.
 
@@ -54,7 +54,7 @@ How would you “use its strength”?
 
 ## John 6:60 Who can accept it?
 
-John 6:60,66 On hearing it, many of his disciples said, “This is a hard teaching. Who can accept it?” … From this time many of his disciples turned back and no longer followed him.
+>   John 6:60,66 On hearing it, many of his disciples said, “This is a hard teaching. Who can accept it?” … From this time many of his disciples turned back and no longer followed him.
 
 Are you willing to hear and accept Jesus’ hard sayings?
 
@@ -66,7 +66,7 @@ Are you prepared to courageously obey Jesus and walk in the Kingdom, even where 
 
 ## Luke 18:9-14 I thank you that I am not like other people
 
-Luke 18:9-14 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. I fast twice a week and give a tenth of all I get.’ But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
+>   Luke 18:9-14 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. I fast twice a week and give a tenth of all I get.’ But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
 
 It is all too easy for us to become like this Pharisee. We assume we are already living in obedience and think that anything we read in scripture is for other people, not us!
 
@@ -78,9 +78,9 @@ Will you prayerfully listen to Jesus in this story and see if you sometimes reac
 
 ## Luke 10:38-41 Mary and Martha
 
-Luke 10:38-41 As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. She had a sister called Mary, who sat at the Lord’s feet listening to what he said. But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
+>   Luke 10:38-41 As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. She had a sister called Mary, who sat at the Lord’s feet listening to what he said. But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
 
-“Martha, Martha,” the Lord answered, “you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.”
+>   “Martha, Martha,” the Lord answered, “you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.”
 
 What is Jesus saying to you through this incident?
 
@@ -108,7 +108,7 @@ What does Jesus want you to do about this?
 
 ## Matt 11:28-30 Walk with me and learn from me
 
-Matt 11:28-30 "Come to me, all you who are weary and burdened, and I will give you rest. Walk with me and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my way is easy and my burden is light.”
+>   Matt 11:28-30 "Come to me, all you who are weary and burdened, and I will give you rest. Walk with me and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my way is easy and my burden is light.”
 
 Who needs to learn from Jesus?
 
@@ -134,7 +134,7 @@ What does Jesus want to say to you about walking with Him?
 
 ## John 10:27-28 My sheep listen to my voice
 
-John 10:27-28 Jesus said, “My sheep listen to my voice; I know them, and they follow me. I give them eternal life, and they shall never perish; no one will snatch them out of my hand.”
+>   John 10:27-28 Jesus said, “My sheep listen to my voice; I know them, and they follow me. I give them eternal life, and they shall never perish; no one will snatch them out of my hand.”
 
 Jesus makes a simple statement of fact: “My sheep listen to my voice”. It is the consequence of being Born Again and filled with the Holy Spirit. If you are in Jesus, you will listen to His voice. So just believe it and practice it!
 

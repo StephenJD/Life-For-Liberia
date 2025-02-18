@@ -17,7 +17,7 @@ weight: 2
 
 ## John 15:16 Choisi pour porter des fruits très durables
 
-John 15:16 Jésus a dit: «Vous ne m'avez pas choisi, mais je vous ai choisi et vous avez nommé que vous devriez aller porter des fruits, et que votre fruit devrait rester, que tout ce que vous demandez au Père en mon nom, il peut vous donner.”
+>   John 15:16 Jésus a dit: «Vous ne m'avez pas choisi, mais je vous ai choisi et vous avez nommé que vous devriez aller porter des fruits, et que votre fruit devrait rester, que tout ce que vous demandez au Père en mon nom, il peut vous donner.”
 
 Quels grands rêves Jésus vous encourage-t-il à rêver à travers ces promesses?
 
