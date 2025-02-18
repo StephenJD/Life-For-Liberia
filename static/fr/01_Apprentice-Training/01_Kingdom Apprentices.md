@@ -1,6 +1,6 @@
-Apprentis du royaume
+**Apprentis du royaume**
 
-Partager le voyage
+**Partager le voyage**
 
 Contenu
 

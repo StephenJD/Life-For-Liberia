@@ -554,32 +554,36 @@ def aspose_WordToMD(sourcePath, file, mediaPath):
 def get_MultiPage_Summary(allPages):
   '''
   If H3 before first H2, H3 is the summary.
+  If there are two H3 summaries, the first is returned as the multi-page summary an removed from the document.
+  If there is one H3 summary, it is returned as the multi-page summary and left in the document.
   If no H3 then text before first H1/H2 used as summary.
     For single-page doc, use only first paragraph > 50 chars.
   '''
-  h3_summary = -1  
+  first_h3_summary = -1  
+  second_h3_summary = -1  
   summary = []
   firstLine = ''
 
   for lineNo, line in enumerate(allPages[0]):
     if len(line) < 3: continue
     if (line.startswith('# ') or line.startswith('**')): # heading 1, ** Bold for Title style
-      if h3_summary >= 0: break
+      if first_h3_summary >= 0: break
       else: continue
-    if h3_summary == -1 and line.startswith('###'): # H3 Summary before first H1 or H2
-      h3_summary = lineNo
-    #elif line == '###\n': # Text Summary before first H1 or H2
-      #pass
-    elif (firstLine != '' or h3_summary >= 0) and line.startswith('#'): # any heading terminates summary
+    if first_h3_summary == -1 and line.startswith('###'): # H3 Summary before first H1 or H2
+      first_h3_summary = lineNo
+    elif first_h3_summary >= 0 and line.startswith('###'): # Second H3 Summary before first H1 or H2
+      second_h3_summary = lineNo
       break
-    elif h3_summary >= 0:
-      summary.append(line.strip())
+    elif (firstLine != '' or first_h3_summary >= 0) and (line.startswith('# ') or line.startswith('## ')): # any H1/H2 terminates summary
+      break
+    elif first_h3_summary >= 0:
+      summary.append(line.strip()) # we are reading the first summary paragraph
     elif firstLine == '' and imageTag(line)[2] == 0:
       alphaCount = len(tuple(c for c in line if c.isalpha()))
       if alphaCount > 50:
         firstLine = line
         
-  if h3_summary == -1:
+  if first_h3_summary == -1:
     summary = firstLine.strip()
   else:
     #summary = '<br>'.join(summary) 
@@ -589,6 +593,9 @@ def get_MultiPage_Summary(allPages):
   summary = summary.replace('\\','')
   if len(allPages) > 1:
     del(allPages[0])
+  else:
+      if second_h3_summary != -1:
+        allPages[0] = allPages[0][second_h3_summary:] 
 
   return summary
 

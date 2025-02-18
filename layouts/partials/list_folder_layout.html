@@ -49,9 +49,12 @@
 	{{ range $paginator.Pages -}}
 	{{ if eq .Type "document" }}
 	{{ $pdfTag := path.Base .File }}
-	{{ $splitResult := split $pdfTag "_" }}
+	{{ $pdfTag = strings.TrimSuffix $pdfTag (path.Ext $pdfTag) }}
+	{{ $splitResult := split $pdfTag "_" }} {{/* Split path at underscores */}}
 	{{ $pdfTag = index $splitResult 1 }}
+	
 	{{ if ne $pdfTag $thisPDF }}
+		{{/* Each time the pdf tag changes, a divider-line and heading are inserted */}}
 		<hr>
 		{{ $thisPDF = $pdfTag }}
 		<h2> {{ $pdfTag }} </h2>

@@ -1,6 +1,6 @@
-Kingdom Apprentices
+**Kingdom Apprentices**
 
-Sharing the Journey
+**Sharing the Journey**
 
 Contents
 
