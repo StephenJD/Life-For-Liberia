@@ -36,6 +36,8 @@ D-Path Training
 
 [Feedback Form](#feedback-form)
 
+This material may be downloaded from: <https://kingdom-apprentices.net/en/01_apprentice-training/03_discipleship-landmarks/>
+
 This set of Jesus stories are chosen to help a person progress through a series of important “landmarks” from curiosity about Jesus to become a Kingdom-Apprentice.
 
 # Using this Training
@@ -855,7 +857,7 @@ The stories above give you the basic ingredients of a Missional Community:
 
 Will you start a Missional Community with your local GG’s and neighbours?
 
-If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/09_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your trainer for a copy).
+If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/08_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your trainer for a copy).
 
 Here are some other suggestions:
 

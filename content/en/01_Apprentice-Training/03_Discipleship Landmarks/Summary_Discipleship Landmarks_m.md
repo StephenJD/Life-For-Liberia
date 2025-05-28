@@ -8,7 +8,7 @@ summary: Summary of Discipleship Landmarks
 weight: 1
 ---
 # Summary of Discipleship Landmarks
-This set of Jesus stories are chosen to help a person progress through a series of important 'landmarks' from curiosity about Jesus to become a Kingdom-Apprentice.
+This material may be downloaded from: <https://kingdom-apprentices.net/en/01_apprentice-training/03_discipleship-landmarks/>
 # Using this Training
 
 Discipleship Landmarks Training	

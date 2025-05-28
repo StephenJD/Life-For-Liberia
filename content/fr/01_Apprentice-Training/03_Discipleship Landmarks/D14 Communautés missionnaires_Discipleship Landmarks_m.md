@@ -60,7 +60,7 @@ Les histoires ci-dessus vous donnent les ingrédients de base d'une communauté 
 
 Allez-vous commencer une communauté missionnaire avec vos GG et voisins locaux?
 
-Si quelqu'un dans votre communauté missionnaire a des difficultés à l'idée de briser le pain pendant un repas avec des personnes non baptisées, suivez la formation N-Path appelée "Breaking Bread" (vous pouvez le trouver sur <https://kingdom-apprentices.net/en/01_entraînement des apprentis/09_New-wineskins/n6-Breaking-Bread_new-wineskins_m /> ou demandez à votre entraîneur une copie).
+Si quelqu'un dans votre communauté missionnaire a des difficultés à l'idée de briser le pain pendant un repas avec des personnes non baptisées, suivez la formation N-Path appelée "Breaking Bread" (vous pouvez le trouver sur <https://kingdom-apprentices.net/en/01_entraînement des apprentis/08_New-wineskins/n6-Breaking-Bread_new-wineskins_m /> ou demandez à votre entraîneur une copie).
 
 Voici quelques autres suggestions:
 

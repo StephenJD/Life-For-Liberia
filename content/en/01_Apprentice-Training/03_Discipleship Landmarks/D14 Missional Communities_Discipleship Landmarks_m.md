@@ -60,7 +60,7 @@ The stories above give you the basic ingredients of a Missional Community:
 
 Will you start a Missional Community with your local GG’s and neighbours?
 
-If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/09_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your trainer for a copy).
+If anyone in your Missional Community has difficulty with the idea of Breaking Bread over a meal with un-baptised people, go through the N-Path training called "Breaking Bread" (you can find this at <https://kingdom-apprentices.net/en/01_apprentice-training/08_new-wineskins/n6-breaking-bread_new-wineskins_m/> or ask your trainer for a copy).
 
 Here are some other suggestions:
 

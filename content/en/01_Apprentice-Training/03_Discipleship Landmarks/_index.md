@@ -5,4 +5,4 @@ translationKey: 03_Discipleship Landmarks
 summary: 
 weight: 03
 ---
-This set of Jesus stories are chosen to help a person progress through a series of important 'landmarks' from curiosity about Jesus to become a Kingdom-Apprentice.
+This material may be downloaded from: <https://kingdom-apprentices.net/en/01_apprentice-training/03_discipleship-landmarks/>

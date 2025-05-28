@@ -8,7 +8,7 @@ summary: Résumé des repères de disciple
 weight: 1
 ---
 # Résumé des repères de disciple
-Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de «points de repère» importants de la curiosité de Jésus pour devenir un apprenti royaume.
+Ce matériel peut être téléchargé à partir de: <https://kingdom-apprentices.net/en/01_entraînement des apprentis/03_disciples-marques/>
 # En utilisant cette formation
 
 Formation de repères de disciples	

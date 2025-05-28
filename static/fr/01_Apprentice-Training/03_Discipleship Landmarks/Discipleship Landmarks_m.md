@@ -36,6 +36,8 @@ Formation D-Path
 
 [Formulaire de rétroaction](#formulaire-de-rétroaction)
 
+Ce matériel peut être téléchargé à partir de: <https://kingdom-apprentices.net/en/01_entraînement des apprentis/03_disciples-marques/>
+
 Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de «points de repère» importants de la curiosité de Jésus pour devenir un apprenti royaume.
 
 # En utilisant cette formation
@@ -631,7 +633,7 @@ Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le 
 
 (**Écoutez Q's ** :) Avez-vous une idée de ce que signifie «ils ont parlé avec des langues et prophétisé»? Sinon, demandez à votre entraîneur de vous montrer dans la Bible.
 
-Certaines personnes disent que parler en langues est la preuve du baptême dans l'esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
+Certaines personnes disent que parler en langues est la preuve du baptême dans l'Esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
 
 >   1 Cor 12:7-11 Maintenant, à chacun, la manifestation de l'esprit est donnée pour le bien commun. À ** un ** il est donné par l'Esprit un message de sagesse, ** à un autre ** un message de connaissance par le même esprit, ** à une autre ** Fait interprétation des langues. Ce sont le travail d'un même esprit, et il les distribue à chacun, tout comme il le détermine.
 
@@ -855,7 +857,7 @@ Les histoires ci-dessus vous donnent les ingrédients de base d'une communauté 
 
 Allez-vous commencer une communauté missionnaire avec vos GG et voisins locaux?
 
-Si quelqu'un dans votre communauté missionnaire a des difficultés à l'idée de briser le pain pendant un repas avec des personnes non baptisées, suivez la formation N-Path appelée "Breaking Bread" (vous pouvez le trouver sur <https://kingdom-apprentices.net/en/01_entraînement des apprentis/09_New-wineskins/n6-Breaking-Bread_new-wineskins_m /> ou demandez à votre entraîneur une copie).
+Si quelqu'un dans votre communauté missionnaire a des difficultés à l'idée de briser le pain pendant un repas avec des personnes non baptisées, suivez la formation N-Path appelée "Breaking Bread" (vous pouvez le trouver sur <https://kingdom-apprentices.net/en/01_entraînement des apprentis/08_New-wineskins/n6-Breaking-Bread_new-wineskins_m /> ou demandez à votre entraîneur une copie).
 
 Voici quelques autres suggestions:
 
