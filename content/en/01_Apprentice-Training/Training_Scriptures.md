@@ -39,7 +39,7 @@ weight: 1
 |Matthew 6:5|Do Not Pray to be Seen by Others|[P1](../04_prayer/p1-dont-try-to-impress-others-with-your-prayer_prayer_m)|
 |Matthew 6:6|Pray in your room|[P2](../04_prayer/p2-find-a-place-to-pray_prayer_m)|
 |Matthew 6:7-8|Not Like the Pagans with Many Words|[D11](../03_discipleship-landmarks/d11-prayer_discipleship-landmarks_m),[P3](../04_prayer/p3-not-with-many-words_prayer_m)|
-|Matthew 6:9-10, 26:39|This Is How You Should Pray|[D11](../03_discipleship-landmarks/d11-prayer_discipleship-landmarks_m),[P4](../04_prayer/p4-the-lords-prayer_prayer_m)|
+|Matthew 6:9-15, 26:39|This Is How You Should Pray|[D11](../03_discipleship-landmarks/d11-prayer_discipleship-landmarks_m),[P4](../04_prayer/p4-the-lords-prayer_prayer_m)|
 |Matthew 6:14-15|Forgive to be Forgiven|[P10](../04_prayer/p10-forgive-us-our-sins-as-we-also-forgive-those-who-sin-against-us_prayer_m)|
 |Matthew 6:27, 31-32|Do Not Worry|[P9](../04_prayer/p9-give-us-today-our-daily-bread_prayer_m)|
 |Matthew 6:31-33|Seek First His Kingdom|[D11](../03_discipleship-landmarks/d11-prayer_discipleship-landmarks_m),[P7](../04_prayer/p7-may-your-kingdom-come-on-earth-as-it-is-in-heaven_prayer_m)|
@@ -143,7 +143,7 @@ weight: 1
 |John 6:56-57|Whoever eats my flesh and drinks my blood remains in me|[L2](../05_listening-to-jesus/l2-eating-and-drinking-jesus_listening-to-jesus_m)|
 |John 6:60|This is a hard teaching|[L3](../05_listening-to-jesus/l3-let-jesus-have-authority_listening-to-jesus_m),[N5](../08_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
 |John 6:63|The Spirit gives life|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m),[P6](../04_prayer/p6-may-your-name-be-honoured-on-earth-as-it-is-in-heaven_prayer_m)|
-|John 7:18|Whoever speaks on their own|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m),[S6](../07_simple-church/s6-personal-glory_simple-church_m),[N5](../08_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
+|John 7:18|Whoever speaks on their own|[S6](../07_simple-church/s6-personal-glory_simple-church_m),[N5](../08_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
 |John 9:1-41|Healing of man born blind|[J6](../12_evangelism-stories/j6-healing-of-man-born-blind_seven-miraculous-signs-of-jesus_m)|
 |John 10:10||[E1](../12_evangelism-stories/e1-for-community-religious-leaders_evangelism-stories_m)|
 |John 10:27-28|My sheep listen to my voice|[L7](../05_listening-to-jesus/l7-my-sheep-hear-my-voice_listening-to-jesus_m)|
@@ -152,6 +152,7 @@ weight: 1
 |John 12:28-29|The crowd said it had thundered|[S7](../07_simple-church/s7-big-pa-systems_simple-church_m)|
 |John 14:1-3|Believe in Jesus|[D10](../03_discipleship-landmarks/d10-peace-with-god_discipleship-landmarks_m),[P5](../04_prayer/p5-our-father-in-heaven_prayer_m)|
 |John 14:6|The way and the truth and the life|[D10](../03_discipleship-landmarks/d10-peace-with-god_discipleship-landmarks_m)|
+|John 14:10|The words I say to you I do not speak on my own authority|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m)|
 |John 14:19-20|You are in me, and I am in you|[D10](../03_discipleship-landmarks/d10-peace-with-god_discipleship-landmarks_m)|
 |John 14:27|My peace I give you|[D10](../03_discipleship-landmarks/d10-peace-with-god_discipleship-landmarks_m)|
 |John 15:5,8|I am the vine, you are the branches|[L1](../05_listening-to-jesus/l1-called-to-be-fruitful_listening-to-jesus_m),[N3](../08_new-wineskins/n3-fruitless-churches_new-wineskins_m)|
@@ -159,6 +160,7 @@ weight: 1
 |John 15:14-17|You Are My Friends|[Y11](../02_young-disciples/y11-you-are-my-friends_young-disciples_m)|
 |John 15:15-16|Friendship with God|[E2](../12_evangelism-stories/e2-for-muslims_evangelism-stories_m)|
 |John 15:16|I chose you and appointed you|[D11](../03_discipleship-landmarks/d11-prayer_discipleship-landmarks_m),[L1](../05_listening-to-jesus/l1-called-to-be-fruitful_listening-to-jesus_m),[N5](../08_new-wineskins/n5-faithful-to-our-calling_new-wineskins_m)|
+|John 16:12|I have much more to say to you|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m)|
 |John 16:13|The Spirit of truth will guide you|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m)|
 |John 17:21|That All of them May Be One|[P8](../04_prayer/p8-may-your-will-be-done-on-earth-as-it-is-in-heaven_prayer_m)|
 |John 18:1-19:16|Betrayal and trial|[C24](../11_creation-to-christ/c24-jesus-is-betrayed-and-faces-trial_creation-to-christ_m)|
