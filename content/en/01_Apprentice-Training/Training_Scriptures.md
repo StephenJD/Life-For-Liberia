@@ -13,7 +13,6 @@ weight: 1
 |Surah 4:171|Allah has no offspring|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m)|
 |Surah 5:46|We gave Isa the Injil containing guidance and light|[D1](../03_discipleship-landmarks/d1-good-news_discipleship-landmarks_m)|
 |The most important thing is to open our spiritual ears to hear Jesus and our hearts to obey Jesus. Without that our 'house' will fall in a terrible destruction (Luke 6:49).||[S11](../07_simple-church/s11-becoming-a-missionary-training-school_simple-church_m)|
-|Matt 11:28-30|Walk with me and learn from me|[L6](../05_listening-to-jesus/l6-learn-from-jesus_listening-to-jesus_m)|
 |Surah 19:34|Isa is the Word of Truth|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m)|
 |Surah 43:63|Isa said “Fear God, and obey me.”|[D3](../03_discipleship-landmarks/d3-obey_discipleship-landmarks_m)|
 |Genesis 1:1-25|Creation|[C1](../11_creation-to-christ/c1-creation_creation-to-christ_m)|
@@ -49,7 +48,7 @@ weight: 1
 |Matthew 10:37-39|Anyone who loves their father...|[D6](../03_discipleship-landmarks/d6-only-jesus_discipleship-landmarks_m)|
 |Matthew 10:39|Whoever loses their life ... will find it...|[P6](../04_prayer/p6-may-your-name-be-honoured-on-earth-as-it-is-in-heaven_prayer_m)|
 |Matthew 11:27|No One Knows the Son...|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m)|
-|Matthew 11:28-30|Rest for our Souls|[D1](../03_discipleship-landmarks/d1-good-news_discipleship-landmarks_m),[P5](../04_prayer/p5-our-father-in-heaven_prayer_m),[S4](../07_simple-church/s4-church-centred-mission_simple-church_m),[E2](../12_evangelism-stories/e2-for-muslims_evangelism-stories_m),[E3](../12_evangelism-stories/e3-other-stories_evangelism-stories_m)|
+|Matthew 11:28-30|Rest for our Souls|[D1](../03_discipleship-landmarks/d1-good-news_discipleship-landmarks_m),[P5](../04_prayer/p5-our-father-in-heaven_prayer_m),[L6](../05_listening-to-jesus/l6-learn-from-jesus_listening-to-jesus_m),[S4](../07_simple-church/s4-church-centred-mission_simple-church_m),[E2](../12_evangelism-stories/e2-for-muslims_evangelism-stories_m),[E3](../12_evangelism-stories/e3-other-stories_evangelism-stories_m)|
 |Matthew 12:28-25|Jesus has Bound the Strong Man|[G6](../06_go-to-the-nations/g6-have-courage_go-to-the-nations_m)|
 |Matthew 13:14-15|You will be ever hearing but never understanding|[S3](../07_simple-church/s3-knowledge-without-obedience_simple-church_m)|
 |Matthew 17:14-20|If You Have Faith as Small as a Mustard Seed|[P14](../04_prayer/p14-joy-and-peace-in-believing_prayer_m)|
