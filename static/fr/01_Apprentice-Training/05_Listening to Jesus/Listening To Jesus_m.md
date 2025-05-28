@@ -12,7 +12,7 @@ Jésus nous a appelés à faire l'impossible et à faire des disciples de toutes
 
 ## John 15:5,8 Porter beaucoup de fruits
 
->   John 15:5,8 Jésus a dit: «Je suis la vigne; Vous êtes les branches. Si vous restez en moi et moi en vous, vous supporterez beaucoup de fruits; En dehors de moi, vous ne pouvez rien faire… c'est à la gloire de mon père, que vous portez beaucoup de fruits, vous montrant comme mes disciples.”
+>   John 15:5,8 Jésus a dit: «Je suis la vigne; vous êtes les branches. Si vous restez en moi et moi en vous, vous vous porterez beaucoup de fruits; à part moi, vous ne pouvez rien faire… c'est à la gloire de mon père, que vous portez beaucoup de fruits, vous montrant comme mes disciples.”
 
 ## John 15:16 Choisi pour porter des fruits très durables
 
@@ -28,7 +28,7 @@ Où devez-vous «être» si vous voulez voir ces promesses devenir vraies dans v
 
 ## John 6:56-57 Celui qui mange ma chair et boit mon sang reste en moi
 
->   John 6:56-57 Jésus a dit: «Quiconque mange ma chair et boit mon sang reste en moi, et moi en eux. Tout comme le père vivant m'a envoyé et je vis à cause du père, celui qui se nourrit de moi vivra à cause de moi.”
+>   John 6:56-57 Jésus a dit: «Quiconque mange ma chair et boit mon sang reste en moi, et moi en eux. Tout comme le père vivant m'a envoyé et je vis à cause du Père, alors celui qui se nourrit de moi vivra à cause de moi.”
 
 La nourriture fait partie de nous et soutient nos efforts.
 
@@ -54,7 +54,7 @@ Comment «utiliseriez-vous sa force»?
 
 ## John 6:60 Qui peut l'accepter?
 
->   John 6:60,66 En l'entendant, beaucoup de ses disciples ont dit: «C'est un enseignement difficile. Qui peut l'accepter? … À partir de cette fois, beaucoup de ses disciples se sont retournés et ne le suivaient plus.
+>   John 6:60,66 En l'entendant, beaucoup de ses disciples ont dit: «C'est un enseignement difficile. Qui peut l'accepter?» … À partir de cette fois, beaucoup de ses disciples se sont retournés et ne le suivaient plus.
 
 Êtes-vous prêt à entendre et à accepter les dictons durs de Jésus?
 
@@ -66,7 +66,7 @@ Jésus a vécu selon la culture du royaume et qui s'est souvent affronté avec s
 
 ## Luck 18:9-14 Je vous remercie que je ne suis pas comme les autres
 
->   Luck 18:9-14 Pour certains qui étaient confiants de leur propre justice et ont méprisé tout le monde, Jésus a dit à cette parabole: «Deux hommes sont allés au temple pour prier, l'un un pharisien et l'autre un percepteur d'impôts. Le pharisien s'est tenu seul et a prié: «Dieu, je vous remercie que je ne suis pas comme les autres - les roubers, les malfaiteurs, les adultères - ou même comme ce percepteur d'impôts. Je jeûne deux fois par semaine et je donne un dixième de tout ce que j'obtiens. »Mais le percepteur d'impôts se tenait à distance. Il ne regardait même pas le paradis, mais battait sa poitrine et disait: «Dieu, je mettais pitié de moi, un pécheur.» Je vous dis que cet homme, plutôt que l'autre, est rentré chez moi justifié devant Dieu. Pour tous ceux qui s'exalteront seront humiliés et ceux qui s'humilieront seront exaltés.”
+>   Luck 18:9-14 À certains qui étaient confiants de leur propre justice et ont méprisé tout le monde, Jésus a dit à cette parabole: «Deux hommes sont allés au temple pour prier, l'un un pharisien et l'autre un collecteur d'impôts. Le pharisien s'est tenu seul et a prié:« Dieu, je vous remercie que je ne suis pas comme les autres - les roubers, les échauffes, les adulters - ou même celle-ci », mais je n'ai pas ce que je n'ai pas. Le collecteur d'impôts se tenait à distance.”
 
 Il est trop facile pour nous de devenir comme ce pharisien. Nous supposons que nous vivons déjà dans l'obéissance et pensons que tout ce que nous lisons dans les Écritures est pour les autres, pas nous!
 
@@ -106,9 +106,9 @@ Qu'est-ce que Jésus veut que vous fassiez à ce sujet?
 
 # L6 – Apprenez de Jésus
 
-## Mat 11:28-30 Marcher avec moi et apprendre de moi
+## Matthieu 11:28-30 Marcher avec moi et apprendre de moi
 
->   Mat 11:28-30 "Venez à moi, vous tous qui êtes fatigués et accablés, et je vous donnerai du repos. Marchez avec moi et apprenez de moi, car je suis doux et humble de cœur, et vous trouverez du repos pour votre âme. Car mon chemin est facile et mon fardeau est léger.”
+>   Matthieu 11:28-30 "Venez à moi, vous tous qui êtes fatigués et accablés, et je vous donnerai du repos. Marchez avec moi et apprenez de moi, car je suis doux et humble de cœur, et vous trouverez du repos pour votre âme. Car mon chemin est facile et mon fardeau est léger.”
 
 Qui a besoin d'apprendre de Jésus?
 
@@ -134,7 +134,7 @@ Qu'est-ce que Jésus veut vous dire à propos de marcher avec lui?
 
 ## John 10:27-28 Mes moutons écoutent ma voix
 
->   John 10:27-28 Jésus a dit: «Mes moutons écoutent ma voix; Je les connais et ils me suivent. Je leur donne la vie éternelle, et ils ne périront jamais; Personne ne les arrachera de ma main.”
+>   John 10:27-28 Jésus a dit: «Mes moutons écoutent ma voix; je les connais, et ils me suivent. Je leur donne la vie éternelle, et ils ne périront jamais; personne ne les arrachera de ma main.”
 
 Jésus fait une simple déclaration de fait: «Mes moutons écoutent ma voix». C'est la conséquence de la naissance de nouveau et remplie du Saint-Esprit. Si vous êtes en Jésus, vous écouterez sa voix. Alors croyez-le et pratiquez-le!
 

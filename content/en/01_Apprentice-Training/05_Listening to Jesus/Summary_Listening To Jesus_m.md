@@ -28,7 +28,7 @@ Luke 18:9-14 I thank you that I am not like other people
 Luke 10:38-41 Mary and Martha
 # L6  Learn from Jesus
 
-Matt 11:28-30 Walk with me and learn from me
+Matthew 11:28-30 Walk with me and learn from me
 # L7  My Sheep Hear My Voice
 
 John 10:27-28 My sheep listen to my voice

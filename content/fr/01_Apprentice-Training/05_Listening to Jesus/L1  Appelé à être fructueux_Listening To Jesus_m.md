@@ -13,7 +13,7 @@ weight: 2
 
 ## John 15:5,8 Porter beaucoup de fruits
 
->   John 15:5,8 Jésus a dit: «Je suis la vigne; Vous êtes les branches. Si vous restez en moi et moi en vous, vous supporterez beaucoup de fruits; En dehors de moi, vous ne pouvez rien faire… c'est à la gloire de mon père, que vous portez beaucoup de fruits, vous montrant comme mes disciples.”
+>   John 15:5,8 Jésus a dit: «Je suis la vigne; vous êtes les branches. Si vous restez en moi et moi en vous, vous vous porterez beaucoup de fruits; à part moi, vous ne pouvez rien faire… c'est à la gloire de mon père, que vous portez beaucoup de fruits, vous montrant comme mes disciples.”
 
 ## John 15:16 Choisi pour porter des fruits très durables
 

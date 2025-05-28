@@ -28,7 +28,7 @@ Luck 18:9-14 Je vous remercie que je ne suis pas comme les autres
 Luck 10:38-41 Mary et Martha
 # L6  Apprenez de Jésus
 
-Mat 11:28-30 Marcher avec moi et apprendre de moi
+Matthieu 11:28-30 Marcher avec moi et apprendre de moi
 # L7  Mes moutons entendent ma voix
 
 John 10:27-28 Mes moutons écoutent ma voix

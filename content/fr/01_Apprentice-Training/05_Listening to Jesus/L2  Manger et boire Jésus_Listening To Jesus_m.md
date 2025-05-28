@@ -9,7 +9,7 @@ weight: 3
 
 ## John 6:56-57 Celui qui mange ma chair et boit mon sang reste en moi
 
->   John 6:56-57 Jésus a dit: «Quiconque mange ma chair et boit mon sang reste en moi, et moi en eux. Tout comme le père vivant m'a envoyé et je vis à cause du père, celui qui se nourrit de moi vivra à cause de moi.”
+>   John 6:56-57 Jésus a dit: «Quiconque mange ma chair et boit mon sang reste en moi, et moi en eux. Tout comme le père vivant m'a envoyé et je vis à cause du Père, alors celui qui se nourrit de moi vivra à cause de moi.”
 
 La nourriture fait partie de nous et soutient nos efforts.
 

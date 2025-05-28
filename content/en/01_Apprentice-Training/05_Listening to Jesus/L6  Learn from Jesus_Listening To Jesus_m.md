@@ -2,14 +2,14 @@
 title: L6  Learn from Jesus
 type: document
 translationKey: L6 – Learn from Jesus
-summary: "Matt 11:28-30 Walk with me and learn from me"
+summary: "Matthew 11:28-30 Walk with me and learn from me"
 weight: 7
 ---
 # L6 – Learn from Jesus
 
-## Matt 11:28-30 Walk with me and learn from me
+## Matthew 11:28-30 Walk with me and learn from me
 
->   Matt 11:28-30 "Come to me, all you who are weary and burdened, and I will give you rest. Walk with me and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my way is easy and my burden is light.”
+>   Matthew 11:28-30 "Come to me, all you who are weary and burdened, and I will give you rest. Walk with me and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my way is easy and my burden is light.”
 
 Who needs to learn from Jesus?
 

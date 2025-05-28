@@ -9,7 +9,7 @@ weight: 5
 
 ## Luck 18:9-14 Je vous remercie que je ne suis pas comme les autres
 
->   Luck 18:9-14 Pour certains qui étaient confiants de leur propre justice et ont méprisé tout le monde, Jésus a dit à cette parabole: «Deux hommes sont allés au temple pour prier, l'un un pharisien et l'autre un percepteur d'impôts. Le pharisien s'est tenu seul et a prié: «Dieu, je vous remercie que je ne suis pas comme les autres - les roubers, les malfaiteurs, les adultères - ou même comme ce percepteur d'impôts. Je jeûne deux fois par semaine et je donne un dixième de tout ce que j'obtiens. »Mais le percepteur d'impôts se tenait à distance. Il ne regardait même pas le paradis, mais battait sa poitrine et disait: «Dieu, je mettais pitié de moi, un pécheur.» Je vous dis que cet homme, plutôt que l'autre, est rentré chez moi justifié devant Dieu. Pour tous ceux qui s'exalteront seront humiliés et ceux qui s'humilieront seront exaltés.”
+>   Luck 18:9-14 À certains qui étaient confiants de leur propre justice et ont méprisé tout le monde, Jésus a dit à cette parabole: «Deux hommes sont allés au temple pour prier, l'un un pharisien et l'autre un collecteur d'impôts. Le pharisien s'est tenu seul et a prié:« Dieu, je vous remercie que je ne suis pas comme les autres - les roubers, les échauffes, les adulters - ou même celle-ci », mais je n'ai pas ce que je n'ai pas. Le collecteur d'impôts se tenait à distance.”
 
 Il est trop facile pour nous de devenir comme ce pharisien. Nous supposons que nous vivons déjà dans l'obéissance et pensons que tout ce que nous lisons dans les Écritures est pour les autres, pas nous!
 
