@@ -2,48 +2,48 @@
 title: D8 Baptême
 type: document
 translationKey: D8 Baptism
-summary: "Luc 24:7 Crucifié et ressuscité	
+summary: "Luck 24:7 Crucifié et élevé à nouveau	
 
-Matthieu 28:19 Allez et faites des disciples	
+Matthieu 28:19 Aller faire des disciples	
 
 Romains 6:3-8 Enterré avec lui par le baptême"
 weight: 10
 ---
 # D8 Baptême
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-*Expliquez que le baptême est comme un bain dans la rivière. L’histoire suivante expliquera ce que signifie le baptême pour un disciple de Jésus.*
+Nous supposons que vous êtes maintenant dans un GG et que vous n'avez plus de chef de groupe. Continuez à utiliser les quatre questions auxquelles vous vous êtes habitué.
 
-## Luc 24:7 Crucifié et ressuscité
+Le baptême, c'est comme prendre un bain dans la rivière. L'histoire suivante vous aidera à découvrir ce que le baptême signifie pour un disciple de Jésus.
 
->   Jésus a dit : « Le Fils de l'homme doit être livré aux mains des pécheurs, être crucifié et ressusciter le troisième jour.”
+## Luck 24:7 Crucifié et élevé à nouveau
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   Jésus a dit: "Le Fils de l'homme doit être livré aux mains des pécheurs, être crucifié et le troisième jour être soulevé.”
 
-## Matthieu 28:19 Allez et faites des disciples
+## Matthieu 28:19 Aller faire des disciples
 
->   Matthieu 28:19 Jésus dit : « Allez donc, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit.”
-
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   Matthieu 28:19 Jésus a dit: «Allez donc faire des disciples de toutes les nations, les baptiser au nom du Père et du Fils et du Saint-Esprit, et leur apprenant à obéir à tout ce que je vous ai commandé.”
 
 ## Romains 6:3-8 Enterré avec lui par le baptême
 
->   Romains 6:3-8 Nous tous qui avons été baptisés en Jésus-Christ, c’est en sa mort que nous avons été baptisés. C’est pourquoi nous avons été ensevelis avec lui par le baptême en sa mort, afin que, comme le Christ est ressuscité des morts par la gloire du Père, de même nous vivions nous aussi en nouveau. Car si nous sommes unis à lui par une mort semblable à la sienne, nous le serons aussi par une résurrection semblable à la sienne. Nous savons, en effet, que notre vieil homme a été crucifié avec lui afin que le corps du péché soit réduit à l’impuissance, pour que nous ne soyons plus esclaves du péché. Or, si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui.
+>   Romains 6:3-8 Tous ceux qui avons été baptisés en Jésus-Christ avons été baptisés dans sa mort. Nous avons donc été enterrés avec lui par le baptême dans la mort afin que, tout comme le Christ a été ressuscité des morts par la gloire du Père, nous pouvons aussi vivre une nouvelle vie. Car si nous avons été unis avec lui dans une mort comme la sienne, nous serons certainement aussi unis avec lui dans une résurrection comme la sienne. Car nous savons que notre ancien moi a été crucifié avec lui afin que le corps gouverné par le péché puisse être supprimé, que nous ne devrions plus être des esclaves au péché - parce que quiconque est mort a été libéré du péché. Maintenant, si nous sommes morts avec Christ, nous croyons que nous vivrons également avec lui.
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Écoutez Q's ** :) Quels mots sont utilisés pour expliquer ce qui se passe sous l'eau symbolise?
 
-### Conclusion
+Quels mots sont utilisés pour expliquer ce que la sortie de l'eau symbolise?
 
-Quels mots sont utilisés pour expliquer ce que symbolise le fait de passer sous l’eau ?
+Que se passe-t-il en nous lorsque nous allons sous l'eau dans le baptême?
 
-Quels mots sont utilisés pour expliquer ce que symbolise le fait de sortir de l’eau ?
+Que se passe-t-il en nous lorsque nous sortons de l'eau dans le baptême?
 
-Que se passe-t-il à l’intérieur de nous lorsque nous entrons dans l’eau lors du baptême ?
+(**Obéissance Q's ** :) avez-vous obéissant D6 "Seulement Jésus "et D7 "Repentir"?
 
-Que se passe-t-il à l’intérieur de nous lorsque nous sortons de l’eau lors du baptême ?
+Comprenez-vous cette formation sur le baptême?
 
-Si vous avez été obéissant à D6 ""Seulement Jésus" et D7 ""Repentir" et vous comprenez cette formation sur le baptême, alors vous êtes prêt à être baptisé. Mais avant de vous faire baptiser, nous vous recommandons de suivre la formation suivante: D9-Le baptême dans le Saint-Esprit. Ces deux choses vont de pair.
+Comment allez-vous obéir?
+
+Avant d'être baptisé, nous vous recommandons de suivre la prochaine formation: D9-Baptême dans le Saint-Esprit. Ces deux vont ensemble.
 

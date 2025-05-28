@@ -2,64 +2,72 @@
 title: D2 Écouter
 type: document
 translationKey: D2 Listen
-summary: "Sourate 4:171 Allah n'a pas de descendance	
+summary: "Sourate 4:171 Allah n'a pas de progéniture	
 
-Matthieu 11:27 Personne ne connaît le fils...	
+Matthieu 11:27 Personne ne connaît le fils ...	
 
-John 6:45 Quiconque a entendu le Père	
+John 6:45 Tous ceux qui ont entendu le père	
 
-John 6:63 L'Esprit donne la vie"
+John 6:63 L'esprit donne la vie"
 weight: 4
 ---
 # D2 Écouter
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-Rappelez au groupe le 4 règles du groupe.
+(Expliquer le 4 Règles de groupe de l'introduction: pas d'église, pas de prédication, de réponse uniquement du passage, allez à votre vitesse.)
 
-## Sourate 4:171 Allah n'a pas de descendance
+(S'il n'y a pas de musulmans, omettez la sourate)
 
->   Sourate 4:171 “Allah n'a pas de descendance”
+## Sourate 4:171 Allah n'a pas de progéniture
 
-La Bible confirme que Dieu n’a pas de descendance. Jésus décrit Dieu comme son père d’une manière relationnelle et non biologique.
+>   Sourate 4:171 “Allah n'a pas de progéniture”
 
-## Matthieu 11:27 Personne ne connaît le fils...
+La Bible confirme que Dieu n'a pas de progéniture. Jésus décrit Dieu comme son Père d'une manière relationnelle, pas comme biologique.
 
->   Matthieu 11:27 Jésus a dit : « Tout m'a été donné par mon Père. Personne ne connaît le Fils, si ce n'est le Père, et personne ne connaît le Père, si ce n'est le Fils et celui à qui le Fils veut le révéler. »
+## Matthieu 11:27 Personne ne connaît le fils ...
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   Matthieu 11:27 Jésus a dit "tout ce qui m'a été donné par mon père.
 
-Qui devons-nous écouter ?
+(**Bonne nouvelle Q ** :) Qu'aimez-vous dans cette histoire?
 
-## John 6:45 Quiconque a entendu le Père
+(**Écoutez Q's ** :) Qui sait vraiment à quoi ressemble Dieu?
 
->   John 6:45 Jésus a dit : « Quiconque a entendu le Père et a reçu son enseignement vient à moi. »
+Qui devons-nous écouter si nous voulons vraiment découvrir à quoi ressemble Dieu?
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Obéissance Q ** :) Que pensez-vous que Jésus vous dit à ce sujet?
 
-Qui devons-nous écouter ?
+(**Multiplication Q's ** :) avec qui partagerez-vous cette histoire? Allez-vous les inviter à rejoindre ce groupe?
 
-## John 6:63 L'Esprit donne la vie
+## John 6:45 Tous ceux qui ont entendu le père
 
->   John 6:63 Jésus a dit : « L’Esprit vivifie, la chair n’est rien. Les paroles que je vous ai dites sont pleines d’Esprit et de vie. Pourtant, il en est parmi vous quelques-uns qui ne croient pas.”
+>   John 6:45 Jésus a dit "tous ceux qui ont entendu le Père et ont appris de lui vient à moi."
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(Utilisez les bonnes nouvelles habituelles, l'obéissance et la multiplication Q. Voici une écoute suggérée Q:)
 
-Qui devons-nous écouter ?
+(**Écoutez Q's ** :) Selon Jésus, que se passe-t-il avant qu'une personne ne vienne à Jésus?
+
+## John 6:63 L'esprit donne la vie
+
+>   John 6:63 Jésus a dit "l'Esprit donne la vie; la chair compte pour rien. Les mots que je vous ai prononcés - ils sont pleins de l'Esprit et de la vie. Pourtant, il y a certains d'entre vous qui ne croient pas.”
+
+(Utilisez les bonnes nouvelles habituelles, l'obéissance et la multiplication Q)
+
+(**Écoutez Q's ** :) d'où vient la vraie vie?
+
+Pourquoi pensez-vous que Jésus dit «la chair compte pour rien»?
+
+Pourquoi pensez-vous que certaines personnes ne croient pas Jésus?
 
 ### Conclusion
 
-L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez D1 à D2 des histoires encore.
+L'ADN du royaume-apprenti est ** Bonne nouvelle, ** ** Écoutez **, ** OBEY ** et ** Multiply **. Regardez par-dessus D1 et D2 Histoires à nouveau.
 
-Comment ce groupe vous aide-t-il à écouter ?
+L'étape la plus importante pour marcher avec Jésus est d'apprendre à l'écouter. Il est peu probable que vous entendiez une voix! Mais si vous écoutez, vous obtiendrez des idées à l'esprit, ou quelqu'un d'autre peut dire quelque chose qui aide. Faites simplement confiance à Jésus pour parler d'une manière que vous pouvez entendre. Cela vient avec la pratique.
 
-Quelles questions vous aident vraiment à écouter ?
+Jésus nous parle souvent par notre discussion. Voulez-vous ** écouter ** attentivement les uns les autres et pas seulement attendre pour avoir votre tour pour parler?
 
-Allez-vous vous écouter attentivement les uns les autres et ne pas simplement attendre votre tour pour parler ?
-
-Demanderez-vous à Jésus de vous montrer ce que signifie chaque histoire et d’écouter sa réponse ?
-
-Il est peu probable que vous entendiez une voix ! Mais si vous écoutez, des idées vous viendront à l’esprit ou quelqu’un d’autre pourra vous dire quelque chose qui vous aidera. Faites simplement confiance à Jésus pour parler d’une manière que vous pouvez entendre. Cela vient avec la pratique.
+Voulez-vous demander à Jésus de vous montrer comment il veut que vous ** obéissez ** à chaque histoire et écoutez sa réponse?
 

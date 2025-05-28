@@ -2,34 +2,46 @@
 title: D3 Obéir
 type: document
 translationKey: D3 Obey
-summary: "Sourate 43:63 Isa dit : « Craignez Dieu et obéissez-moi.”	
+summary: "Sourate 43:63 Isa a dit: «Craignez Dieu et obéissez-moi.”	
 
-Luc 6:46-49 Constructeurs sages et insensés"
+Luck 6:46-49 Constructeurs sages et stupides"
 weight: 5
 ---
 # D3 Obéir
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-## Sourate 43:63 Isa dit : « Craignez Dieu et obéissez-moi.”
+(Si les musulmans sont présents, demandez à un de lire ceci du Qu’ran, et demandez ensuite les quatre Q. S'il n'y a pas de musulmans, omettez la sourate)
 
->   Sourate 43:63 Quand Issa vint apporter les éclaircissements, il dit : « Je suis venu à vous avec sagesse et pour vous éclairer sur certains points sur lesquels vous n’êtes pas d’accord. Craignez donc Dieu et obéissez-moi. »
+## Sourate 43:63 Isa a dit: «Craignez Dieu et obéissez-moi.”
 
-## Luc 6:46-49 Constructeurs sages et insensés
+>   Sourate 43:63 Quand Isa est venue avec les clarifications, il a dit: «Je suis venu vers vous avec sagesse, et pour clarifier pour vous une partie de ce qui vous est en désaccord. Alors, craignez Dieu, et obéissez-moi."
 
->   Luc 6:46-49 Jésus dit : « Pourquoi m’appelez-vous Seigneur, Seigneur, et ne faites-vous pas ce que je dis ? Je vous montrerai à qui ressemble tout homme qui vient à moi, qui entend mes paroles et les met en pratique. Il ressemble à un homme qui bâtit une maison. Il a creusé profondément et a posé les fondations sur le roc. Le déluge est venu, la tempête s’est abattue sur cette maison, mais elle n’a pas pu l’ébranler, parce qu’elle était solidement construite. Mais celui qui entend mes paroles et ne les met pas en pratique ressemble à un homme qui a bâti une maison sur le sable. Au moment où la tempête s’est abattue sur cette maison, elle s’est écroulée et a été complètement détruite.”
+(**Bonne nouvelle Q ** :) Qu'aimez-vous dans cette histoire?
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Écoutez Q's ** :) Selon ce passage, qu'est-ce que Isa nous apporte?
 
-Comment pouvez-vous avoir une vie inébranlable ?
+Qui ce passage dit-il que nous devrions obéir?
+
+(**Obéissance Q ** :) Comment découvrez-vous comment obéir à Isa?
+
+(**Multiplication Q's ** :) Pouvons-nous partager une histoire de The Injil sur Isa, avec vous et vos amis?
+
+## Luck 6:46-49 Constructeurs sages et stupides
+
+>   Luck 6:46-49 Jésus a dit: «Pourquoi m'appelez-vous:« Seigneur, Seigneur », et ne fais pas ce que je dis? Tous ceux qui viennent vers moi et entendent mes paroles et les mettent en pratique, je vais vous montrer ce qu'ils sont. Ils sont comme un homme qui construit une maison, qui n'a pas pu secouer et n'a pas fait la construction. Le sable.”
+
+(Utilisez les bonnes nouvelles habituelles, l'obéissance et la multiplication Q)
+
+(**Écoutez Q's ** :) De quel genre de personnes Jésus se plaigne-t-elle? - sont-ils des amateurs d'église?
+
+Comment pouvez-vous avoir une vie inébranlable?
 
 ### Conclusion
 
-L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez D1 à D3 des histoires encore.
+L'ADN du royaume-apprenti est ** Bonne nouvelle, ** ** Écoutez **, ** OBEY ** et ** Multiply **. Regardez par-dessus D1 à D3 Histoires à nouveau.
 
-Comment ce groupe vous aide-t-il à obéir à Jésus ?
-
-Quelles questions vous aident vraiment à obéir ?
+Écoutez-vous Jésus et l'obéissez-vous?
 

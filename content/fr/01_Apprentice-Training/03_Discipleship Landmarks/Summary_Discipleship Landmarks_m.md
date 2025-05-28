@@ -1,99 +1,103 @@
 ---
-title: Résumé des étapes importantes du discipulat
+title: Résumé des repères de disciple
 
 type: document
 translationKey: Discipleship Landmarks Summary
-summary: Résumé des étapes importantes du discipulat
+summary: Résumé des repères de disciple
 
 weight: 1
 ---
-# Résumé des étapes importantes du discipulat
-Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de « jalons » importants, de la curiosité à propos de Jésus à devenir un apprenti du Royaume.
-# Utilisation de cette formation
+# Résumé des repères de disciple
+Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de «points de repère» importants de la curiosité de Jésus pour devenir un apprenti royaume.
+# En utilisant cette formation
 
-Formation aux repères du discipulat	
+Formation de repères de disciples	
+
+Le principe de découverte	
+
+Vivre l'histoire	
 
 Apprendre les histoires	
 
-4 Règles du groupe	
+Démarrer un groupe de découverte	
 
-Questions	
-
-Après chaque discussion
+4 Règles de groupe
 # D1 Bonnes nouvelles
 
-Sourate 5:46 Nous avons donné à Isa l'Injil contenant des conseils et de la lumière	
+Sourate 5:46 Nous avons donné à Isa l'injil contenant des conseils et de la lumière	
 
 Matthieu 11:28-30 Venez à moi	
 
 Actes 26:18 De l'obscurité à la lumière
 # D2 Écouter
 
-Sourate 4:171 Allah n'a pas de descendance	
+Sourate 4:171 Allah n'a pas de progéniture	
 
-Matthieu 11:27 Personne ne connaît le fils...	
+Matthieu 11:27 Personne ne connaît le fils ...	
 
-John 6:45 Quiconque a entendu le Père	
+John 6:45 Tous ceux qui ont entendu le père	
 
-John 6:63 L'Esprit donne la vie
+John 6:63 L'esprit donne la vie
 # D3 Obéir
 
-Sourate 43:63 Isa dit : « Craignez Dieu et obéissez-moi.”	
+Sourate 43:63 Isa a dit: «Craignez Dieu et obéissez-moi.”	
 
-Luc 6:46-49 Constructeurs sages et insensés
+Luck 6:46-49 Constructeurs sages et stupides
 # D4 Multiplier
 
-Luc 8:5-8,11-15 Les quatre sols
+Luck 8:5-8,11-15 Les quatre sols
 # D5 Démarrer de nouveaux groupes
 
-Matthieu 18:20 Là où deux ou trois se rassemblent	
+Sourate 19:34 Isa est la parole de vérité	
 
-Sourate 19:34 Isa est la Parole de Vérité	
+Matthieu 18:20 Où deux ou trois se rassemblent	
 
-John 16:13 L'Esprit de vérité vous guidera	
+John 16:13 L'esprit de vérité vous guidera	
 
-John 7:18 Celui qui parle seul cherche sa propre gloire	
+John 14:10 Les mots que je vous dis, je ne parle pas de ma propre autorité	
 
 Marque 7:9 Vous observez vos propres traditions	
 
+John 16:12 J'ai beaucoup plus à te dire	
+
 Différents types de groupe	
 
-Démarrer un nouveau groupe
-# D6 Jésus seul
+Multiplier des groupes
+# D6 Seul Jésus
 
-Luc 9:57-62 Les renards ont des trous	
+Luck 9:57-62 Les renards ont des trous	
 
-Matthieu 10:37-39 Quiconque aime son père...
+Matthieu 10:37-39 Quiconque aime son père ...
 # D7 Repentir
 
-Marque 1:15 Le temps est venu	
+Marque 1:15 Le moment est venu	
 
-Luc 24:47 Repentance pour le pardon des péchés
+Luck 24:47 Repentir pour le pardon des péchés
 # D8 Baptême
 
-Luc 24:7 Crucifié et ressuscité	
+Luck 24:7 Crucifié et élevé à nouveau	
 
-Matthieu 28:19 Allez et faites des disciples	
+Matthieu 28:19 Aller faire des disciples	
 
 Romains 6:3-8 Enterré avec lui par le baptême
-# D9 Baptême dans l'Esprit
+# D9 Baptême dans l'esprit
 
-John 3:3-6 Vous devez naître de nouveau	
+John 3:3-6 Tu dois être né de nouveau	
 
-Luc 11:9-13 Demandez jusqu'à ce que vous receviez	
+Luck 11:9-13 Demandez jusqu'à ce que vous receviez	
 
 Actes 19:5-6 Langues et prophétie	
 
-Romains 15:13 L'Esprit donne la joie de croire
-# D10 La paix avec Dieu
+Romains 15:13 L'esprit donne de la joie à croire
+# D10 Paix avec Dieu
 
-John 14:1-3 Que votre cœur ne soit pas troublé	
+John 14:1-3 Ne laissez pas vos cœurs être troublés	
 
-John 14:6 Le chemin, la vérité et la vie	
+John 14:6 La voie et la vérité et la vie	
 
 John 14:19-20 Tu es en moi et je suis en toi	
 
-John 14:27 Je te donne ma paix
+John 14:27 Ma paix je te donne
 # D11 Prière
 
 Matthieu 6:7-8 Pas comme les païens avec beaucoup de mots	
@@ -102,31 +106,31 @@ Matthieu 6:31-33 Ne vous inquiétez pas comme les païens
 
 John 11:41-42 Je sais que tu m'entends toujours.	
 
-Matthieu 6:9-10, 26:39 Priez pour que la volonté de Dieu soit faite	
+Matthieu 6:9-15, 26:39 Priez pour que la volonté de Dieu soit faite	
 
 John 15:16 Priez pour la fécondité
 # D12 Partager votre histoire
 
-Luc 8:26-39 Dites-nous tout ce que Dieu a fait pour vous
-# D13 La guérison et l'Évangile du Royaume
+Luck 8:26-39 Dites à quel point Dieu a fait pour vous
+# D13 La guérison et l'Évangile du royaume
 
-Luc 4:18-19 Bonne nouvelle pour les pauvres	
+Luck 4:18-19 Bonne nouvelle aux pauvres	
 
-Luc 9:1,6 Guérir les malades
+Luck 9:1,6 Guérir les malades
 # D14 Communautés missionnaires
 
-Matthieu 5:13-16 Sel et Lumière	
+Matthieu 5:13-16 Sel et léger	
 
-Luc 5:29-32 Dîner chez Levi's	
+Luck 5:29-32 Le dîner de Levi	
 
-Luc 18:15-17 Laissez venir les petits enfants	
+Luck 18:15-17 Laissez les petits enfants venir	
 
-Luc 22:14-20 La Sainte Cène
-# D15 Multipliez votre vie
+Luck 22:14-20 Le souper du Seigneur
+# D15 Multiplier votre vie
 
-Matthieu 25:14-30 Investir sa vie	
+Matthieu 25:14-30 Investir votre vie	
 
-Luc 6:39-40 L’aveugle peut-il guider l’aveugle ?
-# Formulaire de commentaires
+Luck 6:39-40 L'aveugle peut-il conduire les aveugles?
+# Formulaire de rétroaction
 
-Numéro de formation et verset : ………………………………………………
+Numéro de formation et Écriture: ……………………………………………

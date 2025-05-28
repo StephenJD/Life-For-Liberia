@@ -17,23 +17,17 @@ Motto: Love one another – Go and make disciples
 
 >   Luke 4:18-19 Jesus said, “The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to release the oppressed, to proclaim the year of the Lord’s favour.”
 
-What good news is in this story?
-
 ## Luke 9:1,6 Heal the sick
 
 >   Luke 9:1,6 When Jesus had called the Twelve together, he gave them power and authority to drive out all demons and to cure diseases, and he sent them out to preach the kingdom of God and to heal the sick. … So they set out and went from village to village, preaching the gospel and healing people everywhere.
 
-What good news is in this story?
-
-### Conclusion
-
-Will you make sure that when you tell people about Jesus, what you share is Good News to them?
+(**Obedience Q’s**:) Will you make sure that when you tell people about Jesus, what you share is Good News to them?
 
 Will you share the Good News of freedom from oppression, healing from sickness, and living in God's favour with your family, friends and community?
 
 Will you offer to heal the sick when you share the Gospel?
 
-*The trainer should go out with the apprentice to demonstrate healing, and the GG should go out together to practice healing.*
+Get your trainer to go out with you to show you how to heal the sick. Then go out together as a GG to heal the sick and start new Discovery Groups.
 
 ### Healing Guidance
 

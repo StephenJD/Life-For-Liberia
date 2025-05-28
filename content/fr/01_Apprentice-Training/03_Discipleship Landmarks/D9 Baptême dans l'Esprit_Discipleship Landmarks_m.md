@@ -1,69 +1,59 @@
 ---
-title: D9 Baptême dans l'Esprit
+title: D9 Baptême dans l'esprit
 type: document
 translationKey: D9 Baptism in the Spirit
-summary: "John 3:3-6 Vous devez naître de nouveau	
+summary: "John 3:3-6 Tu dois être né de nouveau	
 
-Luc 11:9-13 Demandez jusqu'à ce que vous receviez	
+Luck 11:9-13 Demandez jusqu'à ce que vous receviez	
 
 Actes 19:5-6 Langues et prophétie	
 
-Romains 15:13 L'Esprit donne la joie de croire"
+Romains 15:13 L'esprit donne de la joie à croire"
 weight: 11
 ---
-# D9 Baptême dans l'Esprit
+# D9 Baptême dans l'esprit
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-Cette formation comporte quatre histoires. Vous aurez peut-être besoin de prendre le temps de les parcourir dans la prière et d'en discuter avec votre formateur.
+Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le temps de les traverser dans la prière et d'en discuter avec votre entraîneur.
 
-## John 3:3-6 Vous devez naître de nouveau
+## John 3:3-6 Tu dois être né de nouveau
 
->   John 3:3-6 Jésus lui dit : « En vérité, en vérité, en vérité, je te le dis, si un homme ne naît de nouveau, il ne peut voir le royaume de Dieu. » Nicodème lui demanda : « Comment un homme peut-il naître quand il est vieux ? » Il lui demanda : « Certainement, en vérité, je te le dis, si un homme ne naît d’eau et d’Esprit, il ne peut entrer dans le royaume de Dieu. La chair donne naissance à la chair, mais l’Esprit donne naissance à l’esprit. »
+>   John 3:3-6 Jésus a dit: "Je vous le dis très vraiment, personne ne peut voir le royaume de Dieu à moins qu'ils ne soient nés de nouveau." «Comment quelqu'un peut-il naître quand il est vieux?» Demanda Nicodème. "Ils ne peuvent sûrement pas entrer une deuxième fois dans le ventre de leur mère pour naître!" Jésus a répondu: "Très vraiment, je vous le dis, personne ne peut entrer dans le royaume de Dieu à moins qu'ils ne soient nés de l'eau et de l'Esprit. La chair donne naissance à la chair, mais l'Esprit donne naissance à l'Esprit."
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Écoutez Q's ** :) à quoi pensez-vous que Jésus fait référence quand il dit que pour entrer dans le royaume de Dieu, nous devons être «nés de l'eau»? Regarder D8 Si vous n'êtes pas sûr.
 
-## Luc 11:9-13 Demandez jusqu'à ce que vous receviez
+À quoi pensez-vous que Jésus fait référence quand il dit que pour entrer dans le royaume de Dieu, nous devons aussi être «nés de l'Esprit»?
 
->   Luc 11:9-13 Jésus dit : « Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira. Car quiconque demande reçoit, celui qui cherche trouve, et l’on ouvrira à celui qui frappe. » Lequel de vous, père, si son fils lui demande un poisson, lui donnera-t-il un serpent à la place ? Ou, s’il demande un œuf, lui donnera-t-il un scorpion ? Si donc, méchants comme vous êtes, vous savez donner de bonnes choses à vos enfants, à combien plus forte raison le Père qui est dans les cieux donnera-t-il le Saint-Esprit à ceux qui le lui demandent.!”
+Être «né de nouveau» est-il quelque chose que vous pouvez faire en étant baptisé et en priant une prière d'engagement?
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+## Luck 11:9-13 Demandez jusqu'à ce que vous receviez
+
+>   Luck 11:9-13 Jésus a dit: «Demandez et il vous sera donné; cherchez et vous trouverez; frappez et la porte vous sera ouverte. Pour tous ceux qui demandent reçoivent; celui qui cherche des trouvailles; et à celui qui frappe, la porte sera ouverte. À vos enfants, combien votre Père céleste donnera-t-il plus le Saint-Esprit à ceux qui lui demandent!”
 
 ## Actes 19:5-6 Langues et prophétie
 
->   Actes 19:5-6 “Après avoir entendu cela, ils furent baptisés au nom du Seigneur Jésus. Paul leur imposa les mains, et le Saint-Esprit descendit sur eux ; ils parlèrent en langues et prophétisèrent.”
+>   Actes 19:5-6 “Quand ils ont entendu cela, ils ont été baptisés au nom du Seigneur Jésus. Et quand Paul les avait mis la main, le Saint-Esprit est venu sur eux, et ils ont parlé avec des langues et prophétisé.”
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Écoutez Q's ** :) Avez-vous une idée de ce que signifie «ils ont parlé avec des langues et prophétisé»? Sinon, demandez à votre entraîneur de vous montrer dans la Bible.
 
-## Romains 15:13 L'Esprit donne la joie de croire
+Certaines personnes disent que parler en langues est la preuve du baptême dans l'esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
 
->   Romains 15:13 “Que le Dieu de l'espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance, par la puissance du Saint-Esprit.”
+>   1 Cor 12:7-11 Maintenant, à chacun, la manifestation de l'esprit est donnée pour le bien commun. À ** un ** il est donné par l'Esprit un message de sagesse, ** à un autre ** un message de connaissance par le même esprit, ** à une autre ** Fait interprétation des langues. Ce sont le travail d'un même esprit, et il les distribue à chacun, tout comme il le détermine.
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   v30 Tous ont tous des cadeaux de guérison? ** Tous parlent en langues? ** Interprétez-vous tous? Désormais désormais avec impatience les plus grands cadeaux.
 
-### Conclusion
+Il est vrai que la plupart des exemples du Saint-Esprit donné comme enregistrés dans les actes incluent la parole en langues, mais il ressort clairement du passage ci-dessus que ce n'était pas toujours le cas. En fait, n'importe qui peut inventer du charabia et l'appeler parler en langues. Jésus a dit qu'un arbre est connu par ses fruits, nous devons donc rechercher les preuves bibliques du baptême dans le Saint-Esprit dans une vie changée, pas seulement dans l'apparition de "manifestations". La dernière histoire de cette formation nous montre ce qu'il faut rechercher comme preuve du Saint-Esprit.
 
-Selon vous, que voulait dire Jésus par « vous devez naître de nouveau » ?
+## Romains 15:13 L'esprit donne de la joie à croire
 
-Quelles sont les deux parties de la nouvelle naissance ?
+>   Romains 15:13 “Que le dieu de l'espoir vous remplisse de toute joie et paix en croyant, afin que vous puissiez abonder dans l'espoir par la puissance du Saint-Esprit.”
 
-Comment pouvez-vous recevoir le Saint-Esprit ?
+(**Écoutez Q's ** :) Que dit cette Écriture est la preuve d'avoir reçu le Saint-Esprit?
 
-Quelle est la preuve que l’on a reçu le Saint-Esprit ?
+(**Obéissance Q's ** :) Voulez-vous demander à votre entraîneur chrétien de vous baptiser dans l'eau?
 
-Demanderez-vous à votre formateur chrétien de vous baptiser dans l’eau ?
-
-Demanderez-vous à votre formateur chrétien de vous baptiser dans le Saint-Esprit ?
-
-### Note pour les mentors
-
-Certains disent que parler en langues est LA preuve du baptême dans l’Esprit – que si vous ne pouvez pas parler en langues, vous n’avez pas été baptisé dans le Saint-Esprit. Ce n’est pas ce qu’enseigne la Bible. Paul enseigne à ce sujet dans 1 Corinthiens 12:
-
->   1 Cor 12:7-11 Or, à chacun la manifestation de l’Esprit est donnée pour l’utilité commune : à l’un, par l’Esprit, une parole de sagesse ; à un autre, une parole de connaissance, par le même Esprit ; à un autre, par le même Esprit, le don de la foi ; à un autre, par le même Esprit, le don des guérisons ; à un autre, le don des miracles ; à un autre, le don de prophétie ; à un autre, le don du discernement des esprits ; à un autre, le don de parler en diverses langues ; à un autre, l’interprétation des langues. Toutes ces choses sont l’œuvre d’un seul et même Esprit, et il les distribue à chacun comme il le décide.
-
->   v30 Tous ont-ils le don de guérison ? Tous parlent-ils en langues ? Tous interprètent-ils ? Désirez-vous maintenant ardemment les dons les plus grands.
-
-Il est vrai que la plupart des exemples de don du Saint-Esprit rapportés dans les Actes incluent le parler en langues, mais il ressort clairement du passage ci-dessus que ce n’était pas toujours le cas. En fait, n’importe qui peut inventer du charabia et appeler cela parler en langues. Jésus a dit qu’on reconnaît un arbre à ses fruits, nous devrions donc chercher les preuves bibliques du baptême dans le Saint-Esprit dans une vie transformée, et pas seulement dans l’apparence de « manifestations ». La dernière histoire de cette formation nous montre qu’il faut rechercher l’espoir, la joie et la paix abondants dans la foi comme preuve du Saint-Esprit.
+Voulez-vous demander à votre entraîneur chrétien de vous baptiser dans le Saint-Esprit?
 

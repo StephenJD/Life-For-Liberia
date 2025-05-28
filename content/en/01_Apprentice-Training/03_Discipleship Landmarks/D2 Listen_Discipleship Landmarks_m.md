@@ -17,7 +17,9 @@ This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
-Remind the group of the 4 group rules.
+(Explain the 4 group rules from the introduction: No Church, No Preaching, Answer only from the passage, Go at your own speed.)
+
+(If there are no Muslims, omit the Surah)
 
 ## Surah 4:171 Allah has no offspring
 
@@ -29,37 +31,43 @@ The Bible confirms that God has no offspring. Jesus describes God as his father 
 
 >   Matthew 11:27 Jesus said "All things have been given to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him."
 
-What good news is in this story?
+(**Good News Q**:) What do you like about this story?
 
-Who do we need to listen to?
+(**Listen Q’s**:) Who truly knows what God is like?
+
+Who must we listen to if we are to truly discover what God is like?
+
+(**Obedience Q**:) What do you think Jesus is saying to you about this?
+
+(**Multiplication Q’s**:) Who will you share this story with? Will you invite them to join this group?
 
 ## John 6:45 Everyone who has heard the Father
 
 >   John 6:45 Jesus said "Everyone who has heard the Father and learned from him comes to me."
 
-What good news is in this story?
+(Use the usual Good News, Obedience and Multiplication Q’s. Here is a suggested Listen Q:)
 
-Who do we need to listen to?
+(**Listen Q’s**:) According to Jesus, what has to happen before a person comes to Jesus?
 
 ## John 6:63 The Spirit gives life
 
->   John 6:63 Jesus said "The Spirit gives life; the flesh counts for **nothing. The words I have spoken to you—they are full of the Spirit** and life. Yet there are some of you who do not believe.”
+>   John 6:63 Jesus said "The Spirit gives life; the flesh counts for nothing. The words I have spoken to you—they are full of the Spirit and life. Yet there are some of you who do not believe.”
 
-What good news is in this story?
+(Use the usual Good News, Obedience and Multiplication Q’s)
 
-Who do we need to listen to?
+(**Listen Q’s**:) Where does true life come from?
+
+Why do you think Jesus says “the flesh counts for nothing”?
+
+Why do you think some people don’t believe Jesus?
 
 ### Conclusion
 
-Kingdom-Apprentice DNA is **Listen**, **Obey** and **Multiply**. Look over the D1 to D2 stories again.
+Kingdom-Apprentice DNA is **Good News,** **Listen**, **Obey** and **Multiply**. Look over the D1 and D2 stories again.
 
-How does this group help you to listen?
+The most important step in walking with Jesus is learning to listen to Him. You are unlikely to hear a voice! But if you listen you will get ideas come into your head, or someone else may say something that helps. Just trust Jesus to speak in a way that you can hear. It comes with practice.
 
-Which questions do you find really help you to listen?
+Jesus often speaks to us through our discussion. Will you **listen** attentively to each other and not just wait to have your turn to speak?
 
-Will you listen attentively to each other and not just wait to have your turn to speak?
-
-Will you ask Jesus to show you what each story means and listen for His answer?
-
-You are unlikely to hear a voice! But if you listen you will get ideas come into your head, or someone else may say something that helps. Just trust Jesus to speak in a way that you can hear. It comes with practice.
+Will you ask Jesus to show you how He wants you to **obey** each story and listen for His answer?
 

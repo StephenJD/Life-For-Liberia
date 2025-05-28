@@ -5,4 +5,4 @@ translationKey: 03_Discipleship Landmarks
 summary: 
 weight: 03
 ---
-Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de « jalons » importants, de la curiosité à propos de Jésus à devenir un apprenti du Royaume.
+Cet ensemble d'histoires de Jésus est choisi pour aider une personne à progresser à travers une série de «points de repère» importants de la curiosité de Jésus pour devenir un apprenti royaume.

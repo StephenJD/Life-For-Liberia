@@ -13,13 +13,15 @@ This set of Jesus stories are chosen to help a person progress through a series 
 
 Discipleship Landmarks Training	
 
+The Discovery Principle	
+
+Living the Story	
+
 Learning The Stories	
 
-4 Group Rules	
+Starting a Discovery Group	
 
-Questions	
-
-After Each Discussion
+4 Group Rules
 # D1 Good News
 
 Surah 5:46 We gave Isa the Injil containing guidance and light	
@@ -46,19 +48,21 @@ Luke 6:46-49 Wise & Foolish Builders
 Luke 8:5-8,11-15 The Four Soils
 # D5 Starting New Groups
 
-Matthew 18:20 Where two or three gather	
-
 Surah 19:34 Isa is the Word of Truth	
+
+Matthew 18:20 Where two or three gather	
 
 John 16:13 The Spirit of truth will guide you	
 
-John 7:18 Whoever speaks on their own seeks personal glory	
+John 14:10 The words I say to you I do not speak on my own authority	
 
 Mark 7:9 You Observe Your Own Traditions	
 
+John 16:12 I have much more to say to you	
+
 Different Types of Group	
 
-Starting a new Group
+Multiplying Groups
 # D6 Only Jesus
 
 Luke 9:57-62 Foxes have holes	
@@ -102,7 +106,7 @@ Matthew 6:31-33 Do not Worry like the Pagans
 
 John 11:41-42 I know that You always hear Me.	
 
-Matthew 6:9-10, 26:39 Pray for God's Will to be Done	
+Matthew 6:9-15, 26:39 Pray for God's Will to be Done	
 
 John 15:16 Pray for Fruitfulness
 # D12 Sharing your story

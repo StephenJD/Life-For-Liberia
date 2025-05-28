@@ -11,9 +11,7 @@ This story is in the D-Path: **D**iscipleship Landmarks.
 
 Motto: Love one another – Go and make disciples
 
-*This story is long. It does not need to be learned perfectly, just well enough to pass the story on, like you would re-tell any story someone told you.*
-
-*The teacher should explore the story with the apprentice using the conclusion questions.*
+This story is long. It does not need to be learned perfectly, just well enough to pass the story on, like you would re-tell any story someone told you.
 
 ## Luke 8:26-39 Tell how much God has done for you
 
@@ -25,21 +23,15 @@ Motto: Love one another – Go and make disciples
 
 >   Those who had seen it told the people how the demon-possessed man had been cured. Then all the people of the region asked Jesus to leave them, because they were overcome with fear. So he got into the boat and left. The man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying, “Return home and tell how much God has done for you.” So the man went away and told all over town how much Jesus had done for him.
 
-What good news is in this story?
+Like in many pagan communities, the only kind of power that the people knew about in this town was evil power.
 
-### Conclusion
+(**Listen Q’s**:) Why was the possessed man afraid of Jesus when he first met Him?
 
-Why was Legion afraid of Jesus when he first met Him?
-
-Why were the demons afraid of Jesus?
-
-The only kind of power that the people knew about was evil power.
+Why were the demons (Legion) afraid of Jesus?
 
 Why do you think the town people might have been afraid of Jesus?
 
-Who is the only one in the story who was not afraid of Jesus?
-
-Why was he not afraid?
+Why was the delivered man not afraid of Jesus?
 
 What did Jesus tell him to do?
 
@@ -47,5 +39,5 @@ What effect would this have on the people's fear of Jesus?
 
 What difference has Jesus made to your life?
 
-Will you tell your family, friends and community what Jesus has done for you?
+(**Obedience Q’s**:) Will you tell your family, friends and community what Jesus has done for you?
 

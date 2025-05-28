@@ -2,38 +2,42 @@
 title: D7 Repentir
 type: document
 translationKey: D7 Repentance
-summary: "Marque 1:15 Le temps est venu	
+summary: "Marque 1:15 Le moment est venu	
 
-Luc 24:47 Repentance pour le pardon des péchés"
+Luck 24:47 Repentir pour le pardon des péchés"
 weight: 9
 ---
 # D7 Repentir
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-## Marque 1:15 Le temps est venu
+(Demandez la bonne nouvelle, l'écoute, l'obéissance et la multiplication Q)
 
->   Marque 1:15 Jésus se rendit en Galilée, proclamant la bonne nouvelle de Dieu. « Le temps est venu, dit-il. Le royaume de Dieu s’est approché. Repentez-vous (retournez-vous) et croyez à la bonne nouvelle.!”
+## Marque 1:15 Le moment est venu
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+>   Marque 1:15 Jésus est entré en Galilée, proclamant la bonne nouvelle de Dieu. "Le moment est venu", a-t-il déclaré. «Le Royaume de Dieu s'est approché. Repentez-vous (Turn Around) et croyez la bonne nouvelle!”
 
-## Luc 24:47 Repentance pour le pardon des péchés
+(Expliquez que certaines traductions disent «Repentez-vous de vos péchés» mais l'original dit simplement «Repentez-vous». Se repentir signifie «retourner et aller dans la direction opposée”)
 
->   Luc 24:47 Jésus a dit : « La repentance pour le pardon des péchés sera prêchée en mon nom à toutes les nations. »
+(**Écoutez Q's ** :) Dans quelle direction pensez-vous que votre vie se déplace?
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+Pourquoi pensez-vous que Jésus dit que nous devons «retourner»?
+
+Quelles bonnes nouvelles Jésus veut-il que nous croyions?
+
+## Luck 24:47 Repentir pour le pardon des péchés
+
+>   Luck 24:47 Jésus a dit "le repentir pour le pardon des péchés sera prêché à mon nom à toutes les nations."
+
+(**Écoutez Q's ** :) Si nous transformons nos vies pour obéir à Jésus, que promet que Jésus fait de faire de notre péché?
 
 ### Conclusion
 
-De quoi, selon Jésus, devons-nous nous repentir ?
+Il s'agit de la dernière formation pour les groupes de découverte.
 
-Que dit Jésus que nous devons croire ?
+Ceux qui veulent être des disciples de Jésus devraient être dans un groupe de croissance D8 - Baptême.
 
-Quels sont les résultats de la croyance ?
-
-À présent, ceux qui veulent être disciples de Jésus devraient être dans un groupe de croissance et peuvent continuer à D8 - Baptême.
-
-Ceux qui ne sont pas prêts à rejoindre un groupe de croissance peuvent créer un nouveau groupe de découverte à D1, ou démarrer une communauté missionnaire (voir D14) avec les histoires de M-Path. Voir D5 “« Démarrage de nouveaux groupes ».
+Ceux qui ne sont pas prêts à rejoindre un groupe de croissance pourraient créer un nouveau groupe de découverte à D1, ou démarrer une communauté missionnaire (voir D14). Voir D5 “Démarrage de nouveaux groupes ».
 

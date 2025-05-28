@@ -2,50 +2,42 @@
 title: D12 Partager votre histoire
 type: document
 translationKey: D12 Sharing your story
-summary: "Luc 8:26-39 Dites-nous tout ce que Dieu a fait pour vous"
+summary: "Luck 8:26-39 Dites à quel point Dieu a fait pour vous"
 weight: 14
 ---
 # D12 Partager votre histoire
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-*Cette histoire est longue. Il n'est pas nécessaire de l'apprendre parfaitement, juste assez pour pouvoir la transmettre, comme vous le feriez pour n'importe quelle histoire que quelqu'un vous a racontée.*
+Cette histoire est longue. Il n'a pas besoin d'être parfaitement appris, juste assez bien pour passer l'histoire, comme vous pourriez redéfinir n'importe quelle histoire que quelqu'un vous a racontée.
 
-*L’enseignant doit explorer l’histoire avec l’apprenti en utilisant les questions de conclusion.*
+## Luck 8:26-39 Dites à quel point Dieu a fait pour vous
 
-## Luc 8:26-39 Dites-nous tout ce que Dieu a fait pour vous
+>   Luck 8:26-39 Lorsque Jésus a mis à terre, il a été rencontré par un homme possédé par des démons de la ville. Pendant longtemps, cet homme n'avait pas porté de vêtements ou n'avait pas vécu dans une maison, mais avait vécu dans les tombes. Quand il a vu Jésus, il a crié et est tombé à ses pieds, criant au sommet de sa voix: "Qu'est-ce que tu veux de moi, Jésus, fils du Dieu le plus élevé? Je te prie, ne me torture pas!" Car Jésus avait ordonné à l'esprit impur de sortir de l'homme. Plusieurs fois, il l'avait saisi, et bien qu'il soit enchaîné à la main et au pied et gardé sous la garde, il avait cassé ses chaînes et avait été conduit par le démon dans des endroits solitaires.
 
->   Luc 8:26-39 Quand Jésus descendit à terre, il rencontra un homme de la ville possédé par le démon. Depuis longtemps, cet homme n’avait pas de vêtements et n’habitait pas dans une maison, mais il habitait dans les tombeaux. Quand il vit Jésus, il poussa un cri, se jeta à ses pieds et cria de toute sa voix : « Que me veux-tu, Jésus, Fils du Dieu Très-Haut ? Je t’en prie, ne me tourmente pas ! » En effet, Jésus avait commandé à l’esprit impur de sortir de cet homme. Plusieurs fois, l’esprit impur s’était emparé de lui. Bien qu’il fût enchaîné aux pieds et aux mains et gardé sous surveillance, il avait brisé ses chaînes et avait été chassé par le démon dans des lieux déserts.
+>   Jésus lui a demandé: "Quel est ton nom?" "Légion", a-t-il répondu, parce que de nombreux démons étaient allés en lui. Et ils ont supplié Jésus à plusieurs reprises de ne pas les ordonner d'aller en enfer. Un grand troupeau de porcs s'y nourrissait sur la colline. Les démons ont supplié Jésus de les laisser entrer dans les porcs, et il leur a donné la permission. Lorsque les démons sont sortis de l'homme, ils sont allés dans les porcs et le troupeau s'est précipité sur la rive escarpée dans le lac et s'est noyé.
 
->   Jésus lui demanda : « Quel est ton nom ? » Il répondit : « Légion. » Car plusieurs démons étaient entrés en lui. Et ils le suppliaient à plusieurs reprises de ne pas leur ordonner d’aller dans la géhenne. Or, il y avait là, sur la montagne, un grand troupeau de porcs qui paissaient. Les démons le supplièrent de les laisser entrer dans les porcs. Jésus le leur permit. Les démons sortirent de l’homme, entrèrent dans les porcs. Le troupeau se précipita du haut de la falaise dans la mer et se noya.
+>   Lorsque ceux qui s'occupaient des porcs ont vu ce qui s'était passé, ils se sont enfuis et ont signalé cela dans la ville et la campagne, et les gens sont sortis pour voir ce qui s'était passé. Quand ils sont venus à Jésus, ils ont trouvé l'homme dont les démons étaient sortis, assis aux pieds de Jésus, habillés et de son bon esprit; Et ils avaient peur.
 
->   Quand les gardiens des porcs virent ce qui était arrivé, ils coururent le rapporter dans la ville et dans les campagnes. Les gens sortirent pour voir ce qui était arrivé. Lorsqu’ils arrivèrent auprès de Jésus, ils trouvèrent l’homme dont les démons étaient sortis, assis à ses pieds, habillé et dans son bon sens. Ils furent saisis de crainte.
+>   Ceux qui l'avaient vu ont expliqué aux gens comment l'homme possédé par un démon avait été guéri. Ensuite, tous les habitants de la région ont demandé à Jésus de les quitter, car ils ont été submergés par la peur. Alors il est monté dans le bateau et est parti. L'homme dont les démons étaient sortis suppliaient de l'accompagner, mais Jésus l'a renvoyé, en disant: «Retournez à la maison et dites combien Dieu a fait pour vous.» Alors l'homme est parti et a dit partout dans la ville à quel point Jésus avait fait pour lui.
 
->   Ceux qui avaient vu cela racontèrent à la foule comment le démoniaque avait été guéri. Alors tous les habitants de la région demandèrent à Jésus de les quitter, car ils étaient saisis de peur. Il monta donc dans la barque et partit. L’homme de qui les démons étaient sortis le pria de l’accompagner. Mais Jésus le renvoya en lui disant : « Retourne dans ta maison et raconte tout ce que Dieu a fait pour toi. » L’homme s’en alla et raconta dans toute la ville tout ce que Jésus avait fait pour lui.
+Comme dans de nombreuses communautés païennes, le seul type de pouvoir que les gens connaissaient dans cette ville était le mauvais pouvoir.
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(**Écoutez Q's ** :) Pourquoi l'homme possédé a-t-il peur de Jésus quand il l'a rencontré pour la première fois?
 
-### Conclusion
+Pourquoi les démons (Légion) ont-ils peur de Jésus?
 
-Pourquoi la Légion avait-elle peur de Jésus lorsqu’elle l’a rencontré pour la première fois ?
+Pourquoi pensez-vous que les gens de la ville auraient pu avoir peur de Jésus?
 
-Pourquoi les démons avaient-ils peur de Jésus ?
+Pourquoi l'homme livré n'a-t-il pas peur de Jésus?
 
-Le seul type de pouvoir que les gens connaissaient était le pouvoir du mal.
+Qu'est-ce que Jésus lui a dit de faire?
 
-Pourquoi pensez-vous que les habitants de la ville avaient peur de Jésus ?
+Quel effet cela aurait-il sur la peur du peuple de Jésus?
 
-Qui est le seul dans l’histoire qui n’avait pas peur de Jésus ?
+Quelle différence Jésus a-t-il fait à votre vie?
 
-Pourquoi n'avait-il pas peur ?
-
-Qu'est-ce que Jésus lui a dit de faire ?
-
-Quel effet cela aurait-il sur la crainte des gens envers Jésus ?
-
-Quelle différence Jésus a-t-il fait dans votre vie ?
-
-Allez-vous dire à votre famille, à vos amis et à votre communauté ce que Jésus a fait pour vous ?
+(**Obéissance Q's ** :) Voulez-vous dire à votre famille, à vos amis et à votre communauté ce que Jésus a fait pour vous?
 

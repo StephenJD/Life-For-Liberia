@@ -1,46 +1,40 @@
 ---
-title: D13 La guérison et l'Évangile du Royaume
+title: D13 La guérison et l'Évangile du royaume
 type: document
 translationKey: D13 Healing and the Gospel of the Kingdom
-summary: "Luc 4:18-19 Bonne nouvelle pour les pauvres	
+summary: "Luck 4:18-19 Bonne nouvelle aux pauvres	
 
-Luc 9:1,6 Guérir les malades"
+Luck 9:1,6 Guérir les malades"
 weight: 15
 ---
-# D13 La guérison et l'Évangile du Royaume
+# D13 La guérison et l'Évangile du royaume
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-## Luc 4:18-19 Bonne nouvelle pour les pauvres
+## Luck 4:18-19 Bonne nouvelle aux pauvres
 
->   Luc 4:18-19 Jésus dit : « L’Esprit du Seigneur est sur moi, parce qu’il m’a oint pour porter une bonne nouvelle aux pauvres ; il m’a envoyé pour proclamer aux prisonniers la délivrance et aux aveugles le recouvrement de la vue, pour renvoyer libres les opprimés, pour proclamer une année de grâce du Seigneur.”
+>   Luck 4:18-19 Jésus a dit: «L'esprit du Seigneur est sur moi, car il m'a oint pour prêcher de bonnes nouvelles aux pauvres. Il m'a envoyé pour proclamer la liberté des prisonniers et le rétablissement de la vue pour les aveugles, pour libérer les opprimés, pour proclamer l'année de la faveur du Seigneur.”
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+## Luck 9:1,6 Guérir les malades
 
-## Luc 9:1,6 Guérir les malades
+>   Luck 9:1,6 Lorsque Jésus avait appelé les douze ensemble, il leur a donné le pouvoir et l'autorité pour chasser tous les démons et guérir les maladies, et il les a envoyés pour prêcher le royaume de Dieu et guérir les malades. … Alors ils sont partis et sont allés de village en village, prêchant l'Évangile et guérissant les gens partout.
 
->   Luc 9:1,6 Jésus, ayant réuni les Douze, leur donna le pouvoir et l’autorité de chasser tous les démons, de guérir les maladies. Il les envoya prêcher le royaume de Dieu et guérir les malades. … Ils partirent donc, et allèrent de village en village, prêchant la bonne nouvelle et guérissant partout les gens.
+(**Obéissance Q's ** :) Voulez-vous vous assurer que lorsque vous parlez aux gens de Jésus, ce que vous partagez est une bonne nouvelle pour eux?
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+Allez-vous partager la bonne nouvelle de la liberté de l'oppression, de la guérison de la maladie et de vivre en faveur de Dieu avec votre famille, vos amis et votre communauté?
 
-### Conclusion
+Offrez-vous de guérir les malades lorsque vous partagerez l'Évangile?
 
-Voulez-vous vous assurer que lorsque vous parlez de Jésus aux gens, ce que vous partagez est une Bonne Nouvelle pour eux ?
+Demandez à votre entraîneur de sortir avec vous pour vous montrer comment guérir les malades. Ensuite, sortez en tant que GG pour guérir les malades et commencer de nouveaux groupes de découverte.
 
-Partagerez-vous la Bonne Nouvelle de la libération de l’oppression, de la guérison de la maladie et de la vie dans la faveur de Dieu avec votre famille, vos amis et votre communauté ?
+### Guidage de guérison
 
-Proposerez-vous de guérir les malades lorsque vous partagerez l’Évangile ?
-
-*Le formateur doit sortir avec l’apprenti pour démontrer la guérison, et le GG doit sortir ensemble pour pratiquer la guérison.*
-
-### Guidance de guérison
-
--   Demandez à la personne pourquoi elle souhaite une prière (ne présumez pas qu'elle souhaite la guérison).)
--   Écoutez Jésus pour savoir comment prier
+-   Demandez à quoi la personne veut la prière (ne présumez pas qu'elle veut guérir)
+-   Écoutez Jésus pour comment prier
 -   Parlez simplement et calmement, sans crier.
--   Vous pouvez demander à Jésus de guérir, ou d’ordonner à la personne malade de partir, ou de bénir la personne en lui accordant la guérison. Quoi que vous fassiez, faites-le avec la foi que Jésus entend et répond.
--   Demandez à la personne si elle se sent mieux ou si elle a senti Dieu la toucher d’une manière ou d’une autre.
--   Continuez à écouter Jésus, à prier et à demander à la personne si elle a changé. Continuez jusqu'à ce que vous soyez complètement guéri ou jusqu'à ce que vous sentiez que vous devez arrêter.
+-   Vous pourriez demander à Jésus de guérir ou de commander la maladie d'aller ou de bénir la personne de guérison. Quoi que vous fassiez, faites-le dans la foi que Jésus entend et répond.
+-   Demandez à la personne si elle se sent mieux ou que Dieu a senti que Dieu les touche de quelque manière que ce soit.
+-   Continuez à écouter Jésus, à prier et à demander à la personne des changements. Continuez jusqu'à ce que vous ayez une guérison complète ou que vous pensiez que vous devriez vous arrêter.
 

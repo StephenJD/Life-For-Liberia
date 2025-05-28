@@ -9,7 +9,7 @@ weight: 18
 
 Apprentice Name: ……………………………………………………………………………..
 
-Type of Group: DG / GG / MC / AG How many attended: ………….
+Type of Group: DG / GG / MC / AT How many attended: ………….
 
 Name of Community: …………………………………………………………………………
 

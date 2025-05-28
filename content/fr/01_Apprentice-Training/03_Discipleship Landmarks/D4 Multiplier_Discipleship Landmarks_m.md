@@ -2,34 +2,34 @@
 title: D4 Multiplier
 type: document
 translationKey: D4 Multiply
-summary: "Luc 8:5-8,11-15 Les quatre sols"
+summary: "Luck 8:5-8,11-15 Les quatre sols"
 weight: 6
 ---
 # D4 Multiplier
 
-Cette histoire se trouve dans le chemin D : **Points de repère du discipulat.
+Cette histoire est dans le D-Path: ** D ** ISCIPLESHING MOINS MARKS.
 
-Devise : Aimez-vous les uns les autres – Allez et faites des disciples
+Devise: Aimez-vous les uns les autres - allez faire des disciples
 
-## Luc 8:5-8,11-15 Les quatre sols
+## Luck 8:5-8,11-15 Les quatre sols
 
->   Luc 8:5-8,11-15 Jésus dit : « Un cultivateur alla semer. Une partie de la semence tomba le long du chemin ; elle fut piétinée et les oiseaux la mangèrent. Une autre partie tomba sur les pierres ; quand elle eut poussé, la plante sécha, faute d’humidité. Une autre partie tomba parmi les épines ; les épines poussèrent avec elle et étouffèrent la plante. Une autre partie tomba dans la bonne terre ; elle monta et donna du fruit, cent fois plus que ce qu’on avait semé.”
+>   Luck 8:5-8,11-15 Jésus a dit: «Un agriculteur est allé semer sa graine. Alors qu'il dispersait la graine, certains sont tombés le long du chemin; il a été piétiné, et les oiseaux l'ont mangé. Certains sont tombés sur un sol rocheux, et quand il est apparu, les plantes se sont flétries parce qu'elles n'avaient aucune humidité. D'autres graines sont tombées sur un sol qui s'est fait passer et a produit une culture, il y avait encore plus de semences.”
 
->   “Voici ce que signifie cette parabole : La semence, c’est la parole de Dieu. Ceux qui sont sur le chemin, ce sont ceux qui l’entendent, puis le diable vient et enlève de leur cœur la parole, afin qu’ils ne croient pas et ne soient pas sauvés. Ceux qui sont sur les pierres, ce sont ceux qui accueillent la parole avec joie, mais qui n’ont pas de racine. Ils croient pour un temps, mais quand les malheurs arrivent, ils tombent. La semence tombée dans les épines, ce sont ceux qui entendent, mais qui, en chemin, sont étouffés par les soucis, les richesses et les plaisirs de la vie, et ne mûrissent pas. La semence qui est dans la bonne terre, ce sont ceux qui ont un cœur bon, qui entendent la parole, la retiennent et, par la persévérance, portent du fruit.
+>   “C'est le sens de la parabole: la graine est la parole de Dieu. Ceux qui le long du chemin sont ceux qui entendent, puis le diable vient et enlève la parole de leur cœur, afin qu'ils ne croient pas et ne soient sauvés. Ceux sur le terrain rocheux sont ceux qui reçoivent le mot de joie quand ils l'entendent, mais ils n'ont pas de racine. Ils croient pendant un certain temps, mais quand des problèmes viennent, ils tombent. La graine qui est tombée parmi les épines représente ceux qui entendent, mais au fur et à mesure qu'ils continuent, ils sont étouffés par les inquiétudes, les richesses et les plaisirs de la vie, et ils ne mûrissent pas. Mais la graine sur un bon sol représente ceux qui ont un bon cœur, qui entendent la parole, le conservent et, en persistant, produire une récolte.
 
-Quelle bonne nouvelle y a-t-il dans cette histoire ?
+(Utilisez les bonnes nouvelles habituelles, l'obéissance et la multiplication Q)
 
-Quel genre de sol pensez-vous être ?
+(**Écoutez Q's ** :) Quelles quatre choses doivent être vraies si nous sommes un bon sol? (Entendre, conserver, persister, produire)
+
+Quel genre de sol pensez-vous que vous êtes? (La plupart d'entre nous sont épineux - une certaine croissance, mais ne persistent pas encore pour produire une culture).
+
+(**Obéissance Q's ** :) Qu'est-ce que Jésus veut que vous persistez?
 
 ### Conclusion
 
-L'ADN de Kingdom-Apprentice est **Écouter**, **Obéir** et **Multiplier**. Regardez D1 à D4 des histoires encore.
+L'ADN du royaume-apprenti est ** Bonne nouvelle, ** ** Écoutez **, ** OBEY ** et ** Multiply **. Regardez par-dessus D1 à D4 Histoires à nouveau.
 
-Quelles histoires parlent de multiplication ?
+“Persister pour produire une récolte »est l'endroit où de nombreux apprentis sont coincés. Ils commencent par l'enthousiasme mais se découragent par des difficultés, tout comme Jésus le décrit.
 
-Comment ce groupe vous aide-t-il à vous multiplier ?
-
-Quelles questions vous aident vraiment à vous multiplier ?
-
-La prochaine formation vous aidera à vous multiplier en démarrant un nouveau groupe.
+La prochaine formation vous aidera à «produire» en commençant un nouveau groupe.
 
