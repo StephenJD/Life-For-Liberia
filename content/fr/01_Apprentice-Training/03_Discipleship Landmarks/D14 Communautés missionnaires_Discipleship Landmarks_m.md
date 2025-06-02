@@ -27,6 +27,8 @@ Comment les chrétiens peuvent-ils cacher leur lumière?
 
 Si les chrétiens vont tous à l'église le dimanche, leur lumière est-elle visible pour tout le monde, ou est-elle cachée derrière les murs?
 
+Si les chrétiens ne s'engagent pas dans leur communauté, leur lumière est-elle visible pour que tous les voient?
+
 ## Luck 5:29-32 Le dîner de Levi
 
 >   Luck 5:29-32 Ensuite, Levi a tenu un grand banquet pour Jésus chez lui, et une grande foule de collectionneurs d'impôts et d'autres mangeaient avec eux. Mais les pharisiens et les professeurs de la loi qui appartenaient à leur secte se sont plaints à ses disciples: «Pourquoi mangez-vous et buvez-vous avec des collectionneurs d'impôts et des pécheurs?» Jésus leur a répondu: «Ce n'est pas la santé qui a besoin d'un médecin, mais les malades. Je ne suis pas venu appeler les justes, mais les pécheurs au repentir.”

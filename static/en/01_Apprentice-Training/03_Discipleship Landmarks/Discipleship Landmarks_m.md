@@ -824,6 +824,8 @@ How can Christians hide their light?
 
 If Christians all go to church on Sundays, is their light visible for all to see, or is it hidden behind walls?
 
+If Christians don’t engage in their community, is their light visible for all to see?
+
 ## Luke 5:29-32 Levi's Dinner Party
 
 >   Luke 5:29-32 Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them. But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” Jesus answered them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance.”

@@ -159,7 +159,7 @@ Les groupes de découverte sont destinés à la sensibilisation. Ils sont très 
 
 Lors de la formation de nouveaux apprentis, démontrez d'abord ces étapes en utilisant un jeu de rôle, puis les amèner à jouer les étapes. Les nouveaux apprentis ajoutent généralement beaucoup de leurs propres mots et finissent par rendre les choses plus difficiles. Corrigez-les jusqu'à ce qu'ils le fassent exactement comme indiqué. Une fois qu'ils sont confiants, ils peuvent trouver leur propre style naturel.
 
-Jésus a dit: «Aimez-vous les uns les autres comme je vous ai aimé» donc lorsque nous partageons les histoires de Jésus, nous le faisons - de la même manière que Jésus nous aime - cœur à cœur, en leur apportant le Père.
+Jésus a dit: «Aimez-vous les uns les autres comme je vous ai aimé» donc lorsque nous partageons les histoires de Jésus, nous le faisons - de la même manière que Jésus nous aime - le cœur à cœur, leur apportant le Père.
 
 Lorsque vous partagez Jésus avec quelqu'un, nous avons une graine précieuse à planter dans son cœur. Nous devons le planter comme des graines - avec soin et amour, pas seulement vider une charge d'enseignement.
 
@@ -633,7 +633,7 @@ Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le 
 
 (**Écoutez Q's ** :) Avez-vous une idée de ce que signifie «ils ont parlé avec des langues et prophétisé»? Sinon, demandez à votre entraîneur de vous montrer dans la Bible.
 
-Certaines personnes disent que parler en langues est la preuve du baptême dans l'Esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
+Certaines personnes disent que parler en langues est la preuve du baptême dans l'esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
 
 >   1 Cor 12:7-11 Maintenant, à chacun, la manifestation de l'esprit est donnée pour le bien commun. À ** un ** il est donné par l'Esprit un message de sagesse, ** à un autre ** un message de connaissance par le même esprit, ** à une autre ** Fait interprétation des langues. Ce sont le travail d'un même esprit, et il les distribue à chacun, tout comme il le détermine.
 
@@ -823,6 +823,8 @@ Devise: Aimez-vous les uns les autres - allez faire des disciples
 Comment les chrétiens peuvent-ils cacher leur lumière?
 
 Si les chrétiens vont tous à l'église le dimanche, leur lumière est-elle visible pour tout le monde, ou est-elle cachée derrière les murs?
+
+Si les chrétiens ne s'engagent pas dans leur communauté, leur lumière est-elle visible pour que tous les voient?
 
 ## Luck 5:29-32 Le dîner de Levi
 

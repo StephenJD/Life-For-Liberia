@@ -39,7 +39,7 @@ Il y a quatre histoires dans cette formation. Vous devrez peut-être prendre le 
 
 (**Écoutez Q's ** :) Avez-vous une idée de ce que signifie «ils ont parlé avec des langues et prophétisé»? Sinon, demandez à votre entraîneur de vous montrer dans la Bible.
 
-Certaines personnes disent que parler en langues est la preuve du baptême dans l'Esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
+Certaines personnes disent que parler en langues est la preuve du baptême dans l'esprit - que si vous ne pouvez pas parler en langues, vous n'avez pas été baptisé dans le Saint-Esprit. Ce n'est pas ce que la Bible enseigne. Paul enseigne à ce sujet dans 1 Corinthiens 12:
 
 >   1 Cor 12:7-11 Maintenant, à chacun, la manifestation de l'esprit est donnée pour le bien commun. À ** un ** il est donné par l'Esprit un message de sagesse, ** à un autre ** un message de connaissance par le même esprit, ** à une autre ** Fait interprétation des langues. Ce sont le travail d'un même esprit, et il les distribue à chacun, tout comme il le détermine.
 
