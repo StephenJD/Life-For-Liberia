@@ -159,7 +159,7 @@ Les groupes de découverte sont destinés à la sensibilisation. Ils sont très 
 
 Lors de la formation de nouveaux apprentis, démontrez d'abord ces étapes en utilisant un jeu de rôle, puis les amèner à jouer les étapes. Les nouveaux apprentis ajoutent généralement beaucoup de leurs propres mots et finissent par rendre les choses plus difficiles. Corrigez-les jusqu'à ce qu'ils le fassent exactement comme indiqué. Une fois qu'ils sont confiants, ils peuvent trouver leur propre style naturel.
 
-Jésus a dit: «Aimez-vous les uns les autres comme je vous ai aimé» donc lorsque nous partageons les histoires de Jésus, nous le faisons - de la même manière que Jésus nous aime - le cœur à cœur, leur apportant le Père.
+Jésus a dit: «Aimez-vous les uns les autres comme je vous ai aimé» donc lorsque nous partageons les histoires de Jésus, nous le faisons - de la même manière que Jésus nous aime - cœur à cœur, en leur apportant le Père.
 
 Lorsque vous partagez Jésus avec quelqu'un, nous avons une graine précieuse à planter dans son cœur. Nous devons le planter comme des graines - avec soin et amour, pas seulement vider une charge d'enseignement.
 
@@ -429,7 +429,7 @@ Devise: Aimez-vous les uns les autres - allez faire des disciples
 
 >   John 16:13 Jésus a dit "L'Esprit de vérité vous guidera dans toute la vérité."
 
-**Erreur! Pas un lien valide.**
+(**Écoutez Q's ** :) Pourquoi n'avons-nous pas besoin d'un chef d'église pour diriger le groupe?
 
 (C'est pourquoi nous avons la règle «sans église»)
 

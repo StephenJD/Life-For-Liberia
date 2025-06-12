@@ -45,7 +45,7 @@ Devise: Aimez-vous les uns les autres - allez faire des disciples
 
 >   John 16:13 Jésus a dit "L'Esprit de vérité vous guidera dans toute la vérité."
 
-**Erreur! Pas un lien valide.**
+(**Écoutez Q's ** :) Pourquoi n'avons-nous pas besoin d'un chef d'église pour diriger le groupe?
 
 (C'est pourquoi nous avons la règle «sans église»)
 

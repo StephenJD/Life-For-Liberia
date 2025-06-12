@@ -45,7 +45,7 @@ Motto: Love one another – Go and make disciples
 
 >   John 16:13 Jesus said "The Spirit of truth will guide you into all the truth."
 
-**Error! Not a valid link.**
+(**Listen Q’s**:) Why don't we need a church leader to lead the group?
 
 (This is why we have the “No Church” rule)
 
