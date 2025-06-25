@@ -10,9 +10,9 @@ weight: 1
 | **Reference** | **Summary** | **Training** |
 |-------------------------|----------------------------------------------------------------------|----------------------------------------|
 |Key:||[E4](../12_evangelism-stories/e4-training-stories-from-luke_evangelism-stories_m)|
+|The most important thing is to open our spiritual ears to hear Jesus and our hearts to obey Jesus. Without that our 'house' will fall in a terrible destruction (Luke 6:49).||[S11](../07_simple-church/s11-becoming-a-missionary-training-school_simple-church_m)|
 |Surah 4:171|Allah has no offspring|[D2](../03_discipleship-landmarks/d2-listen_discipleship-landmarks_m)|
 |Surah 5:46|We gave Isa the Injil containing guidance and light|[D1](../03_discipleship-landmarks/d1-good-news_discipleship-landmarks_m)|
-|The most important thing is to open our spiritual ears to hear Jesus and our hearts to obey Jesus. Without that our 'house' will fall in a terrible destruction (Luke 6:49).||[S11](../07_simple-church/s11-becoming-a-missionary-training-school_simple-church_m)|
 |Surah 19:34|Isa is the Word of Truth|[D5](../03_discipleship-landmarks/d5-starting-new-groups_discipleship-landmarks_m)|
 |Surah 43:63|Isa said “Fear God, and obey me.”|[D3](../03_discipleship-landmarks/d3-obey_discipleship-landmarks_m)|
 |Genesis 1:1-25|Creation|[C1](../11_creation-to-christ/c1-creation_creation-to-christ_m)|
