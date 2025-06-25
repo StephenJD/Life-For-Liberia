@@ -1,3 +1,10 @@
+---
+title: Bonne nouvelle pour les musulmans
+type: document
+translationKey: Good News for Muslims
+summary: "Notre objectif est d'élever des disciples musulmans de Jésus. Notre approche est d'enseigner aux musulmans des histoires évangéliques à mémoriser et à réfléchir. Demandez-leur ce que Jésus leur dit à travers l'histoire et comment ils l'obéiront. Laissez Jésus faire son travail dans le cœur des gens."
+weight: 12
+---
 # Bonne nouvelle pour les musulmans
 
 Cela fait partie du G-path: ** g ** o aux nations.
