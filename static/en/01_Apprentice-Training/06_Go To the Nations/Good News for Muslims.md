@@ -36,11 +36,15 @@ Many desperately want to know God, but Allah is hidden and unreachable. He will 
 
 Many seek signs, visions, dreams, understanding, healing.
 
+## Surah 5:82 Christians devoted to learning
+
 >   "You are sure to find those closest in affection towards the believers are those who say, “We are Christians”, for there are among them those devoted to learning and ascetics. These people are not given to arrogance…" (Surah 5:82)
 
 ### The Death of Jesus
 
 The Qur'an denies the death of Jesus on the cross:
+
+## Surah 4:157 Jesus not crucified
 
 >   And for their saying, “We have killed the Messiah, Jesus, the son of Mary, the Messenger of God.” In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they did. (Surah 4:157)
 
@@ -68,6 +72,10 @@ Jesus is mentioned 93 times in 15 suras.
 
 The Qur'an tells the story of John the Baptist's conception (Surah 3:35-41) and Jesus' conception (Surah 3:42-47).
 
+## Surah 3:42-47 Jesus’ conception and witness
+
+>   The angels said, “O Mary, God has chosen you, and has purified you. He has chosen you over all the women of the world. O Mary, be devoted to your Lord, and bow down, and kneel with those who kneel.” These are accounts from the Unseen, which We reveal to you. You were not with them when they cast their lots as to which of them would take charge of Mary; nor were you with them as they quarreled. The Angels said, “O Mary, God gives you good news of a Word from Him. His name is the Messiah, Jesus, son of Mary, well-esteemed in this world and the next, and one of the nearest. He will speak to the people from the crib, and in adulthood, and will be one of the righteous.” She said, “My Lord, how can I have a child, when no man has touched me?” He said, “It will be so. God creates whatever He wills. To have anything done, He only says to it, ‘Be,’ and it is.” And He will teach him the Scripture and wisdom, and the Torah and the Gospel. A messenger to the Children of Israel: “I have come to you with a sign from your Lord. I make for you out of clay the figure of a bird; then I breathe into it, and it becomes a bird by God’s leave. And I heal the blind and the leprous, and I revive the dead, by God’s leave. And I inform you concerning what you eat, and what you store in your homes. In that is a sign for you, if you are believers. And verifying what lies before me of the Torah, and to make lawful for you some of what was forbidden to you. I have come to you with a sign from your Lord; so fear God, and obey me. God is my Lord and your Lord, so worship Him. That is a straight path.” When Jesus sensed disbelief on their part, he said, “Who are my allies towards God?” The disciples said, “We are God’s allies; we have believed in God, and bear witness that we submit. Our Lord, we have believed in what You have revealed, and we have followed the Messenger, so count us among the witnesses.” They planned, and God planned; but God is the Best of planners. God said, “O Jesus, I am terminating your life, and raising you to Me, and clearing you of those who disbelieve. And I will make those who follow you superior to those who disbelieve, until the Day of Resurrection. Then to Me is your return; then I will judge between you regarding what you were disputing.
+
 ### The Attraction of Islam
 
 Islam offers certainty, tradition, community and prayer. It is simple to understand and follow.
@@ -86,7 +94,11 @@ Fifth Pillar: Pilgrimage to Mecca once in lifetime.
 
 There is a strong belief in in the unalterable will of Allah, and that our lives are predestined in every detail. As God is all-knowing and all-powerful, everything that has happened and will happen in the universe—including sinful human behaviour—is not only known but commanded by him.
 
+## Surah 9:51 Life pre-destined
+
 >   "By no means can anything befall us but what God has destined for us" (Surah 9:51)
+
+## Surah 14:4 God misleads and guides
 
 >   "God misleads whom He will and whom He will He guides" (Surah 14:4)
 
@@ -95,6 +107,8 @@ This suggests that we are not morally responsible for our actions, as they are p
 Despite this, Muslims are taught that even though our actions are predetermined and unalterable, when we do good or evil we become morally responsible for those acts and will be judged accordingly.
 
 Muslims believe that sin is just our mistakes, not the result of an evil nature. On judgement day, our sins and good deeds are weighed up to decide our destiny.
+
+## Surah 18:2 Rewards for good deeds
 
 >   "The scripture (Qur'an) is good news to the believers who do good deeds" (Surah 18:2)
 
@@ -114,9 +128,15 @@ It is true that we do not have the full text of the gospels from when it was fir
 
 In several places the Qur'an says that God has confirmed to the "prophet" that the Torah and the Gospel which Muhammad had in his day are true:
 
+## Surah 2:136 We believe what was given to Jesus
+
 >   "We believe in God and what was given to Moses, David, Jesus and the prophets by their Lord.” (Surah 2:136)
 
+## Surah 3:3 He revealed the Torah and the Gospel
+
 >   "He has revealed to you O Prophet the Book in truth, **confirming** what came before it, as He revealed the Torah and **the Gospel**" (Surah 3:3)
+
+## Surah 4:136
 
 >   O believers! **Have faith in** Allah, His Messenger, the Book He has revealed to His Messenger, and **the Scriptures He revealed before**. Indeed, whoever denies Allah, His angels, His Books, His messengers, and the Last Day has clearly gone far astray. (Surah 4:136)
 
