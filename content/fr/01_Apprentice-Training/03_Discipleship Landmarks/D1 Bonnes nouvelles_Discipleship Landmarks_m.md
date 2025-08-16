@@ -63,7 +63,7 @@ Pourrions-nous commencer un petit groupe chez vous avec certains de vos amis pou
 
 ## Actes 26:18 De l'obscurité à la lumière
 
->   Actes 26:18 Jésus a dit: «Je vous les envoie pour ouvrir les yeux et les transformer de l'obscurité à la lumière, et de la puissance de Satan à Dieu, afin qu'ils puissent recevoir le pardon des péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
+>   Actes 26:18 Jésus a dit: «Je vous les envoie pour ouvrir les yeux et les transformer de l'obscurité à la lumière, et de la puissance de Satan à Dieu, afin qu'ils puissent recevoir le pardon des péchés et une place parmi ceux qui sont faits avec Dieu par la foi en moi.”
 
 (**Bonne nouvelle Q ** :) Qu'aimez-vous dans cette histoire?
 
@@ -71,7 +71,7 @@ Pourrions-nous commencer un petit groupe chez vous avec certains de vos amis pou
 
 Selon vous, qui a le droit de nous pardonner nos péchés?
 
-Que pensez-vous que cela signifie d'être «fait juste»?
+Que pensez-vous que cela signifie d'être «bien fait avec Dieu»?
 
 (**Obéissance Q ** :) Que pensez-vous que Jésus veut vous dire aujourd'hui?
 

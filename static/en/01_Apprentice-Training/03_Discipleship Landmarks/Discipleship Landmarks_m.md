@@ -261,7 +261,7 @@ Could we start a little group at your house with some of your friends to discuss
 
 ## Acts 26:18 From Darkness to Light
 
->   Acts 26:18 Jesus said “I am sending you to them to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are made righteous by faith in me.”
+>   Acts 26:18 Jesus said “I am sending you to them to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are made right with God by faith in me.”
 
 (**Good News Q**:) What do you like about this story?
 
@@ -269,7 +269,7 @@ Could we start a little group at your house with some of your friends to discuss
 
 Who do you think has the right to forgive us our sins?
 
-What do you think it means to be “made righteous”?
+What do you think it means to be “made right with God”?
 
 (**Obedience Q**:) What do you think Jesus wants to say to you today?
 

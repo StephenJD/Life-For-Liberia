@@ -201,7 +201,7 @@ Lorsque nous discutons d'un passage, nous vous demandons de limiter vos réponse
 
 ### 4. Aller à votre propre vitesse
 
-Il y a beaucoup de choses que Jésus peut nous enseigner à travers chacune de ces histoires, et suffisamment de temps et d'attention devraient être accordés à chaque histoire, avant de passer à la suivante. Si vous progressez trop rapidement sans vous assurer que les auditeurs sont obéissants à ce qu'ils apprennent, vous les entraînerez à être désobéissants! Ils penseront que l'audition ou la compréhension est tout ce qui compte et que l'obéissance est facultative.
+Il y a beaucoup de choses que Jésus peut nous enseigner à travers chacune de ces histoires, et suffisamment de temps et d'attention devraient être accordés à chaque histoire, avant de passer à la suivante. If you progress too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! Ils penseront que l'audition ou la compréhension est tout ce qui compte et que l'obéissance est facultative.
 
 Ne portez pas de gens avec des passages difficiles ou de longues réunions (1½ Les heures sont une durée de rencontre habituelle). Vous n'avez pas besoin de tout comprendre, laissez simplement des passages ou des histoires que vous trouvez trop difficiles.
 
@@ -261,7 +261,7 @@ Pourrions-nous commencer un petit groupe chez vous avec certains de vos amis pou
 
 ## Actes 26:18 De l'obscurité à la lumière
 
->   Actes 26:18 Jésus a dit: «Je vous les envoie pour ouvrir les yeux et les transformer de l'obscurité à la lumière, et de la puissance de Satan à Dieu, afin qu'ils puissent recevoir le pardon des péchés et une place parmi ceux qui sont rendus justes par la foi en moi.”
+>   Actes 26:18 Jésus a dit: «Je vous les envoie pour ouvrir les yeux et les transformer de l'obscurité à la lumière, et de la puissance de Satan à Dieu, afin qu'ils puissent recevoir le pardon des péchés et une place parmi ceux qui sont faits avec Dieu par la foi en moi.”
 
 (**Bonne nouvelle Q ** :) Qu'aimez-vous dans cette histoire?
 
@@ -269,7 +269,7 @@ Pourrions-nous commencer un petit groupe chez vous avec certains de vos amis pou
 
 Selon vous, qui a le droit de nous pardonner nos péchés?
 
-Que pensez-vous que cela signifie d'être «fait juste»?
+Que pensez-vous que cela signifie d'être «bien fait avec Dieu»?
 
 (**Obéissance Q ** :) Que pensez-vous que Jésus veut vous dire aujourd'hui?
 
@@ -785,7 +785,7 @@ Devise: Aimez-vous les uns les autres - allez faire des disciples
 
 ## Luck 4:18-19 Bonne nouvelle aux pauvres
 
->   Luck 4:18-19 Jésus a dit: «L'esprit du Seigneur est sur moi, car il m'a oint pour prêcher de bonnes nouvelles aux pauvres. Il m'a envoyé pour proclamer la liberté des prisonniers et le rétablissement de la vue pour les aveugles, pour libérer les opprimés, pour proclamer l'année de la faveur du Seigneur.”
+>   Luck 4:18-19 Jésus a dit: «L'esprit du Seigneur est sur moi, car il m'a oint pour prêcher de bonnes nouvelles aux pauvres. Il m'a envoyé pour proclamer la liberté pour les prisonniers et le rétablissement de la vue pour les aveugles, pour libérer les opprimés, pour proclamer l'année de la faveur du Seigneur.”
 
 ## Luck 9:1,6 Guérir les malades
 

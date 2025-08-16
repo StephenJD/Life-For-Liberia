@@ -15,7 +15,7 @@ Devise: Aimez-vous les uns les autres - allez faire des disciples
 
 ## Luck 4:18-19 Bonne nouvelle aux pauvres
 
->   Luck 4:18-19 Jésus a dit: «L'esprit du Seigneur est sur moi, car il m'a oint pour prêcher de bonnes nouvelles aux pauvres. Il m'a envoyé pour proclamer la liberté des prisonniers et le rétablissement de la vue pour les aveugles, pour libérer les opprimés, pour proclamer l'année de la faveur du Seigneur.”
+>   Luck 4:18-19 Jésus a dit: «L'esprit du Seigneur est sur moi, car il m'a oint pour prêcher de bonnes nouvelles aux pauvres. Il m'a envoyé pour proclamer la liberté pour les prisonniers et le rétablissement de la vue pour les aveugles, pour libérer les opprimés, pour proclamer l'année de la faveur du Seigneur.”
 
 ## Luck 9:1,6 Guérir les malades
 

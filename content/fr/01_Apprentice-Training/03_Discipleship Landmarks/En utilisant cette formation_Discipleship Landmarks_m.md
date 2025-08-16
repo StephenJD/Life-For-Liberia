@@ -176,7 +176,7 @@ Lorsque nous discutons d'un passage, nous vous demandons de limiter vos réponse
 
 ### 4. Aller à votre propre vitesse
 
-Il y a beaucoup de choses que Jésus peut nous enseigner à travers chacune de ces histoires, et suffisamment de temps et d'attention devraient être accordés à chaque histoire, avant de passer à la suivante. Si vous progressez trop rapidement sans vous assurer que les auditeurs sont obéissants à ce qu'ils apprennent, vous les entraînerez à être désobéissants! Ils penseront que l'audition ou la compréhension est tout ce qui compte et que l'obéissance est facultative.
+Il y a beaucoup de choses que Jésus peut nous enseigner à travers chacune de ces histoires, et suffisamment de temps et d'attention devraient être accordés à chaque histoire, avant de passer à la suivante. If you progress too quickly without ensuring that the hearers are being obedient to what they are learning, you will train them to be disobedient! Ils penseront que l'audition ou la compréhension est tout ce qui compte et que l'obéissance est facultative.
 
 Ne portez pas de gens avec des passages difficiles ou de longues réunions (1½ Les heures sont une durée de rencontre habituelle). Vous n'avez pas besoin de tout comprendre, laissez simplement des passages ou des histoires que vous trouvez trop difficiles.
 
