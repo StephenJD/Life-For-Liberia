@@ -28,6 +28,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://kingdom-apprentices.net/:splat"
+  to = "https://:host/:splat"
   status = 301
   force = true
+  conditions = { Protocol = ["http"] }
