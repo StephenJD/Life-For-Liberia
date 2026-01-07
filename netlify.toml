@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "http://kingdom-apprentices.net/*"
+  to = "https://kingdom-apprentices.net/:splat"
+  status = 301
+  force = true
