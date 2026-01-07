@@ -1,6 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
+  image = "jammy"
 
 [build.environment]
   HUGO_VERSION = "0.78.2"
@@ -26,7 +27,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "http://kingdom-apprentices.net/*"
+  from = "/*"
   to = "https://kingdom-apprentices.net/:splat"
   status = 301
   force = true
